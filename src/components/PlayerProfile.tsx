@@ -21,7 +21,7 @@ export function PlayerProfile({ player, onBack, onVoterClick }: PlayerProfilePro
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/data/players.json")
+    fetch("./data/players.json")
       .then((res) => res.json())
       .then((allPlayers) => setData(allPlayers[player] || null))
       .finally(() => setLoading(false));
