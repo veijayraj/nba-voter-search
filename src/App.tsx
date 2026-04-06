@@ -31,6 +31,7 @@ function App() {
 
   useEffect(() => {
     let cancelled = false;
+    setLoading(true);
     fetchAwardData(year, award).then((result) => {
       if (!cancelled) {
         setData(result);
@@ -42,8 +43,8 @@ function App() {
 
   const handleFilterChange = useCallback((field: string, value: string) => {
     switch (field) {
-      case "year": setYear(value); setLoading(true); break;
-      case "award": setAward(value); setLoading(true); break;
+      case "year": setYear(value); break;
+      case "award": setAward(value); break;
       case "voterSearch": setVoterSearch(value); break;
       case "playerSearch": setPlayerSearch(value); break;
     }
@@ -74,31 +75,79 @@ function App() {
 
   if (view.type === "voter") {
     return (
-      <div className="app">
-        <VoterProfile voter={view.name} onBack={handleBack} onPlayerClick={handlePlayerClick} />
-      </div>
+      <VoterProfile voter={view.name} onBack={handleBack} onPlayerClick={handlePlayerClick} />
     );
   }
 
   if (view.type === "player") {
     return (
-      <div className="app">
-        <PlayerProfile player={view.name} onBack={handleBack} onVoterClick={handleVoterClick} />
-      </div>
+      <PlayerProfile player={view.name} onBack={handleBack} onVoterClick={handleVoterClick} />
     );
   }
 
   return (
     <div className="app">
-      <h1>NBA Award Voter Database</h1>
-      <Filters year={year} award={award} voterSearch={voterSearch} playerSearch={playerSearch} onChange={handleFilterChange} />
-      {loading && <p>Loading...</p>}
-      {data && (
-        <>
-          <p className="results-count">{filteredVotes.length} of {data.votes.length} votes</p>
-          <VoteTable votes={filteredVotes} award={award} voterSearch={voterSearch} playerSearch={playerSearch} onVoterClick={handleVoterClick} onPlayerClick={handlePlayerClick} />
-        </>
-      )}
+      <div className="app-container">
+        <div style={{ marginBottom: 'var(--spacing-2xl)' }}>
+          <h1>NBA Award Voter Database</h1>
+          <p style={{ color: 'var(--text-secondary)', marginBottom: 0 }}>
+            Explore voting patterns from 2018 to present
+          </p>
+        </div>
+
+        <Filters 
+          year={year} 
+          award={award} 
+          voterSearch={voterSearch} 
+          playerSearch={playerSearch} 
+          onChange={handleFilterChange}
+        />
+
+        {loading ? (
+          <div className="loading">
+            <div className="loader"></div>
+            Loading award data...
+          </div>
+        ) : data ? (
+          <>
+            {filteredVotes.length > 0 ? (
+              <>
+                <div className="results-count">
+                  <strong>{filteredVotes.length}</strong> of <strong>{data.votes.length}</strong> votes displayed
+                </div>
+                <VoteTable 
+                  votes={filteredVotes} 
+                  award={award} 
+                  voterSearch={voterSearch} 
+                  playerSearch={playerSearch} 
+                  onVoterClick={handleVoterClick} 
+                  onPlayerClick={handlePlayerClick} 
+                />
+              </>
+            ) : (
+              <div style={{ 
+                background: 'var(--bg-primary)',
+                padding: 'var(--spacing-2xl)',
+                borderRadius: 'var(--radius-lg)',
+                textAlign: 'center',
+                color: 'var(--text-tertiary)'
+              }}>
+                <p style={{ marginBottom: 0 }}>No votes match your search criteria.</p>
+              </div>
+            )}
+          </>
+        ) : (
+          <div style={{ 
+            background: 'var(--bg-primary)',
+            padding: 'var(--spacing-2xl)',
+            borderRadius: 'var(--radius-lg)',
+            textAlign: 'center',
+            color: 'var(--text-tertiary)'
+          }}>
+            <p style={{ marginBottom: 0 }}>Unable to load data. Please try again.</p>
+          </div>
+        )}
+      </div>
     </div>
   );
 }
