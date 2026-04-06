@@ -1,0 +1,2086 @@
+{
+  "year": "2025",
+  "award": "ROY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        }
+      ]
+    }
+  ]
+}

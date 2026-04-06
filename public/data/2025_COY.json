@@ -1,0 +1,2086 @@
+{
+  "year": "2025",
+  "award": "COY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    }
+  ]
+}

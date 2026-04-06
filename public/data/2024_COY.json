@@ -1,0 +1,2086 @@
+{
+  "year": "2024",
+  "award": "COY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Evan Barnes",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Erik Spoelstra",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Cato",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ignacio Garcia",
+      "affiliation": "MARCA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Rick Carlisle",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Erik Spoelstra",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Rick Carlisle",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "ESPN (China)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Mitchell Fuentes",
+      "affiliation": "Cignal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "SHO",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chiney Ogwumike",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Michael Malone",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Brad Townsend",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jason Kidd",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kristian Winfield",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Finch",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ime Udoka",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamahl Mosley",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tom Thibodeau",
+          "playerTeam": "NYK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2107 @@
+{
+  "year": "2022",
+  "award": "6MOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Antoine Bancharel",
+      "affiliation": "L'Equipe / Canal+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Renjun Bao",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyus Jones",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Callie Caplan",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Clevleand.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Brandon Clarke",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Herring",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Drew Hill",
+      "affiliation": "Daily Memphian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Hsu",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Maxi Kleber",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "K.C. Johnson",
+      "affiliation": "NBC Sports Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Kirschner",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Kushner",
+      "affiliation": "New Orleans Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Bogdan Bogdanovic",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Martinez",
+      "affiliation": "Reforma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Montrezl Harrell",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Mussatto",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Anthony Melton",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Bogdan Bogdanovic",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Kennard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bogdan Bogdanovic",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sport (France)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Bogdan Bogdanovic",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Immanuel Quickley",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Guillermo Schutz",
+      "affiliation": "Televisa (TUDN)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Anthony Melton",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Harris Stavrou",
+      "affiliation": "Sport24",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Daisuke Sugiura",
+      "affiliation": "Nihon Keizai Shimbun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Christos Tsaltas",
+      "affiliation": "SDNA.gr",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Immanuel Quickley",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Walden",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kelly Oubre Jr.",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kristian Winfield",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Anthony Melton",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cameron Johnson",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Anthony Melton",
+          "playerTeam": "MEM"
+        }
+      ]
+    }
+  ]
+}

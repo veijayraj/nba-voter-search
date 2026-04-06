@@ -1,0 +1,2086 @@
+{
+  "year": "2024",
+  "award": "DPOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jrue Holiday",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Evan Barnes",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Cato",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ignacio Garcia",
+      "affiliation": "MARCA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Domantas Sabonis",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Suggs",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jrue Holiday",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jrue Holiday",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "ESPN (China)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Mitchell Fuentes",
+      "affiliation": "Cignal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "SHO",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chiney Ogwumike",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jarrett Allen",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Caruso",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Brad Townsend",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Herbert Jones",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kristian Winfield",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2086 @@
+{
+  "year": "2025",
+  "award": "6MOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Alex Caruso",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ty Jerome",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Malik Beasley",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Andre Hunter",
+          "playerTeam": "CLE"
+        }
+      ]
+    }
+  ]
+}

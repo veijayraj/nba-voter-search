@@ -1,0 +1,3138 @@
+{
+  "year": "2021",
+  "award": "MVP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Marv Albert",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Evan Barnes",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta Dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Mauricio Codocea",
+      "affiliation": "Clarin (Argentina)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jamal Collier",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "NBA Fan Vote",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Derrick Rose",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Goon",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Max Haupt",
+      "affiliation": "DPA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "4th",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Hsu",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Kirschner",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Kushner",
+      "affiliation": "New Orleans Times Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Martinez",
+      "affiliation": "Reforma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Mussatto",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "James Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Roy Parry",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer and Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "Gazzetta.it",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Guillermo Schutz",
+      "affiliation": "Televisa (TUDN)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Daisuke Sugiura",
+      "affiliation": "Nihon Keizai Shimbun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Mirjam Swanson",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Brad Townsend",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Christos Tsaltas",
+      "affiliation": "SDNA.gr",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Olgun Uluc",
+      "affiliation": "ESPN Australia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "4th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "5th",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "4th",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        }
+      ]
+    }
+  ]
+}

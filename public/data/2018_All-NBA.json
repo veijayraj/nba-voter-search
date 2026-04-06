@@ -1,0 +1,8107 @@
+{
+  "year": "2018",
+  "award": "All-NBA",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "Ailene Voisin",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Amin Elhassan",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Andrew Sharp",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Brett Dawson",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chase Hughes",
+      "affiliation": "NBCSportsWashington.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Steven Adams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Yahoo!",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Webber",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Clifton Brown",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Connor Letourneau",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Trevor Ariza",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Mart\u00ednez Cabrera",
+      "affiliation": "Peri\u00f3dico Reforma",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Elliott Teaford",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Gina Mizell",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Logan",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "NBC Sports Northwest",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express\u2010News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Cowley",
+      "affiliation": "Chicago Sun\u2010Times",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "KC Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMarcus Cousins",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Lee Jenkins",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Shen Yang",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Manny Navarro",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Velazquez",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Steven Adams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Michelle Beadle",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kevin Love",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Nira Khurana",
+      "affiliation": "Excelsior",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Flannery",
+      "affiliation": "SB Nation",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Reggie Miller",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Walker",
+      "affiliation": "Gaston Gazette",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Rosalyn Gold\u2010Onwude",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Bordow",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "NBC Sports Boston",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Thales Soares",
+      "affiliation": "Globoesporte.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Dwight Howard",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "TJ Manotoc",
+      "affiliation": "ABS\u2010CBN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Vincent Goodwill",
+      "affiliation": "NBC Sports Chicago",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Weiping Zhang",
+      "affiliation": "CCTV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "New Orleans Times\u2010Picayune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Xavier Vaution",
+      "affiliation": "BeIn Sport",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl\u2010Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2107 @@
+{
+  "year": "2023",
+  "award": "MIP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Eduardo Barao",
+      "affiliation": "BAND",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevon Looney",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "PBWA/GQ",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Monk",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Callie Caplan",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Jamal Collier",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Trey Murphy III",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Max Haupt",
+      "affiliation": "DPA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Herring",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Madeline Kenney",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Mussatto",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Showtime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "James Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Trey Murphy III",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "De'Aaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Aaron Gordon",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trey Murphy III",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Trey Murphy III",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "David Villafranca",
+      "affiliation": "EFE News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nic Claxton",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Mikal Bridges",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Lauri Markkanen",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    }
+  ]
+}

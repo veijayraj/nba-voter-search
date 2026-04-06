@@ -1,0 +1,2086 @@
+{
+  "year": "2025",
+  "award": "CLUTCH",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    }
+  ]
+}

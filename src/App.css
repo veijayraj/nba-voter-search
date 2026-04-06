@@ -1,0 +1,242 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+h1 {
+  margin-bottom: 16px;
+  font-size: 1.5rem;
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.filters select,
+.filters input {
+  padding: 10px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: white;
+  color: #333;
+  min-width: 0;
+  flex: 1;
+  min-width: 140px;
+}
+
+.filters select:focus,
+.filters input:focus {
+  outline: none;
+  border-color: #1d4ed8;
+  box-shadow: 0 0 0 2px rgba(29, 78, 216, 0.2);
+}
+
+/* Results count */
+.results-count {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 12px;
+}
+
+/* Desktop table */
+.vote-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.vote-table th,
+.vote-table td {
+  border: 1px solid #ddd;
+  padding: 10px 8px;
+  text-align: left;
+}
+
+.vote-table th {
+  background: #f5f5f5;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+}
+
+.vote-table tr:hover {
+  background: #f9f9f9;
+}
+
+/* Highlight */
+mark {
+  background: #fef08a;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* Mobile cards */
+.vote-cards {
+  display: none;
+}
+
+.vote-card {
+  background: white;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.vote-card-header {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.vote-card-affiliation {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.vote-card-picks {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.vote-card-pick {
+  display: flex;
+  gap: 8px;
+  font-size: 0.875rem;
+}
+
+.vote-card-pick-place {
+  color: #666;
+  min-width: 28px;
+}
+
+/* Clickable voter name */
+.voter-link {
+  color: #1d4ed8;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.voter-link:hover {
+  text-decoration: underline;
+}
+
+/* Mobile breakpoint */
+@media (max-width: 768px) {
+  .vote-table-wrapper {
+    display: none;
+  }
+  
+  .vote-cards {
+    display: block;
+  }
+  
+  .filters {
+    flex-direction: column;
+  }
+  
+  .filters select,
+  .filters input {
+    width: 100%;
+  }
+}
+
+/* Back button */
+.back-button {
+  background: none;
+  border: 1px solid #ddd;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.back-button:hover {
+  background: #f5f5f5;
+}
+
+/* Voter Profile */
+.voter-profile h1 {
+  margin-bottom: 4px;
+}
+
+.voter-affiliations {
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.voter-stats {
+  font-size: 0.875rem;
+  color: #888;
+  margin-bottom: 24px;
+}
+
+.voter-year {
+  margin-bottom: 24px;
+}
+
+.voter-year h2 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.voter-year-votes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+
+.voter-ballot {
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.voter-ballot h3 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #1d4ed8;
+}
+
+.voter-picks {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.voter-pick {
+  display: flex;
+  gap: 8px;
+  font-size: 0.875rem;
+}
+
+.voter-pick-place {
+  color: #666;
+  min-width: 32px;
+}
+
+.voter-pick-player {
+  flex: 1;
+}
+
+.voter-pick-team {
+  color: #888;
+}
+
+@media (max-width: 768px) {
+  .voter-year-votes {
+    grid-template-columns: 1fr;
+  }
+}

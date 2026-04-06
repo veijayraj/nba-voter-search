@@ -1,0 +1,2107 @@
+{
+  "year": "2023",
+  "award": "ROY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Eduardo Barao",
+      "affiliation": "BAND",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "PBWA/GQ",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Callie Caplan",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Jamal Collier",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Max Haupt",
+      "affiliation": "DPA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Herring",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Madeline Kenney",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Mussatto",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Showtime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "James Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "David Villafranca",
+      "affiliation": "EFE News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    }
+  ]
+}

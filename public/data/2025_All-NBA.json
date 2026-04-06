@@ -1,0 +1,8026 @@
+{
+  "year": "2025",
+  "award": "All-NBA",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Domantas Sabonis",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Domantas Sabonis",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Pascal Siakam",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Pascal Siakam",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Pascal Siakam",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Domantas Sabonis",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Pascal Siakam",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Domantas Sabonis",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Darius Garland",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Haliburton",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Alperen Sengun",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    }
+  ]
+}

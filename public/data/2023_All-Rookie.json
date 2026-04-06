@@ -1,0 +1,5607 @@
+{
+  "year": "2023",
+  "award": "All-Rookie",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Eduardo Barao",
+      "affiliation": "BAND",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylin Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "MarJon Beauchamp",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Malaki Branham",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Hardy",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "PBWA/GQ",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Malaki Branham",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Callie Caplan",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jamal Collier",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Max Haupt",
+      "affiliation": "DPA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Malaki Branham",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Herring",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mark Williams",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylin Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Madeline Kenney",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Hardy",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "ESPN Tencent",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Mussatto",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Showtime",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "James Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylin Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylin Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Hardy",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mark Williams",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Hardy",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylin Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tari Eason",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "David Villafranca",
+      "affiliation": "EFE News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylin Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Nembhard",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bennedict Mathurin",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paolo Banchero",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Walker Kessler",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaden Ivey",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keegan Murray",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jabari Smith Jr.",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremy Sochan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shaedon Sharpe",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "AJ Griffin",
+          "playerTeam": "ATL"
+        }
+      ]
+    }
+  ]
+}

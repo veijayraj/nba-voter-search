@@ -1,0 +1,2128 @@
+{
+  "year": "2018",
+  "award": "DPOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Ailene Voisin",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Amin Elhassan",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Andrew Sharp",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brett Dawson",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chase Hughes",
+      "affiliation": "NBCSportsWashington.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Brown",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Yahoo!",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Webber",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Clifton Brown",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Connor Letourneau",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Robert Covington",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Mart\u00ednez Cabrera",
+      "affiliation": "Peri\u00f3dico Reforma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Robert Covington",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Elliott Teaford",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Steven Adams",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Gina Mizell",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Logan",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "NBC Sports Northwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express\u2010News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Cowley",
+      "affiliation": "Chicago Sun\u2010Times",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jrue Holiday",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Robert Covington",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "KC Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jusuf Nurkic",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Lee Jenkins",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Shen Yang",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Manny Navarro",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaylen Brown",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Velazquez",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Robert Covington",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michelle Beadle",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "NBA Fan Vote",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Nira Khurana",
+      "affiliation": "Excelsior",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Flannery",
+      "affiliation": "SB Nation",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Jrue Holiday",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Robert Covington",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Reggie Miller",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Robert Covington",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Walker",
+      "affiliation": "Gaston Gazette",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Rosalyn Gold\u2010Onwude",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Oladipo",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Bordow",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jrue Holiday",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "NBC Sports Boston",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Brown",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Thales Soares",
+      "affiliation": "Globoesporte.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "TJ Manotoc",
+      "affiliation": "ABS\u2010CBN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Vincent Goodwill",
+      "affiliation": "NBC Sports Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Weiping Zhang",
+      "affiliation": "CCTV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "New Orleans Times\u2010Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Xavier Vaution",
+      "affiliation": "BeIn Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Paul George",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    }
+  ]
+}

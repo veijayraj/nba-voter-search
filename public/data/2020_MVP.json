@@ -1,0 +1,3138 @@
+{
+  "year": "2020",
+  "award": "MVP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Marv Albert",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Antoine Bancharel",
+      "affiliation": "Canal+ Afrique",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Renjun Bao",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Evan Barnes",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Cowley",
+      "affiliation": "Chicago Sun-Times",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Amin Elhassan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Hine",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Erik Horne",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Hsu",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jones",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Kirschner",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Nick Kosmider",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Connor Letourneau",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Logan",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Coral Lu",
+      "affiliation": "ESPN-Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Malet",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Martinez",
+      "affiliation": "Reforma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "NBA Fan Vote",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer and Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "4th",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "5th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sport (France)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta Dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sasaki",
+      "affiliation": "Rakuten",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Casey Stern",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Mirjam Swanson",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Brad Townsend",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Velazquez",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "5th",
+          "player": "Pascal Siakam",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2086 @@
+{
+  "year": "2024",
+  "award": "CLUTCH",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Evan Barnes",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Cato",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ignacio Garcia",
+      "affiliation": "MARCA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Malik Monk",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "ESPN (China)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Mitchell Fuentes",
+      "affiliation": "Cignal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "SHO",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chiney Ogwumike",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brad Townsend",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "De'Aaron Fox",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kristian Winfield",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar Derozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    }
+  ]
+}

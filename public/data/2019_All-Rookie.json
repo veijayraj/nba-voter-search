@@ -1,0 +1,5607 @@
+{
+  "year": "2019",
+  "award": "All-Rookie",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "Scott Agness",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bruce Brown",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Michelle Beadle",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "A. Sherrod Blakely",
+      "affiliation": "NBC Sports Boston",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Campbell",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "David Cobb",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Amin Elhassan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Flannery",
+      "affiliation": "SB Nation",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Reid Forgrave",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Rosalyn Gold-Onwude",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Erik Horne",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Hsu",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Miles Bridges",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "K.C. Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jones",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Nira Khurana",
+      "affiliation": "Perform",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kennegh Lau",
+      "affiliation": "BesTV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Miles Bridges",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Harry Giles III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Massimo Lopes Pegna",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tim MacMahon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Malet",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Martinez",
+      "affiliation": "Reforma",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Aaron Holiday",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Reggie Miller",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inqurier and Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bruce Brown",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Miles Bridges",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Guillermo Schutz",
+      "affiliation": "Televisa",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Andrew Sharp",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Casey Stern",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Miles Bridges",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Mirjam Swanson",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Okogie",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Olgun Uluc",
+      "affiliation": "Fox Sports Australia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rodions Kurucs",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Velazquez",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Voigt",
+      "affiliation": "DAZN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Walker",
+      "affiliation": "Gaston Gazette",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mo Bamba",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Miles Bridges",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Woodyard",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wendell Carter Jr.",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Knox",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Huerter",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Allonzo Trier",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Weiping Zhang",
+      "affiliation": "CCTV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Mikal Bridges",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Deandre Ayton",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marvin Bagley III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Sexton",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Landry Shamet",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Harry Giles III",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        }
+      ]
+    }
+  ]
+}

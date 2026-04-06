@@ -1,0 +1,5551 @@
+{
+  "year": "2025",
+  "award": "All-Rookie",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tristan da Silva",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jamal Shead",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Quinten Post",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justin Edwards",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Quinten Post",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Quinten Post",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyshawn George",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rob Dillingham",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Quinten Post",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jamal Shead",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jared McCain",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Filipowski",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ryan Dunn",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dalton Knecht",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Isaiah Collier",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ronald Holland II",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zach Edey",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Zaccharie Risacher",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Alex Sarr",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Wells",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Matas Buzelis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bub Carrington",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Clingan",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Yves Missi",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kel'el Ware",
+          "playerTeam": "MIA"
+        }
+      ]
+    }
+  ]
+}
