@@ -31,7 +31,7 @@ export function VoterProfile({ voter, onBack, onPlayerClick }: VoterProfileProps
   const [isRankOpen, setIsRankOpen] = useState(false);
 
   useEffect(() => {
-    fetch("/data/voters.json")
+    fetch("./data/voters.json")
       .then((res) => res.json())
       .then((allVoters) => setData(allVoters[voter] || null))
       .finally(() => setLoading(false));
