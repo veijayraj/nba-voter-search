@@ -1,0 +1,2086 @@
+{
+  "year": "2025",
+  "award": "DPOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaren Jackson Jr.",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Luguentz Dort",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    }
+  ]
+}

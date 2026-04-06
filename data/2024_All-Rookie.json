@@ -1,0 +1,5551 @@
+{
+  "year": "2024",
+  "award": "All-Rookie",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Evan Barnes",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Cato",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Duop Reath",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Black",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ignacio Garcia",
+      "affiliation": "MARCA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cam Whitmore",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Vasilije Micic",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "ESPN (China)",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Mitchell Fuentes",
+      "affiliation": "Cignal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jordan Hawkins",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Gradey Dick",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "SHO",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chiney Ogwumike",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Gradey Dick",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jordan Hawkins",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Duop Reath",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cam Whitmore",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Gradey Dick",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Brad Townsend",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marcus Sasser",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cam Whitmore",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kristian Winfield",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trayce Jackson-Davis",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "GG Jackson, GG",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "Okahoma City"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandon Miller",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Brandin Podziemski",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scoot Henderson",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Keyonte George",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dereck Lively II",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bilal Coulibaly",
+          "playerTeam": "WAS"
+        }
+      ]
+    }
+  ]
+}

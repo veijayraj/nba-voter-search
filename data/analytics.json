@@ -1,0 +1,2747 @@
+{
+  "overall": {
+    "total_voters": 233,
+    "total_players": 389,
+    "total_ballots": 7491,
+    "years_covered": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "year_range": "2018-2025"
+  },
+  "mvp_summary": [
+    {
+      "year": "2025",
+      "num_voters": 99,
+      "winner": "Shai Gilgeous-Alexander",
+      "winner_share": 91.2,
+      "winner_first_place": 70,
+      "runner_up": "Nikola Joki\u0107",
+      "runner_up_share": 78.8,
+      "margin": 12.4,
+      "top_5": [
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "points": 903,
+          "vote_share": 91.2,
+          "first_place_votes": 70
+        },
+        {
+          "player": "Nikola Joki\u0107",
+          "points": 780,
+          "vote_share": 78.8,
+          "first_place_votes": 29
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 465,
+          "vote_share": 47.0,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Jayson Tatum",
+          "points": 308,
+          "vote_share": 31.1,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Donovan Mitchell",
+          "points": 74,
+          "vote_share": 7.5,
+          "first_place_votes": 0
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "num_voters": 99,
+      "winner": "Nikola Jokic",
+      "winner_share": 93.5,
+      "winner_first_place": 79,
+      "runner_up": "Shai Gilgeous-Alexander",
+      "runner_up_share": 64.6,
+      "margin": 28.9,
+      "top_5": [
+        {
+          "player": "Nikola Jokic",
+          "points": 926,
+          "vote_share": 93.5,
+          "first_place_votes": 79
+        },
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "points": 640,
+          "vote_share": 64.6,
+          "first_place_votes": 15
+        },
+        {
+          "player": "Luka Doncic",
+          "points": 566,
+          "vote_share": 57.2,
+          "first_place_votes": 4
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 192,
+          "vote_share": 19.4,
+          "first_place_votes": 1
+        },
+        {
+          "player": "Jalen Brunson",
+          "points": 142,
+          "vote_share": 14.3,
+          "first_place_votes": 0
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "num_voters": 100,
+      "winner": "Joel Embiid",
+      "winner_share": 91.5,
+      "winner_first_place": 73,
+      "runner_up": "Nikola Jokic",
+      "runner_up_share": 67.4,
+      "margin": 24.1,
+      "top_5": [
+        {
+          "player": "Joel Embiid",
+          "points": 915,
+          "vote_share": 91.5,
+          "first_place_votes": 73
+        },
+        {
+          "player": "Nikola Jokic",
+          "points": 674,
+          "vote_share": 67.4,
+          "first_place_votes": 15
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 606,
+          "vote_share": 60.6,
+          "first_place_votes": 12
+        },
+        {
+          "player": "Jayson Tatum",
+          "points": 280,
+          "vote_share": 28.0,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Shai Gilgeous-Alexander",
+          "points": 46,
+          "vote_share": 4.6,
+          "first_place_votes": 0
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "num_voters": 100,
+      "winner": "Nikola Jokic",
+      "winner_share": 85.5,
+      "winner_first_place": 63,
+      "runner_up": "Joel Embiid",
+      "runner_up_share": 70.6,
+      "margin": 14.9,
+      "top_5": [
+        {
+          "player": "Nikola Jokic",
+          "points": 855,
+          "vote_share": 85.5,
+          "first_place_votes": 63
+        },
+        {
+          "player": "Joel Embiid",
+          "points": 706,
+          "vote_share": 70.6,
+          "first_place_votes": 26
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 595,
+          "vote_share": 59.5,
+          "first_place_votes": 9
+        },
+        {
+          "player": "Devin Booker",
+          "points": 216,
+          "vote_share": 21.6,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Luka Doncic",
+          "points": 146,
+          "vote_share": 14.6,
+          "first_place_votes": 0
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "num_voters": 101,
+      "winner": "Nikola Jokic",
+      "winner_share": 96.1,
+      "winner_first_place": 91,
+      "runner_up": "Joel Embiid",
+      "runner_up_share": 58.0,
+      "margin": 38.1,
+      "top_5": [
+        {
+          "player": "Nikola Jokic",
+          "points": 971,
+          "vote_share": 96.1,
+          "first_place_votes": 91
+        },
+        {
+          "player": "Joel Embiid",
+          "points": 586,
+          "vote_share": 58.0,
+          "first_place_votes": 1
+        },
+        {
+          "player": "Stephen Curry",
+          "points": 453,
+          "vote_share": 44.9,
+          "first_place_votes": 5
+        },
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 348,
+          "vote_share": 34.5,
+          "first_place_votes": 1
+        },
+        {
+          "player": "Chris Paul",
+          "points": 139,
+          "vote_share": 13.8,
+          "first_place_votes": 2
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "num_voters": 101,
+      "winner": "Giannis Antetokounmpo",
+      "winner_share": 95.2,
+      "winner_first_place": 85,
+      "runner_up": "LeBron James",
+      "runner_up_share": 74.6,
+      "margin": 20.6,
+      "top_5": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 962,
+          "vote_share": 95.2,
+          "first_place_votes": 85
+        },
+        {
+          "player": "LeBron James",
+          "points": 753,
+          "vote_share": 74.6,
+          "first_place_votes": 16
+        },
+        {
+          "player": "James Harden",
+          "points": 367,
+          "vote_share": 36.3,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Luka Doncic",
+          "points": 200,
+          "vote_share": 19.8,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Kawhi Leonard",
+          "points": 168,
+          "vote_share": 16.6,
+          "first_place_votes": 0
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "num_voters": 101,
+      "winner": "Giannis Antetokounmpo",
+      "winner_share": 93.2,
+      "winner_first_place": 78,
+      "runner_up": "James Harden",
+      "runner_up_share": 76.8,
+      "margin": 16.4,
+      "top_5": [
+        {
+          "player": "Giannis Antetokounmpo",
+          "points": 941,
+          "vote_share": 93.2,
+          "first_place_votes": 78
+        },
+        {
+          "player": "James Harden",
+          "points": 776,
+          "vote_share": 76.8,
+          "first_place_votes": 23
+        },
+        {
+          "player": "Paul George",
+          "points": 356,
+          "vote_share": 35.2,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Nikola Jokic",
+          "points": 212,
+          "vote_share": 21.0,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Stephen Curry",
+          "points": 175,
+          "vote_share": 17.3,
+          "first_place_votes": 0
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "num_voters": 101,
+      "winner": "James Harden",
+      "winner_share": 95.5,
+      "winner_first_place": 86,
+      "runner_up": "LeBron James",
+      "runner_up_share": 73.1,
+      "margin": 22.4,
+      "top_5": [
+        {
+          "player": "James Harden",
+          "points": 965,
+          "vote_share": 95.5,
+          "first_place_votes": 86
+        },
+        {
+          "player": "LeBron James",
+          "points": 738,
+          "vote_share": 73.1,
+          "first_place_votes": 15
+        },
+        {
+          "player": "Anthony Davis",
+          "points": 445,
+          "vote_share": 44.1,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Damian Lillard",
+          "points": 207,
+          "vote_share": 20.5,
+          "first_place_votes": 0
+        },
+        {
+          "player": "Russell Westbrook",
+          "points": 76,
+          "vote_share": 7.5,
+          "first_place_votes": 0
+        }
+      ]
+    }
+  ],
+  "most_unanimous_mvp": {
+    "player": "Nikola Jokic",
+    "year": "2021",
+    "vote_share": 96.1,
+    "first_place_votes": 91,
+    "total_voters": 101
+  },
+  "closest_mvp_race": {
+    "year": "2025",
+    "winner": "Shai Gilgeous-Alexander",
+    "winner_share": 91.2,
+    "runner_up": "Nikola Joki\u0107",
+    "runner_up_share": 78.8,
+    "margin": 12.4
+  },
+  "fan_vote": {
+    "years_active": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "total_disagreements": 2,
+    "disagreements": [
+      {
+        "year": "2020",
+        "award": "MVP",
+        "fan_pick": "LeBron James",
+        "media_pick": "Giannis Antetokounmpo"
+      },
+      {
+        "year": "2021",
+        "award": "MVP",
+        "fan_pick": "Derrick Rose",
+        "media_pick": "Nikola Jokic"
+      }
+    ]
+  },
+  "voter_tenure": {
+    "longest_tenure": {
+      "voter": "Bill Simmons",
+      "years": 8,
+      "year_list": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ]
+    },
+    "most_ballots": {
+      "voter": "Jeff Zillgitt",
+      "count": 77
+    }
+  },
+  "lone_wolf_votes": [
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Nikola Mirotic",
+      "place": "2nd",
+      "voter": "Brent Barry"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Dwyane Wade",
+      "place": "2nd",
+      "voter": "Diego Mart\u00ednez Cabrera"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "J.J. Barea",
+      "place": "3rd",
+      "voter": "Eddie Sefko"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Jakob Poeltl",
+      "place": "3rd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Fred VanVleet",
+      "place": "1st",
+      "voter": "Frank Isola"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Kelly Olynyk",
+      "place": "3rd",
+      "voter": "Manny Navarro"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Jordan Clarkson",
+      "place": "2nd",
+      "voter": "Richard Walker"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Luc Mbah a Moute",
+      "place": "3rd",
+      "voter": "Rob Mahoney"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Wayne Ellington",
+      "place": "2nd",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Marco Belinelli",
+      "place": "3rd",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Lou Williams",
+      "place": "3rd",
+      "voter": "Tony Jones"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Tomas Satoransky",
+      "place": "3rd",
+      "voter": "Vincent Goodwill"
+    },
+    {
+      "year": "2018",
+      "award": "6MOY",
+      "player": "Rodney Hood",
+      "place": "3rd",
+      "voter": "Weiping Zhang"
+    },
+    {
+      "year": "2018",
+      "award": "COY",
+      "player": "Doc Rivers",
+      "place": "3rd",
+      "voter": "Elliott Teaford"
+    },
+    {
+      "year": "2018",
+      "award": "COY",
+      "player": "Erik Spoelstra",
+      "place": "3rd",
+      "voter": "Royce Young"
+    },
+    {
+      "year": "2018",
+      "award": "COY",
+      "player": "Gregg Popovich",
+      "place": "2nd",
+      "voter": "Will Guillory"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Kevin Durant",
+      "place": "3rd",
+      "voter": "Brian Mahoney"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Klay Thompson",
+      "place": "3rd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Steven Adams",
+      "place": "2nd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Andre Drummond",
+      "place": "3rd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Jusuf Nurkic",
+      "place": "3rd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Jaylen Brown",
+      "place": "2nd",
+      "voter": "Manny Navarro"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Al Horford",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Draymond Green",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Robert Covington",
+      "place": "2nd",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Victor Oladipo",
+      "place": "3rd",
+      "voter": "Rosalyn Gold\u2010Onwude"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Jrue Holiday",
+      "place": "1st",
+      "voter": "Sekou Smith"
+    },
+    {
+      "year": "2018",
+      "award": "DPOY",
+      "player": "Klay Thompson",
+      "place": "2nd",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Fred VanVleet",
+      "place": "2nd",
+      "voter": "Andrew Sharp"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Clint Capela",
+      "place": "1st",
+      "voter": "Brian Mahoney"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Victor Oladipo",
+      "place": "3rd",
+      "voter": "Brian Mahoney"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Kristaps Porzingis",
+      "place": "3rd",
+      "voter": "Chase Hughes"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Dejounte Murray",
+      "place": "2nd",
+      "voter": "Chris Broussard"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Tobias Harris",
+      "place": "2nd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Brandon Ingram",
+      "place": "3rd",
+      "voter": "Elliott Teaford"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Karl\u2010Anthony Towns",
+      "place": "3rd",
+      "voter": "Frank Isola"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "TJ Warren",
+      "place": "3rd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Brandon Ingram",
+      "place": "2nd",
+      "voter": "Gina Mizell"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Terry Rozier",
+      "place": "2nd",
+      "voter": "Jared Greenberg"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Ricky Rubio",
+      "place": "3rd",
+      "voter": "Jason Quick"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Taurean Prince",
+      "place": "3rd",
+      "voter": "John Schuhmann"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "E'Twaun Moore",
+      "place": "2nd",
+      "voter": "KC Johnson"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Tyreke Evans",
+      "place": "3rd",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Dario Saric",
+      "place": "2nd",
+      "voter": "Kevin Arnovitz"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Montrezl Harrell",
+      "place": "3rd",
+      "voter": "Marc Berman"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Tyreke Evans",
+      "place": "2nd",
+      "voter": "Mark Jackson"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Pascal Siakam",
+      "place": "3rd",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Josh Richardson",
+      "place": "3rd",
+      "voter": "Royce Young"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Spencer Dinwiddie",
+      "place": "1st",
+      "voter": "Thales Soares"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Victor Oladipo",
+      "place": "2nd",
+      "voter": "Thales Soares"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Dejounte Murray",
+      "place": "3rd",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2018",
+      "award": "MIP",
+      "player": "Giannis Antetokounmpo",
+      "place": "3rd",
+      "voter": "Xavier Vaution"
+    },
+    {
+      "year": "2018",
+      "award": "MVP",
+      "player": "DeMar DeRozan",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2018",
+      "award": "MVP",
+      "player": "Jimmy Butler",
+      "place": "3rd",
+      "voter": "Joe Cowley"
+    },
+    {
+      "year": "2018",
+      "award": "MVP",
+      "player": "LaMarcus Aldridge",
+      "place": "4th",
+      "voter": "Kevin O'Connor"
+    },
+    {
+      "year": "2018",
+      "award": "MVP",
+      "player": "Giannis Antetokounmpo",
+      "place": "3rd",
+      "voter": "Marv Albert"
+    },
+    {
+      "year": "2018",
+      "award": "MVP",
+      "player": "Stephen Curry",
+      "place": "4th",
+      "voter": "Tony Jones"
+    },
+    {
+      "year": "2018",
+      "award": "ROY",
+      "player": "Dennis Smith Jr.",
+      "place": "3rd",
+      "voter": "Eddie Sefko"
+    },
+    {
+      "year": "2018",
+      "award": "ROY",
+      "player": "Donovan Mitchell",
+      "place": "3rd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2018",
+      "award": "ROY",
+      "player": "Ben Simmons",
+      "place": "3rd",
+      "voter": "Marc Berman"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Davis Bertans",
+      "place": "3rd",
+      "voter": "David Cobb"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Jae Crowder",
+      "place": "3rd",
+      "voter": "Kennegh Lau"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Domantas Sabonis",
+      "place": "1st",
+      "voter": "Jackie MacMullan"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Dwyane Wade",
+      "place": "2nd",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Malik Beasley",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Dennis Schroder",
+      "place": "1st",
+      "voter": "Richard Walker"
+    },
+    {
+      "year": "2019",
+      "award": "6MOY",
+      "player": "Ed Davis",
+      "place": "3rd",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2019",
+      "award": "COY",
+      "player": "David Joerger",
+      "place": "1st",
+      "voter": "Tim Bontemps"
+    },
+    {
+      "year": "2019",
+      "award": "COY",
+      "player": "Nate McMillan",
+      "place": "1st",
+      "voter": "Vince Goodwill"
+    },
+    {
+      "year": "2019",
+      "award": "COY",
+      "player": "Steve Clifford",
+      "place": "2nd",
+      "voter": "Brian Windhorst"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Joel Embiid",
+      "place": "1st",
+      "voter": "Greg Anthony"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Kawhi Leonard",
+      "place": "3rd",
+      "voter": "Mike Breen"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Patrick Beverley",
+      "place": "3rd",
+      "voter": "Mark Jackson"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Draymond Green",
+      "place": "3rd",
+      "voter": "Mark Jones"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Draymond Green",
+      "place": "1st",
+      "voter": "Kennegh Lau"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Jarrett Allen",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2019",
+      "award": "DPOY",
+      "player": "Kawhi Leonard",
+      "place": "1st",
+      "voter": "Casey Stern"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Giannis Antetokounmpo",
+      "place": "2nd",
+      "voter": "Tim Bontemps"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "John Collins",
+      "place": "2nd",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Josh Richardson",
+      "place": "3rd",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Zach LaVine",
+      "place": "3rd",
+      "voter": "Vince Goodwill"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Domantas Sabonis",
+      "place": "2nd",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Giannis Antetokounmpo",
+      "place": "3rd",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Spencer Dinwiddie",
+      "place": "3rd",
+      "voter": "Chris Haynes"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Jerami Grant",
+      "place": "3rd",
+      "voter": "Erik Horne"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Derrick White",
+      "place": "3rd",
+      "voter": "Mark Jackson"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Danilo Gallinari",
+      "place": "2nd",
+      "voter": "Fred Katz"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Bryn Forbes",
+      "place": "3rd",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Derrick Rose",
+      "place": "1st",
+      "voter": "Dave McMenamin"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "De'Aaron Fox",
+      "place": "1st",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Willie Cauley\u2010Stein",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2019",
+      "award": "MIP",
+      "player": "Derrick Rose",
+      "place": "2nd",
+      "voter": "Joe Vardon"
+    },
+    {
+      "year": "2019",
+      "award": "MVP",
+      "player": "Rudy Gobert",
+      "place": "5th",
+      "voter": "David Cobb"
+    },
+    {
+      "year": "2019",
+      "award": "MVP",
+      "player": "LeBron James",
+      "place": "5th",
+      "voter": "NBA Fan Vote"
+    },
+    {
+      "year": "2019",
+      "award": "ROY",
+      "player": "Mitchell Robinson",
+      "place": "3rd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2019",
+      "award": "ROY",
+      "player": "Josh Okogie",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2019",
+      "award": "ROY",
+      "player": "Deandre Ayton",
+      "place": "2nd",
+      "voter": "Richard Walker"
+    },
+    {
+      "year": "2020",
+      "award": "6MOY",
+      "player": "Dwight Howard",
+      "place": "3rd",
+      "voter": "Marc Berman"
+    },
+    {
+      "year": "2020",
+      "award": "COY",
+      "player": "Doc Rivers",
+      "place": "2nd",
+      "voter": "Amin Elhassan"
+    },
+    {
+      "year": "2020",
+      "award": "COY",
+      "player": "Brad Stevens",
+      "place": "2nd",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2020",
+      "award": "COY",
+      "player": "Michael Malone",
+      "place": "2nd",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2020",
+      "award": "COY",
+      "player": "Nate McMillan",
+      "place": "2nd",
+      "voter": "Stephen A. Smith"
+    },
+    {
+      "year": "2020",
+      "award": "COY",
+      "player": "Nate McMillan",
+      "place": "1st",
+      "voter": "Seerat Sohi"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Bam Adebayo",
+      "place": "2nd",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Patrick Beverley",
+      "place": "1st",
+      "voter": "Joe Cowley"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Andre Drummond",
+      "place": "1st",
+      "voter": "Greg Logan"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Hassan Whiteside",
+      "place": "2nd",
+      "voter": "Greg Logan"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Ben Simmons",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Jarrett Allen",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2020",
+      "award": "DPOY",
+      "player": "Marcus Smart",
+      "place": "2nd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Christian Wood",
+      "place": "1st",
+      "voter": "Rod Beard"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Pascal Siakam",
+      "place": "2nd",
+      "voter": "Tim Bontemps"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Duncan Robinson",
+      "place": "3rd",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Fred VanVleet",
+      "place": "1st",
+      "voter": "Greg Logan"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Spencer Dinwiddie",
+      "place": "3rd",
+      "voter": "Greg Logan"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Davis Bertans",
+      "place": "2nd",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Fred VanVleet",
+      "place": "3rd",
+      "voter": "Dave Pasch"
+    },
+    {
+      "year": "2020",
+      "award": "MIP",
+      "player": "Pascal Siakam",
+      "place": "1st",
+      "voter": "Maria Taylor"
+    },
+    {
+      "year": "2020",
+      "award": "MVP",
+      "player": "Jayson Tatum",
+      "place": "5th",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2020",
+      "award": "MVP",
+      "player": "Pascal Siakam",
+      "place": "4th",
+      "voter": "Zach Harper"
+    },
+    {
+      "year": "2020",
+      "award": "MVP",
+      "player": "James Harden",
+      "place": "2nd",
+      "voter": "Chris Hine"
+    },
+    {
+      "year": "2020",
+      "award": "MVP",
+      "player": "LeBron James",
+      "place": "3rd",
+      "voter": "Chris Hine"
+    },
+    {
+      "year": "2020",
+      "award": "MVP",
+      "player": "Damian Lillard",
+      "place": "3rd",
+      "voter": "Mark Jones"
+    },
+    {
+      "year": "2020",
+      "award": "MVP",
+      "player": "Chris Paul",
+      "place": "4th",
+      "voter": "Mark Jones"
+    },
+    {
+      "year": "2020",
+      "award": "ROY",
+      "player": "Zion Williamson",
+      "place": "1st",
+      "voter": "Joe Cowley"
+    },
+    {
+      "year": "2020",
+      "award": "ROY",
+      "player": "Ja Morant",
+      "place": "2nd",
+      "voter": "Joe Cowley"
+    },
+    {
+      "year": "2020",
+      "award": "ROY",
+      "player": "R.J. Barrett",
+      "place": "3rd",
+      "voter": "Chris Haynes"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Chris Boucher",
+      "place": "2nd",
+      "voter": "Marv Albert"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Enes Kanter",
+      "place": "2nd",
+      "voter": "Chris Haynes"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Shake Milton",
+      "place": "2nd",
+      "voter": "Frank Isola"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "T.J. McConnell",
+      "place": "2nd",
+      "voter": "Roy Parry"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Miles Bridges",
+      "place": "2nd",
+      "voter": "Shaun Powell"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Carmelo Anthony",
+      "place": "2nd",
+      "voter": "Christos Tsaltas"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Facundo Campazzo",
+      "place": "3rd",
+      "voter": "Christos Tsaltas"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "Derrick Rose",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2021",
+      "award": "6MOY",
+      "player": "T.J. McConnell",
+      "place": "3rd",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2021",
+      "award": "COY",
+      "player": "Steve Nash",
+      "place": "2nd",
+      "voter": "Rob Mahoney"
+    },
+    {
+      "year": "2021",
+      "award": "DPOY",
+      "player": "Kentavious Caldwell-Pope",
+      "place": "3rd",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2021",
+      "award": "DPOY",
+      "player": "Joel Embiid",
+      "place": "3rd",
+      "voter": "Jackie MacMullan"
+    },
+    {
+      "year": "2021",
+      "award": "DPOY",
+      "player": "Clint Capela",
+      "place": "2nd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2021",
+      "award": "DPOY",
+      "player": "Matisse Thybulle",
+      "place": "3rd",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2021",
+      "award": "DPOY",
+      "player": "Bam Adebayo",
+      "place": "1st",
+      "voter": "Seerat Sohi"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Julius Randle",
+      "place": "2nd",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Clint Capela",
+      "place": "2nd",
+      "voter": "Jon Barry"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Shai Gilgeous-Alexander",
+      "place": "3rd",
+      "voter": "Tim Bontemps"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Jaylen Brown",
+      "place": "2nd",
+      "voter": "Davide Chinellato"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Nikola Vucevic",
+      "place": "2nd",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Chris Boucher",
+      "place": "3rd",
+      "voter": "Chris Haynes"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Bojan Bogdanovic",
+      "place": "3rd",
+      "voter": "Frank Isola"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Terry Rozier",
+      "place": "3rd",
+      "voter": "Fred Katz"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Luguentz Dort",
+      "place": "2nd",
+      "voter": "Brian Mahoney"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Jordan Poole",
+      "place": "2nd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "T.J. McConnell",
+      "place": "3rd",
+      "voter": "Shaun Powell"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Jordan Clarkson",
+      "place": "2nd",
+      "voter": "Jalen Rose"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Richaun Holmes",
+      "place": "3rd",
+      "voter": "Bill Simmons"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Andrew Wiggins",
+      "place": "3rd",
+      "voter": "Maria Taylor"
+    },
+    {
+      "year": "2021",
+      "award": "MIP",
+      "player": "Lonzo Ball",
+      "place": "3rd",
+      "voter": "Royce Young"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Giannis Antetokounmpo",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Derrick Rose",
+      "place": "1st",
+      "voter": "NBA Fan Vote"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Nikola Jokic",
+      "place": "3rd",
+      "voter": "NBA Fan Vote"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Rudy Gobert",
+      "place": "4th",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Luka Doncic",
+      "place": "2nd",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Russell Westbrook",
+      "place": "3rd",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Ben Simmons",
+      "place": "4th",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "James Harden",
+      "place": "5th",
+      "voter": "Brian Lewis"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "LeBron James",
+      "place": "5th",
+      "voter": "Rob Mahoney"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Damian Lillard",
+      "place": "3rd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Joel Embiid",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Kawhi Leonard",
+      "place": "5th",
+      "voter": "Seerat Sohi"
+    },
+    {
+      "year": "2021",
+      "award": "MVP",
+      "player": "Julius Randle",
+      "place": "3rd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2021",
+      "award": "ROY",
+      "player": "Abstained",
+      "place": "1st",
+      "voter": "Greg Anthony"
+    },
+    {
+      "year": "2022",
+      "award": "6MOY",
+      "player": "Tyus Jones",
+      "place": "3rd",
+      "voter": "Tim Bontemps"
+    },
+    {
+      "year": "2022",
+      "award": "6MOY",
+      "player": "Cameron Johnson",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2022",
+      "award": "6MOY",
+      "player": "Brandon Clarke",
+      "place": "3rd",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2022",
+      "award": "6MOY",
+      "player": "Maxi Kleber",
+      "place": "3rd",
+      "voter": "Cassidy Hubbarth"
+    },
+    {
+      "year": "2022",
+      "award": "6MOY",
+      "player": "Montrezl Harrell",
+      "place": "2nd",
+      "voter": "Diego Martinez"
+    },
+    {
+      "year": "2022",
+      "award": "6MOY",
+      "player": "Bogdan Bogdanovic",
+      "place": "3rd",
+      "voter": "Stephanie Ready"
+    },
+    {
+      "year": "2022",
+      "award": "COY",
+      "player": "Erik Spoelstra",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2022",
+      "award": "COY",
+      "player": "Nick Nurse",
+      "place": "3rd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2022",
+      "award": "COY",
+      "player": "Nick Nurse",
+      "place": "2nd",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2022",
+      "award": "COY",
+      "player": "Tyronn Lue",
+      "place": "2nd",
+      "voter": "Dave McMenamin"
+    },
+    {
+      "year": "2022",
+      "award": "COY",
+      "player": "Ime Udoka",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2022",
+      "award": "COY",
+      "player": "Jason Kidd",
+      "place": "2nd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2022",
+      "award": "DPOY",
+      "player": "Robert Williams III",
+      "place": "2nd",
+      "voter": "Greg Anthony"
+    },
+    {
+      "year": "2022",
+      "award": "DPOY",
+      "player": "Robert Williams III",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2022",
+      "award": "DPOY",
+      "player": "Al Horford",
+      "place": "2nd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2022",
+      "award": "DPOY",
+      "player": "Matisse Thybulle",
+      "place": "3rd",
+      "voter": "Jason Quick"
+    },
+    {
+      "year": "2022",
+      "award": "MIP",
+      "player": "Jaren Jackson Jr.",
+      "place": "2nd",
+      "voter": "James Edwards III"
+    },
+    {
+      "year": "2022",
+      "award": "MIP",
+      "player": "Max Strus",
+      "place": "3rd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Luka Doncic",
+      "place": "2nd",
+      "voter": "Greg Anthony"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Nikola ayune Jokic",
+      "place": "1st",
+      "voter": "Scott Kushner"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Nikola ews Jokic",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Ja Morant",
+      "place": "4th",
+      "voter": "Mark Medina"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "DeMar DeRozan",
+      "place": "5th",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "LeBron James",
+      "place": "5th",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Joel Embiid",
+      "place": "4th",
+      "voter": "Christos Tsaltas"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Devin Booker",
+      "place": "2nd",
+      "voter": "Michael Wilbon"
+    },
+    {
+      "year": "2022",
+      "award": "MVP",
+      "player": "Kevin Durant",
+      "place": "5th",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2022",
+      "award": "ROY",
+      "player": "Jalen Green",
+      "place": "2nd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2022",
+      "award": "ROY",
+      "player": "Herbert Jones",
+      "place": "3rd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2023",
+      "award": "6MOY",
+      "player": "Russell Westbrook",
+      "place": "3rd",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2023",
+      "award": "6MOY",
+      "player": "Norman Powell",
+      "place": "2nd",
+      "voter": "Ernie Johnson"
+    },
+    {
+      "year": "2023",
+      "award": "6MOY",
+      "player": "Christian Wood",
+      "place": "3rd",
+      "voter": "Stephanie Ready"
+    },
+    {
+      "year": "2023",
+      "award": "6MOY",
+      "player": "Tyus Jones",
+      "place": "2nd",
+      "voter": "Ramona Shelburne"
+    },
+    {
+      "year": "2023",
+      "award": "6MOY",
+      "player": "Austin Reaves",
+      "place": "2nd",
+      "voter": "Anthony Slater"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Damian Lillard",
+      "place": "3rd",
+      "voter": "Howard Beck"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Jalen Brunson",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Kyrie Irving",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "DeAaron Fox",
+      "place": "2nd",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Julius Randle",
+      "place": "3rd",
+      "voter": "Brian Geltzeiler"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Joel Embiid",
+      "place": "1st",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Stephen Curry",
+      "place": "2nd",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Nikola Jokic",
+      "place": "2nd",
+      "voter": "Frank Isola"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Luka Doncic",
+      "place": "1st",
+      "voter": "Brian Mahoney"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Shai Gilgeous-Alexander",
+      "place": "1st",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Jimmy Butler",
+      "place": "1st",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2023",
+      "award": "CLUTCH",
+      "player": "Donovan Mitchell",
+      "place": "1st",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2023",
+      "award": "COY",
+      "player": "Taylor Jenkins",
+      "place": "2nd",
+      "voter": "Jovan Buha"
+    },
+    {
+      "year": "2023",
+      "award": "COY",
+      "player": "Will Hardy",
+      "place": "2nd",
+      "voter": "Adam Lefkoe"
+    },
+    {
+      "year": "2023",
+      "award": "COY",
+      "player": "Tyronn Lue",
+      "place": "3rd",
+      "voter": "Stephanie Ready"
+    },
+    {
+      "year": "2023",
+      "award": "COY",
+      "player": "Willie Green",
+      "place": "3rd",
+      "voter": "Ryen Russillo"
+    },
+    {
+      "year": "2023",
+      "award": "COY",
+      "player": "Doc Rivers",
+      "place": "3rd",
+      "voter": "Bill Simmons"
+    },
+    {
+      "year": "2023",
+      "award": "COY",
+      "player": "Darvin Ham",
+      "place": "2nd",
+      "voter": "Michael Wilbon"
+    },
+    {
+      "year": "2023",
+      "award": "DPOY",
+      "player": "Jrue Holiday",
+      "place": "2nd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2023",
+      "award": "DPOY",
+      "player": "Jimmy Butler",
+      "place": "3rd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2023",
+      "award": "DPOY",
+      "player": "Bam Adebayo",
+      "place": "1st",
+      "voter": "Brian Geltzeiler"
+    },
+    {
+      "year": "2023",
+      "award": "DPOY",
+      "player": "Joel Embiid",
+      "place": "1st",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2023",
+      "award": "DPOY",
+      "player": "O.G. Anunoby",
+      "place": "2nd",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Kevon Looney",
+      "place": "2nd",
+      "voter": "Eduardo Barao"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Malik Monk",
+      "place": "3rd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Mikal Bridges",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Tyrese Haliburton",
+      "place": "1st",
+      "voter": "Max Haupt"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "De'Aaron Fox",
+      "place": "2nd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Aaron Gordon",
+      "place": "3rd",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Tyrese Haliburton",
+      "place": "2nd",
+      "voter": "Mike Singer"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Trey Murphy III",
+      "place": "1st",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Mikal Bridges",
+      "place": "2nd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2023",
+      "award": "MIP",
+      "player": "Jaren Jackson Jr.",
+      "place": "3rd",
+      "voter": "Jeff Zillgitt"
+    },
+    {
+      "year": "2023",
+      "award": "MVP",
+      "player": "Stephen Curry",
+      "place": "4th",
+      "voter": "Eduardo Barao"
+    },
+    {
+      "year": "2023",
+      "award": "MVP",
+      "player": "Jalen Brunson",
+      "place": "5th",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2023",
+      "award": "MVP",
+      "player": "Jayson Tatum",
+      "place": "3rd",
+      "voter": "Mark Jackson"
+    },
+    {
+      "year": "2023",
+      "award": "MVP",
+      "player": "Ja Morant",
+      "place": "5th",
+      "voter": "Stephanie Ready"
+    },
+    {
+      "year": "2023",
+      "award": "MVP",
+      "player": "Domantas Sabonis",
+      "place": "4th",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2023",
+      "award": "MVP",
+      "player": "Donovan Mitchell",
+      "place": "4th",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2023",
+      "award": "ROY",
+      "player": "Paolo Banchero",
+      "place": "3rd",
+      "voter": "Andy Larsen"
+    },
+    {
+      "year": "2023",
+      "award": "ROY",
+      "player": "Paolo Banchero",
+      "place": "2nd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Tim Hardaway Jr.",
+      "place": "3rd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Jonathan Isaac",
+      "place": "3rd",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Jose Alvarado",
+      "place": "2nd",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Jaime Jaquez Jr.",
+      "place": "3rd",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Bojan Bogdanovic",
+      "place": "3rd",
+      "voter": "Bill Reiter"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Luka Doncic",
+      "place": "1st",
+      "voter": "Greg Anthony"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "LeBron James",
+      "place": "2nd",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Jalen Williams",
+      "place": "3rd",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Anthony Edwards",
+      "place": "1st",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Jayson Tatum",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Malik Monk",
+      "place": "3rd",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Giannis Antetokounmpo",
+      "place": "3rd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "De'Aaron Fox",
+      "place": "3rd",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Anthony Edwards",
+      "place": "3rd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Erik Spoelstra",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "J.B. Bickerstaff",
+      "place": "3rd",
+      "voter": "James Edwards III"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Erik Spoelstra",
+      "place": "3rd",
+      "voter": "Will Guillory"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Ime Udoka",
+      "place": "2nd",
+      "voter": "Kelly Iko"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Chris Finch",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Mark Daigneault",
+      "place": "3rd",
+      "voter": "Dave McMenamin"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Michael Malone",
+      "place": "3rd",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Jason Kidd",
+      "place": "3rd",
+      "voter": "Michael Wilbon"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Rudy Gobert",
+      "place": "3rd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Domantas Sabonis",
+      "place": "3rd",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Jalen Suggs",
+      "place": "3rd",
+      "voter": "Brian Geltzeiler"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Jrue Holiday",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Giannis Antetokounmpo",
+      "place": "2nd",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Jarrett Allen",
+      "place": "3rd",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Alex Caruso",
+      "place": "3rd",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Derrick White",
+      "place": "2nd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Grayson Allen",
+      "place": "3rd",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Shai Gilgeous-Alexander",
+      "place": "2nd",
+      "voter": "Adam Himmelsbach"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Tyrese Haliburton",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Grayson Allen",
+      "place": "2nd",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Deni Avdija",
+      "place": "1st",
+      "voter": "John Schuhmann"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Jalen Brunson",
+      "place": "2nd",
+      "voter": "Justin Termine"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Devin Vassell",
+      "place": "2nd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Aaron Nesmith",
+      "place": "3rd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Kevin Durant",
+      "place": "5th",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Domantas Sabonis",
+      "place": "4th",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Giannis Antetokounmpo",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Anthony Edwards",
+      "place": "3rd",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Shai Gilgeous-Alexander",
+      "place": "5th",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Jayson Tatum",
+      "place": "3rd",
+      "voter": "Dave McMenamin"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Giannis Antetokounmpo",
+      "place": "2nd",
+      "voter": "Eric Nehm"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Anthony Edwards",
+      "place": "4th",
+      "voter": "Dennis Scott"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Jalen Brunson",
+      "place": "3rd",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Anthony Edwards",
+      "place": "2nd",
+      "voter": "Michael Wilbon"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Dereck Lively II",
+      "place": "3rd",
+      "voter": "David Aldridge"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Brandon Miller",
+      "place": "2nd",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Chet Holmgren",
+      "place": "3rd",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2025",
+      "award": "6MOY",
+      "player": "Nickeil Alexander-Walker",
+      "place": "3rd",
+      "voter": "Kendrick Perkins"
+    },
+    {
+      "year": "2025",
+      "award": "6MOY",
+      "player": "Alex Caruso",
+      "place": "3rd",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2025",
+      "award": "6MOY",
+      "player": "Naz Reid",
+      "place": "1st",
+      "voter": "John Schuhmann"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "Tyrese Maxey",
+      "place": "3rd",
+      "voter": "Mike Curtis"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "LeBron James",
+      "place": "1st",
+      "voter": "Andy Larsen"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "LeBron James",
+      "place": "2nd",
+      "voter": "Kevin Pelton"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "Donovan Mitchell",
+      "place": "2nd",
+      "voter": "Kendrick Perkins"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "Jayson Tatum",
+      "place": "3rd",
+      "voter": "Bill Simmons"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "Stephen Curry",
+      "place": "1st",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2025",
+      "award": "CLUTCH",
+      "player": "Kyrie Irving",
+      "place": "3rd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2025",
+      "award": "COY",
+      "player": "Tyronn Lue",
+      "place": "1st",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Rudy Gobert",
+      "place": "3rd",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Giannis Antetokounmpo",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Bam Adebayo",
+      "place": "2nd",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Toumani Camara",
+      "place": "2nd",
+      "voter": "Dave McMenamin"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Shai Gilgeous-Alexander",
+      "place": "2nd",
+      "voter": "Chris Miles"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Toumani Camara",
+      "place": "3rd",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Jaren Jackson Jr.",
+      "place": "2nd",
+      "voter": "Omari Sankofa II"
+    },
+    {
+      "year": "2025",
+      "award": "DPOY",
+      "player": "Derrick White",
+      "place": "2nd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "Amen Thompson",
+      "place": "1st",
+      "voter": "Frank Isola"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "OG Anunoby",
+      "place": "2nd",
+      "voter": "Kendrick Perkins"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "Tyler Herro",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "Deni Avdija",
+      "place": "1st",
+      "voter": "Ramona Shelburne"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "Josh Giddey",
+      "place": "1st",
+      "voter": "Stan Van Gundy"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "Toumani Camara",
+      "place": "2nd",
+      "voter": "Gary Washburn"
+    },
+    {
+      "year": "2025",
+      "award": "MIP",
+      "player": "Payton Pritchard",
+      "place": "2nd",
+      "voter": "Michael C. Wright"
+    },
+    {
+      "year": "2025",
+      "award": "MVP",
+      "player": "Jalen Brunson",
+      "place": "5th",
+      "voter": "Tim Bontemps"
+    },
+    {
+      "year": "2025",
+      "award": "MVP",
+      "player": "Cade Cunningham",
+      "place": "4th",
+      "voter": "Sebastian Martinez-Christensen"
+    },
+    {
+      "year": "2025",
+      "award": "MVP",
+      "player": "LeBron James",
+      "place": "4th",
+      "voter": "Melissa Rohlin"
+    },
+    {
+      "year": "2025",
+      "award": "MVP",
+      "player": "Evan Mobley",
+      "place": "5th",
+      "voter": "John Schuhmann"
+    },
+    {
+      "year": "2025",
+      "award": "MVP",
+      "player": "James Harden",
+      "place": "5th",
+      "voter": "Ramona Shelburne"
+    },
+    {
+      "year": "2025",
+      "award": "MVP",
+      "player": "Donovan Mitchell",
+      "place": "3rd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2025",
+      "award": "ROY",
+      "player": "Zach Edey",
+      "place": "2nd",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2025",
+      "award": "ROY",
+      "player": "Matas Buzelis",
+      "place": "3rd",
+      "voter": "Brian Geltzeiler"
+    },
+    {
+      "year": "2025",
+      "award": "ROY",
+      "player": "Jared McCain",
+      "place": "3rd",
+      "voter": "Flavio Tranquillo"
+    },
+    {
+      "year": "2025",
+      "award": "ROY",
+      "player": "Stephon Castle",
+      "place": "3rd",
+      "voter": "Jeff Zillgitt"
+    }
+  ]
+}

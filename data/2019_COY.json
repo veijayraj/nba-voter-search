@@ -1,0 +1,2107 @@
+{
+  "year": "2019",
+  "award": "COY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Scott Agness",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Michelle Beadle",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "A. Sherrod Blakely",
+      "affiliation": "NBC Sports Boston",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "David Joerger",
+          "playerTeam": "Sacramento Kings"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Campbell",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "David Cobb",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Amin Elhassan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Flannery",
+      "affiliation": "SB Nation",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Reid Forgrave",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Rosalyn Gold\u2010Onwude",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Nick Nurse",
+          "playerTeam": "Toronto Raptors"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Erik Horne",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Hsu",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "San Antonio Spurs"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "K.C. Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jones",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Nira Khurana",
+      "affiliation": "Perform",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kennegh Lau",
+      "affiliation": "BesTV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Massimo Lopes Pegna",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Tim MacMahon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Malet",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Diego Martinez",
+      "affiliation": "Reforma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express\u2010News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Reggie Miller",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "San Antonio Spurs"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inqurier and Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "Orlando Magic"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nick Nurse",
+          "playerTeam": "Toronto Raptors"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Guillermo Schutz",
+      "affiliation": "Televisa",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Andrew Sharp",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Casey Stern",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mirjam Swanson",
+      "affiliation": "Southern California News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "3rd",
+          "player": "Quin Snyder",
+          "playerTeam": "Utah Jazz"
+        }
+      ]
+    },
+    {
+      "voter": "Olgun Uluc",
+      "affiliation": "Fox Sports Australia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Velazquez",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Voigt",
+      "affiliation": "DAZN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Walker",
+      "affiliation": "Gaston Gazette",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kenny Atkinson",
+          "playerTeam": "Brooklyn Nets"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "Orlando Magic"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "Orlando Magic"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Woodyard",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Quin Snyder",
+          "playerTeam": "Utah Jazz"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        }
+      ]
+    },
+    {
+      "voter": "Weiping Zhang",
+      "affiliation": "CCTV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Budenholzer",
+          "playerTeam": "Milwaukee Bucks"
+        },
+        {
+          "place": "2nd",
+          "player": "Mike Malone",
+          "playerTeam": "Denver Nuggets"
+        },
+        {
+          "place": "3rd",
+          "player": "Nate McMillan",
+          "playerTeam": "Indiana Pacers"
+        }
+      ]
+    }
+  ]
+}

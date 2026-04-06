@@ -1,0 +1,2086 @@
+{
+  "year": "2025",
+  "award": "MIP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Josh Giddey",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Josh Giddey",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Koreen",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Miles",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Nehm",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "OG Anunoby",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Josh Giddey",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "BeIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Williams",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa II",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Josh Giddey",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Mobley",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Josh Giddey",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Toumani Camara",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Austin Reaves",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyler Herro",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Payton Pritchard",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ivica Zubac",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Christian Braun",
+          "playerTeam": "DEN"
+        }
+      ]
+    }
+  ]
+}

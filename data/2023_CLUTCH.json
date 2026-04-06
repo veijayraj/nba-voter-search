@@ -1,0 +1,2107 @@
+{
+  "year": "2023",
+  "award": "CLUTCH",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Greg Anthony",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Eduardo Barao",
+      "affiliation": "BAND",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "PBWA/GQ",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jovan Buha",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Callie Caplan",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Shams Charania",
+      "affiliation": "The Athletic/Stadium",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jamal Collier",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Aaron Fentress",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Ganter",
+      "affiliation": "The Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Julius Randle",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Greenberg",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Max Haupt",
+      "affiliation": "DPA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Herring",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Cassidy Hubbarth",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Madeline Kenney",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Larsen",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Lefkoe",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Mussatto",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Showtime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "James Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Pelton",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "JJ Redick",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Omari Sankofa",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Singer",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Jokic",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Seerat Sohi",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "David Villafranca",
+      "affiliation": "EFE News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "WarnerMedia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ohm Youngmisuk",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "DeAaron Fox",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    }
+  ]
+}
