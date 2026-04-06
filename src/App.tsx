@@ -28,6 +28,15 @@ function App() {
   const [data, setData] = useState<AwardData | null>(null);
   const [loading, setLoading] = useState(true);
   const [view, setView] = useState<View>(getInitialView);
+  const [votersList, setVotersList] = useState<string[]>([]);
+  const [voterInput, setVoterInput] = useState("");
+  const [showVoterSuggestions, setShowVoterSuggestions] = useState(false);
+
+  useEffect(() => {
+    fetch("./data/voters.json")
+      .then(r => r.json())
+      .then(d => setVotersList(Object.keys(d).sort()));
+  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -75,7 +84,7 @@ function App() {
 
   if (view.type === "voter") {
     return (
-      <VoterProfile voter={view.name} onBack={handleBack} onPlayerClick={handlePlayerClick} />
+      <VoterProfile key={view.name} voter={view.name} onBack={handleBack} onPlayerClick={handlePlayerClick} onVoterClick={handleVoterClick} />
     );
   }
 
@@ -90,9 +99,38 @@ function App() {
       <div className="app-container">
         <div style={{ marginBottom: 'var(--spacing-2xl)' }}>
           <h1>NBA Award Voter Database</h1>
-          <p style={{ color: 'var(--text-secondary)', marginBottom: 0 }}>
+          <p style={{ color: 'var(--text-secondary)', marginBottom: 'var(--spacing-sm)' }}>
             Explore voting patterns from 2018 to present
           </p>
+          <p style={{ color: 'var(--text-tertiary)', fontSize: '0.8rem', marginBottom: 0 }}>
+            Note: 2023 All-NBA and All-Defensive voter data may be incomplete or incorrect.
+          </p>
+        </div>
+
+        <div className="voter-jump-card">
+          <label className="filter-label">Go to voter profile</label>
+          <div className="voter-autocomplete-wrap">
+            <input
+              className="voter-jump-input"
+              placeholder="Search voter name..."
+              value={voterInput}
+              onChange={e => { setVoterInput(e.target.value); setShowVoterSuggestions(true); }}
+              onFocus={() => setShowVoterSuggestions(true)}
+              onBlur={() => setTimeout(() => setShowVoterSuggestions(false), 150)}
+            />
+            {showVoterSuggestions && voterInput && (() => {
+              const matches = votersList.filter(v => v.toLowerCase().includes(voterInput.toLowerCase())).slice(0, 8);
+              return matches.length > 0 ? (
+                <div className="voter-autocomplete-dropdown">
+                  {matches.map(v => (
+                    <div key={v} className="voter-autocomplete-item" onMouseDown={() => { handleVoterClick(v); setVoterInput(""); }}>
+                      {v}
+                    </div>
+                  ))}
+                </div>
+              ) : null;
+            })()}
+          </div>
         </div>
 
         <Filters 
@@ -147,6 +185,16 @@ function App() {
             <p style={{ marginBottom: 0 }}>Unable to load data. Please try again.</p>
           </div>
         )}
+        <div style={{
+          marginTop: 'var(--spacing-3xl)',
+          paddingTop: 'var(--spacing-lg)',
+          borderTop: '1px solid var(--border)',
+          textAlign: 'center',
+          color: 'var(--text-tertiary)',
+          fontSize: '0.8rem'
+        }}>
+          All data courtesy of <a href="https://www.nba.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-tertiary)' }}>NBA.com</a>
+        </div>
       </div>
     </div>
   );

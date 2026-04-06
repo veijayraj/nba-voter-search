@@ -20,22 +20,34 @@ interface VoterProfileProps {
   voter: string;
   onBack: () => void;
   onPlayerClick: (player: string) => void;
+  onVoterClick: (voter: string) => void;
 }
 
-export function VoterProfile({ voter, onBack, onPlayerClick }: VoterProfileProps) {
+export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: VoterProfileProps) {
   const [data, setData] = useState<VoterData | null>(null);
   const [loading, setLoading] = useState(true);
   const [selectedYear, setSelectedYear] = useState<string | "all">("all");
   const [selectedAward, setSelectedAward] = useState<string | "all">("all");
   const [selectedPlaces, setSelectedPlaces] = useState<string[]>([]);
   const [isRankOpen, setIsRankOpen] = useState(false);
+  const [allVoterNames, setAllVoterNames] = useState<string[]>([]);
+  const [voterInput, setVoterInput] = useState("");
+  const [showVoterDropdown, setShowVoterDropdown] = useState(false);
 
   useEffect(() => {
     fetch("./data/voters.json")
       .then((res) => res.json())
-      .then((allVoters) => setData(allVoters[voter] || null))
+      .then((allVoters) => {
+        setData(allVoters[voter] || null);
+        setAllVoterNames(Object.keys(allVoters).sort());
+      })
       .finally(() => setLoading(false));
   }, [voter]);
+
+  const voterSuggestions = useMemo(() => {
+    if (!voterInput) return [];
+    return allVoterNames.filter(n => n !== voter && n.toLowerCase().includes(voterInput.toLowerCase())).slice(0, 8);
+  }, [voterInput, allVoterNames, voter]);
 
   const years = useMemo(() => {
     if (!data) return [];
@@ -94,6 +106,28 @@ export function VoterProfile({ voter, onBack, onPlayerClick }: VoterProfileProps
         </div>
 
         <div className="voter-filters">
+          <div className="filter-group">
+            <label className="filter-label">Change Voter</label>
+            <div className="voter-autocomplete-wrap">
+              <input
+                placeholder="Search voter name..."
+                value={voterInput}
+                onChange={e => { setVoterInput(e.target.value); setShowVoterDropdown(true); }}
+                onFocus={() => setShowVoterDropdown(true)}
+                onBlur={() => setTimeout(() => setShowVoterDropdown(false), 150)}
+              />
+              {showVoterDropdown && voterSuggestions.length > 0 && (
+                <div className="voter-autocomplete-dropdown">
+                  {voterSuggestions.map(v => (
+                    <div key={v} className="voter-autocomplete-item" onMouseDown={() => { onVoterClick(v); setVoterInput(""); }}>
+                      {v}
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+
           <div className="filter-group">
             <label className="filter-label">Season</label>
             <select value={selectedYear} onChange={(e) => setSelectedYear(e.target.value)}>

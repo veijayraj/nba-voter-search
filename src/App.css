@@ -204,6 +204,87 @@ p {
 }
 
 /* ============================================================================
+   VOTER JUMP CARD (HOMEPAGE)
+   ============================================================================ */
+
+.voter-jump-card {
+  background: var(--bg-primary);
+  padding: var(--spacing-lg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: var(--spacing-xl);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-lg);
+}
+
+.voter-jump-card .filter-label {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.voter-jump-input {
+  padding: var(--spacing-sm) var(--spacing-md);
+  font-size: 0.95rem;
+  border: 2px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  transition: all var(--transition-base);
+  font-family: var(--font-body);
+  width: 100%;
+}
+
+.voter-jump-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(26, 84, 144, 0.1);
+}
+
+/* ============================================================================
+   VOTER AUTOCOMPLETE (SHARED: homepage + voter profile)
+   ============================================================================ */
+
+.voter-autocomplete-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+.voter-autocomplete-dropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: var(--bg-primary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  z-index: 100;
+  overflow: hidden;
+}
+
+.voter-autocomplete-item {
+  padding: var(--spacing-sm) var(--spacing-md);
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  transition: background var(--transition-fast);
+}
+
+.voter-autocomplete-item:hover {
+  background: var(--bg-secondary);
+  color: var(--primary);
+}
+
+@media (max-width: 480px) {
+  .voter-jump-card {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+/* ============================================================================
    RESULTS COUNTER
    ============================================================================ */
 
