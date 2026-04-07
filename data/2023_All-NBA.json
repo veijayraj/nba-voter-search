@@ -5,27 +5,6 @@
   "votes": [
     {
       "voter": "David Aldridge",
-      "affiliation": "",
-      "picks": [
-        {
-          "allNbaTeam": "1st",
-          "player": "KIA ALL-NBA FIRST TEAM",
-          "playerTeam": ""
-        },
-        {
-          "allNbaTeam": "2nd",
-          "player": "KIA ALL-NBA SECOND TEAM",
-          "playerTeam": ""
-        },
-        {
-          "allNbaTeam": "3rd",
-          "player": "KIA ALL-NBA THIRD TEAM",
-          "playerTeam": ""
-        }
-      ]
-    },
-    {
-      "voter": "Sam Amick",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -106,7 +85,7 @@
       ]
     },
     {
-      "voter": "Greg Anthony",
+      "voter": "Sam Amick",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "voter": "Steve Aschburner",
+      "voter": "Greg Anthony",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -268,7 +247,7 @@
       ]
     },
     {
-      "voter": "Maxime Aubin",
+      "voter": "Steve Aschburner",
       "affiliation": "NBA.com",
       "picks": [
         {
@@ -349,7 +328,7 @@
       ]
     },
     {
-      "voter": "Eduardo Barao",
+      "voter": "Maxime Aubin",
       "affiliation": "L'Equipe",
       "picks": [
         {
@@ -430,7 +409,7 @@
       ]
     },
     {
-      "voter": "Howard Beck",
+      "voter": "Eduardo Barao",
       "affiliation": "BAND",
       "picks": [
         {
@@ -511,7 +490,7 @@
       ]
     },
     {
-      "voter": "Stefan Bondy",
+      "voter": "Howard Beck",
       "affiliation": "PBWA/GQ",
       "picks": [
         {
@@ -592,7 +571,7 @@
       ]
     },
     {
-      "voter": "Tim Bontemps",
+      "voter": "Stefan Bondy",
       "affiliation": "New York Daily News",
       "picks": [
         {
@@ -673,7 +652,7 @@
       ]
     },
     {
-      "voter": "Rod Boone",
+      "voter": "Tim Bontemps",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -754,7 +733,7 @@
       ]
     },
     {
-      "voter": "Chris Broussard",
+      "voter": "Rod Boone",
       "affiliation": "Charlotte Observer",
       "picks": [
         {
@@ -835,7 +814,7 @@
       ]
     },
     {
-      "voter": "Ric Bucher",
+      "voter": "Chris Broussard",
       "affiliation": "Fox Sports",
       "picks": [
         {
@@ -916,7 +895,7 @@
       ]
     },
     {
-      "voter": "Jovan Buha",
+      "voter": "Ric Bucher",
       "affiliation": "FS1",
       "picks": [
         {
@@ -997,7 +976,7 @@
       ]
     },
     {
-      "voter": "Doris Burke",
+      "voter": "Jovan Buha",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -1078,7 +1057,7 @@
       ]
     },
     {
-      "voter": "Callie Caplan",
+      "voter": "Doris Burke",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -1159,7 +1138,7 @@
       ]
     },
     {
-      "voter": "Shams Charania",
+      "voter": "Callie Caplan",
       "affiliation": "Dallas Morning News",
       "picks": [
         {
@@ -1240,7 +1219,7 @@
       ]
     },
     {
-      "voter": "Anthony Chiang",
+      "voter": "Shams Charania",
       "affiliation": "The Athletic/Stadium",
       "picks": [
         {
@@ -1321,7 +1300,7 @@
       ]
     },
     {
-      "voter": "Damichael Cole",
+      "voter": "Anthony Chiang",
       "affiliation": "Miami Herald",
       "picks": [
         {
@@ -1402,7 +1381,7 @@
       ]
     },
     {
-      "voter": "Jamal Collier",
+      "voter": "Damichael Cole",
       "affiliation": "Memphis Commercial Appeal",
       "picks": [
         {
@@ -1483,7 +1462,7 @@
       ]
     },
     {
-      "voter": "Antoni Daimiel",
+      "voter": "Jamal Collier",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -1564,7 +1543,7 @@
       ]
     },
     {
-      "voter": "Dan Devine",
+      "voter": "Antoni Daimiel",
       "affiliation": "Movistar+",
       "picks": [
         {
@@ -1645,7 +1624,7 @@
       ]
     },
     {
-      "voter": "Chris Fedor",
+      "voter": "Dan Devine",
       "affiliation": "Yahoo! Sports",
       "picks": [
         {
@@ -1726,7 +1705,7 @@
       ]
     },
     {
-      "voter": "Aaron Fentress",
+      "voter": "Chris Fedor",
       "affiliation": "Cleveland.com",
       "picks": [
         {
@@ -1807,7 +1786,7 @@
       ]
     },
     {
-      "voter": "Mike Ganter",
+      "voter": "Aaron Fentress",
       "affiliation": "The Oregonian",
       "picks": [
         {
@@ -1888,7 +1867,7 @@
       ]
     },
     {
-      "voter": "Brian Geltzeiler",
+      "voter": "Mike Ganter",
       "affiliation": "The Toronto Sun",
       "picks": [
         {
@@ -1969,7 +1948,7 @@
       ]
     },
     {
-      "voter": "Vince Goodwill",
+      "voter": "Brian Geltzeiler",
       "affiliation": "Sirius Radio",
       "picks": [
         {
@@ -2050,7 +2029,7 @@
       ]
     },
     {
-      "voter": "Michael Grange",
+      "voter": "Vince Goodwill",
       "affiliation": "Yahoo! Sports",
       "picks": [
         {
@@ -2131,7 +2110,7 @@
       ]
     },
     {
-      "voter": "Jared Greenberg",
+      "voter": "Michael Grange",
       "affiliation": "Rogers Sportsnet",
       "picks": [
         {
@@ -2212,7 +2191,7 @@
       ]
     },
     {
-      "voter": "Mike Greenberg",
+      "voter": "Jared Greenberg",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -2293,7 +2272,7 @@
       ]
     },
     {
-      "voter": "Will Guillory",
+      "voter": "Mike Greenberg",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -2374,7 +2353,7 @@
       ]
     },
     {
-      "voter": "Zach Harper",
+      "voter": "Will Guillory",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -2455,7 +2434,7 @@
       ]
     },
     {
-      "voter": "Max Haupt",
+      "voter": "Zach Harper",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -2536,7 +2515,7 @@
       ]
     },
     {
-      "voter": "Kurt Helin",
+      "voter": "Max Haupt",
       "affiliation": "DPA",
       "picks": [
         {
@@ -2617,7 +2596,7 @@
       ]
     },
     {
-      "voter": "Chris Herring",
+      "voter": "Kurt Helin",
       "affiliation": "NBCSports.com",
       "picks": [
         {
@@ -2698,7 +2677,7 @@
       ]
     },
     {
-      "voter": "Adam Himmelsbach",
+      "voter": "Chris Herring",
       "affiliation": "Sports Illustrated",
       "picks": [
         {
@@ -2779,7 +2758,7 @@
       ]
     },
     {
-      "voter": "Cassidy Hubbarth",
+      "voter": "Adam Himmelsbach",
       "affiliation": "Boston Globe",
       "picks": [
         {
@@ -2860,7 +2839,7 @@
       ]
     },
     {
-      "voter": "Kelly Iko",
+      "voter": "Cassidy Hubbarth",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -2941,7 +2920,7 @@
       ]
     },
     {
-      "voter": "Frank Isola",
+      "voter": "Kelly Iko",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -3022,7 +3001,7 @@
       ]
     },
     {
-      "voter": "Mark Jackson",
+      "voter": "Frank Isola",
       "affiliation": "Sirius Radio",
       "picks": [
         {
@@ -3103,7 +3082,7 @@
       ]
     },
     {
-      "voter": "Ernie Johnson",
+      "voter": "Mark Jackson",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -3184,7 +3163,7 @@
       ]
     },
     {
-      "voter": "Jason Jones",
+      "voter": "Ernie Johnson",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -3265,7 +3244,7 @@
       ]
     },
     {
-      "voter": "Madeline Kenney",
+      "voter": "Jason Jones",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -3346,7 +3325,7 @@
       ]
     },
     {
-      "voter": "Marc Kestecher",
+      "voter": "Madeline Kenney",
       "affiliation": "Bay Area News Group",
       "picks": [
         {
@@ -3427,7 +3406,7 @@
       ]
     },
     {
-      "voter": "Andy Larsen",
+      "voter": "Marc Kestecher",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -3508,7 +3487,7 @@
       ]
     },
     {
-      "voter": "Kristen Ledlow",
+      "voter": "Andy Larsen",
       "affiliation": "Salt Lake Tribune",
       "picks": [
         {
@@ -3589,7 +3568,7 @@
       ]
     },
     {
-      "voter": "Adam Lefkoe",
+      "voter": "Kristen Ledlow",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -3670,7 +3649,7 @@
       ]
     },
     {
-      "voter": "Brian Lewis",
+      "voter": "Adam Lefkoe",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -3751,7 +3730,7 @@
       ]
     },
     {
-      "voter": "Zach Lowe",
+      "voter": "Brian Lewis",
       "affiliation": "New York Post",
       "picks": [
         {
@@ -3832,7 +3811,7 @@
       ]
     },
     {
-      "voter": "Brian Mahoney",
+      "voter": "Zach Lowe",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -3913,7 +3892,7 @@
       ]
     },
     {
-      "voter": "Rob Mahoney",
+      "voter": "Brian Mahoney",
       "affiliation": "Associated Press",
       "picks": [
         {
@@ -3994,7 +3973,7 @@
       ]
     },
     {
-      "voter": "Chris Mannix",
+      "voter": "Rob Mahoney",
       "affiliation": "The Ringer",
       "picks": [
         {
@@ -4075,7 +4054,7 @@
       ]
     },
     {
-      "voter": "Jeff McDonald",
+      "voter": "Chris Mannix",
       "affiliation": "Sports Illustrated",
       "picks": [
         {
@@ -4156,7 +4135,7 @@
       ]
     },
     {
-      "voter": "Dave McMenamin",
+      "voter": "Jeff McDonald",
       "affiliation": "San Antonio Express-News",
       "picks": [
         {
@@ -4237,7 +4216,7 @@
       ]
     },
     {
-      "voter": "Chao Meng",
+      "voter": "Dave McMenamin",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -4318,8 +4297,8 @@
       ]
     },
     {
-      "voter": "Yoko Miyaji",
-      "affiliation": "Tencent",
+      "voter": "Chao Meng",
+      "affiliation": "ESPN Tencent",
       "picks": [
         {
           "allNbaTeam": "1st",
@@ -4399,7 +4378,7 @@
       ]
     },
     {
-      "voter": "Yoav Modai",
+      "voter": "Yoko Miyaji",
       "affiliation": "Sports Graphic Number",
       "picks": [
         {
@@ -4480,7 +4459,7 @@
       ]
     },
     {
-      "voter": "Joe Mussatto",
+      "voter": "Yoav Modai",
       "affiliation": "Sport 5",
       "picks": [
         {
@@ -4561,7 +4540,7 @@
       ]
     },
     {
-      "voter": "Rachel Nichols",
+      "voter": "Joe Mussatto",
       "affiliation": "The Oklahoman",
       "picks": [
         {
@@ -4642,7 +4621,7 @@
       ]
     },
     {
-      "voter": "Kevin O'Connor",
+      "voter": "Rachel Nichols",
       "affiliation": "Showtime",
       "picks": [
         {
@@ -4723,7 +4702,7 @@
       ]
     },
     {
-      "voter": "James Owczarski",
+      "voter": "Kevin O'Connor",
       "affiliation": "The Ringer",
       "picks": [
         {
@@ -4804,7 +4783,7 @@
       ]
     },
     {
-      "voter": "Dave Pasch",
+      "voter": "James Owczarski",
       "affiliation": "Milwaukee Journal Sentinel",
       "picks": [
         {
@@ -4885,7 +4864,7 @@
       ]
     },
     {
-      "voter": "Kevin Pelton",
+      "voter": "Dave Pasch",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -4966,7 +4945,7 @@
       ]
     },
     {
-      "voter": "Kendrick Perkins",
+      "voter": "Kevin Pelton",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -5047,7 +5026,7 @@
       ]
     },
     {
-      "voter": "Michael Pina",
+      "voter": "Kendrick Perkins",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -5128,7 +5107,7 @@
       ]
     },
     {
-      "voter": "Keith Pompey",
+      "voter": "Michael Pina",
       "affiliation": "The Ringer",
       "picks": [
         {
@@ -5209,7 +5188,7 @@
       ]
     },
     {
-      "voter": "Shaun Powell",
+      "voter": "Keith Pompey",
       "affiliation": "Philadelphia Inquirer",
       "picks": [
         {
@@ -5290,7 +5269,7 @@
       ]
     },
     {
-      "voter": "Khobi Price",
+      "voter": "Shaun Powell",
       "affiliation": "NBA.com",
       "picks": [
         {
@@ -5371,7 +5350,7 @@
       ]
     },
     {
-      "voter": "Duane Rankin",
+      "voter": "Khobi Price",
       "affiliation": "Orlando Sentinel",
       "picks": [
         {
@@ -5452,7 +5431,7 @@
       ]
     },
     {
-      "voter": "Stephanie Ready",
+      "voter": "Duane Rankin",
       "affiliation": "Arizona Republic",
       "picks": [
         {
@@ -5533,7 +5512,7 @@
       ]
     },
     {
-      "voter": "JJ Redick",
+      "voter": "Stephanie Ready",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -5614,7 +5593,7 @@
       ]
     },
     {
-      "voter": "Bill Reiter",
+      "voter": "JJ Redick",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -5695,7 +5674,7 @@
       ]
     },
     {
-      "voter": "Remi Reverchon",
+      "voter": "Bill Reiter",
       "affiliation": "CBSSports.com",
       "picks": [
         {
@@ -5776,7 +5755,7 @@
       ]
     },
     {
-      "voter": "Tim Reynolds",
+      "voter": "Remi Reverchon",
       "affiliation": "beIN Sports",
       "picks": [
         {
@@ -5857,7 +5836,7 @@
       ]
     },
     {
-      "voter": "Josh Robbins",
+      "voter": "Tim Reynolds",
       "affiliation": "Associated Press",
       "picks": [
         {
@@ -5938,7 +5917,7 @@
       ]
     },
     {
-      "voter": "Melissa Rohlin",
+      "voter": "Josh Robbins",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -6019,7 +5998,7 @@
       ]
     },
     {
-      "voter": "Taylor Rooks",
+      "voter": "Melissa Rohlin",
       "affiliation": "Fox Sports",
       "picks": [
         {
@@ -6100,7 +6079,7 @@
       ]
     },
     {
-      "voter": "Jalen Rose",
+      "voter": "Taylor Rooks",
       "affiliation": "Bleacher Report",
       "picks": [
         {
@@ -6181,7 +6160,7 @@
       ]
     },
     {
-      "voter": "Ryen Russillo",
+      "voter": "Jalen Rose",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -6262,7 +6241,7 @@
       ]
     },
     {
-      "voter": "Omari Sankofa",
+      "voter": "Ryen Russillo",
       "affiliation": "The Ringer",
       "picks": [
         {
@@ -6343,7 +6322,7 @@
       ]
     },
     {
-      "voter": "John Schuhmann",
+      "voter": "Omari Sankofa",
       "affiliation": "Detroit Free Press",
       "picks": [
         {
@@ -6424,7 +6403,7 @@
       ]
     },
     {
-      "voter": "Dennis Scott",
+      "voter": "John Schuhmann",
       "affiliation": "NBA.com",
       "picks": [
         {
@@ -6505,7 +6484,7 @@
       ]
     },
     {
-      "voter": "Ramona Shelburne",
+      "voter": "Dennis Scott",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -6586,7 +6565,7 @@
       ]
     },
     {
-      "voter": "Bill Simmons",
+      "voter": "Ramona Shelburne",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -6667,7 +6646,7 @@
       ]
     },
     {
-      "voter": "Mike Singer",
+      "voter": "Bill Simmons",
       "affiliation": "The Ringer",
       "picks": [
         {
@@ -6748,7 +6727,7 @@
       ]
     },
     {
-      "voter": "Anthony Slater",
+      "voter": "Mike Singer",
       "affiliation": "Denver Post",
       "picks": [
         {
@@ -6829,7 +6808,7 @@
       ]
     },
     {
-      "voter": "Doug Smith",
+      "voter": "Anthony Slater",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -6910,7 +6889,7 @@
       ]
     },
     {
-      "voter": "Stephen Smith",
+      "voter": "Doug Smith",
       "affiliation": "The Toronto Star",
       "picks": [
         {
@@ -6991,8 +6970,8 @@
       ]
     },
     {
-      "voter": "Steve Smith",
-      "affiliation": "ESPN",
+      "voter": "Stephen Smith",
+      "affiliation": "A. ESPN",
       "picks": [
         {
           "allNbaTeam": "1st",
@@ -7072,7 +7051,7 @@
       ]
     },
     {
-      "voter": "Seerat Sohi",
+      "voter": "Steve Smith",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -7153,7 +7132,7 @@
       ]
     },
     {
-      "voter": "Justin Termine",
+      "voter": "Seerat Sohi",
       "affiliation": "The Ringer",
       "picks": [
         {
@@ -7234,7 +7213,7 @@
       ]
     },
     {
-      "voter": "Stan Gundy",
+      "voter": "Justin Termine",
       "affiliation": "Sirius Radio",
       "picks": [
         {
@@ -7315,7 +7294,7 @@
       ]
     },
     {
-      "voter": "Joe Vardon",
+      "voter": "Stan Van Gundy",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -7396,7 +7375,7 @@
       ]
     },
     {
-      "voter": "David Villafranca",
+      "voter": "Joe Vardon",
       "affiliation": "The Athletic",
       "picks": [
         {
@@ -7477,7 +7456,7 @@
       ]
     },
     {
-      "voter": "Gary Washburn",
+      "voter": "David Villafranca",
       "affiliation": "EFE News",
       "picks": [
         {
@@ -7558,7 +7537,7 @@
       ]
     },
     {
-      "voter": "Michael Wilbon",
+      "voter": "Gary Washburn",
       "affiliation": "Boston Globe",
       "picks": [
         {
@@ -7639,7 +7618,7 @@
       ]
     },
     {
-      "voter": "Brian Windhorst",
+      "voter": "Michael Wilbon",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -7720,7 +7699,7 @@
       ]
     },
     {
-      "voter": "Matt Winer",
+      "voter": "Brian Windhorst",
       "affiliation": "ESPN",
       "picks": [
         {
@@ -7801,7 +7780,7 @@
       ]
     },
     {
-      "voter": "Michael Wright",
+      "voter": "Matt Winer",
       "affiliation": "WarnerMedia",
       "picks": [
         {
@@ -7882,8 +7861,8 @@
       ]
     },
     {
-      "voter": "Ohm Youngmisuk",
-      "affiliation": "NBA.com",
+      "voter": "Michael Wright",
+      "affiliation": "C. NBA.com",
       "picks": [
         {
           "allNbaTeam": "1st",
@@ -7963,7 +7942,7 @@
       ]
     },
     {
-      "voter": "Jeff Zillgitt",
+      "voter": "Ohm Youngmisuk",
       "affiliation": "ESPN",
       "picks": [
         {
