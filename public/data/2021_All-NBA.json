@@ -53,7 +53,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -71,6 +71,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -124,7 +134,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -142,6 +152,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -195,7 +215,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Russell Westbrook",
           "playerTeam": "WAS"
         },
@@ -213,6 +233,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -266,7 +296,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Jimmy Butler",
           "playerTeam": "MIA"
         },
@@ -284,6 +314,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -337,7 +377,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -354,6 +394,16 @@
         {
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
           "playerTeam": "UTA"
         }
       ]
@@ -408,7 +458,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Devin Booker",
           "playerTeam": "PHX"
         },
@@ -426,6 +476,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -479,7 +539,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "James Harden",
           "playerTeam": "BKN"
         },
@@ -497,6 +557,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -550,7 +620,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -568,6 +638,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
         }
       ]
     },
@@ -621,7 +701,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -639,6 +719,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -692,7 +782,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -710,6 +800,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -763,7 +863,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -781,6 +881,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -834,7 +944,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -852,6 +962,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -905,7 +1025,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -923,6 +1043,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -976,7 +1106,7 @@
           "playerTeam": "BKN"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -994,6 +1124,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
         }
       ]
     },
@@ -1047,7 +1187,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -1065,6 +1205,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -1118,7 +1268,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -1136,6 +1286,16 @@
           "allNbaTeam": "3rd",
           "player": "Domantas Sabonis",
           "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1189,7 +1349,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -1207,6 +1367,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Ben Simmons",
+          "playerTeam": "PHI"
         }
       ]
     },
@@ -1260,7 +1430,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Jimmy Butler",
           "playerTeam": "MIA"
         },
@@ -1278,6 +1448,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1331,7 +1511,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -1349,6 +1529,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1402,7 +1592,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -1420,6 +1610,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1473,7 +1673,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -1491,6 +1691,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1544,7 +1754,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -1562,6 +1772,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -1615,7 +1835,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Kyrie Irving",
           "playerTeam": "BKN"
         },
@@ -1633,6 +1853,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
         }
       ]
     },
@@ -1686,7 +1916,7 @@
           "playerTeam": "BKN"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -1704,6 +1934,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -1757,7 +1997,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -1775,6 +2015,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1828,7 +2078,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Devin Booker",
           "playerTeam": "PHX"
         },
@@ -1846,6 +2096,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1899,7 +2159,7 @@
           "playerTeam": "GSW"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -1917,6 +2177,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -1970,7 +2240,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -1988,6 +2258,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -2041,7 +2321,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -2059,6 +2339,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -2112,7 +2402,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Stephen Curry",
           "playerTeam": "GSW"
         },
@@ -2130,6 +2420,16 @@
           "allNbaTeam": "3rd",
           "player": "Nikola Vucevic",
           "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -2183,7 +2483,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2201,6 +2501,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
         }
       ]
     },
@@ -2254,7 +2564,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2272,6 +2582,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -2325,7 +2645,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2342,6 +2662,16 @@
         {
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
           "playerTeam": "UTA"
         }
       ]
@@ -2396,7 +2726,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2414,6 +2744,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -2467,7 +2807,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "LeBron James",
           "playerTeam": "LAL"
         },
@@ -2485,6 +2825,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -2538,7 +2888,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -2556,6 +2906,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -2609,7 +2969,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -2627,6 +2987,16 @@
           "allNbaTeam": "3rd",
           "player": "Anthony Davis",
           "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -2680,7 +3050,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2698,6 +3068,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -2751,7 +3131,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -2769,6 +3149,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -2822,7 +3212,7 @@
           "playerTeam": "BKN"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2839,6 +3229,16 @@
         {
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
           "playerTeam": "UTA"
         }
       ]
@@ -2893,7 +3293,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Jimmy Butler",
           "playerTeam": "MIA"
         },
@@ -2911,6 +3311,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -2964,7 +3374,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -2982,6 +3392,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -3035,7 +3455,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -3053,6 +3473,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
         }
       ]
     },
@@ -3106,7 +3536,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3124,6 +3554,16 @@
           "allNbaTeam": "3rd",
           "player": "Clint Capela",
           "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
         }
       ]
     },
@@ -3177,7 +3617,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3195,6 +3635,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -3248,7 +3698,7 @@
           "playerTeam": "MIA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -3266,6 +3716,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -3319,7 +3779,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3337,6 +3797,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -3390,7 +3860,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Russell Westbrook",
           "playerTeam": "WAS"
         },
@@ -3408,6 +3878,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -3461,7 +3941,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3479,6 +3959,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
         }
       ]
     },
@@ -3532,7 +4022,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3549,6 +4039,16 @@
         {
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
           "playerTeam": "UTA"
         }
       ]
@@ -3603,7 +4103,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Kyrie Irving",
           "playerTeam": "BKN"
         },
@@ -3621,6 +4121,16 @@
           "allNbaTeam": "3rd",
           "player": "Clint Capela",
           "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Damian Lillard",
+          "playerTeam": "POR"
         }
       ]
     },
@@ -3674,7 +4184,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -3692,6 +4202,16 @@
           "allNbaTeam": "3rd",
           "player": "Clint Capela",
           "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -3745,7 +4265,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -3763,6 +4283,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -3816,7 +4346,7 @@
           "playerTeam": "MIA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3834,6 +4364,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -3887,7 +4427,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -3905,6 +4445,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -3958,7 +4508,7 @@
           "playerTeam": "MIA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -3976,6 +4526,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
         }
       ]
     },
@@ -4029,7 +4589,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4047,6 +4607,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -4100,7 +4670,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4118,6 +4688,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -4171,7 +4751,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Jayson Tatum",
           "playerTeam": "BOS"
         },
@@ -4189,6 +4769,16 @@
           "allNbaTeam": "3rd",
           "player": "Joel Embiid",
           "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
         }
       ]
     },
@@ -4242,7 +4832,7 @@
           "playerTeam": "UTA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4260,6 +4850,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -4313,7 +4913,7 @@
           "playerTeam": "BKN"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -4331,6 +4931,16 @@
           "allNbaTeam": "3rd",
           "player": "Nikola Vucevic",
           "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Zach LaVine",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -4384,7 +4994,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4402,6 +5012,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -4455,7 +5075,7 @@
           "playerTeam": "MIA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -4473,6 +5093,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -4526,7 +5156,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4544,6 +5174,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Luka Doncic",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -4597,7 +5237,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4615,6 +5255,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -4668,7 +5318,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Kyrie Irving",
           "playerTeam": "BKN"
         },
@@ -4686,6 +5336,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -4739,7 +5399,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -4757,6 +5417,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -4810,7 +5480,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Bradley Beal",
           "playerTeam": "WAS"
         },
@@ -4828,6 +5498,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -4881,7 +5561,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -4899,6 +5579,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -4952,7 +5642,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Luka Doncic",
           "playerTeam": "DAL"
         },
@@ -4970,6 +5660,16 @@
           "allNbaTeam": "3rd",
           "player": "Joel Embiid",
           "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
         }
       ]
     },
@@ -5023,7 +5723,7 @@
           "playerTeam": "UTA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -5041,6 +5741,16 @@
           "allNbaTeam": "3rd",
           "player": "Anthony Davis",
           "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Trae Young",
+          "playerTeam": "ATL"
         }
       ]
     },
@@ -5094,7 +5804,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -5112,6 +5822,16 @@
           "allNbaTeam": "3rd",
           "player": "Draymond Green",
           "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -5165,7 +5885,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Kyrie Irving",
           "playerTeam": "BKN"
         },
@@ -5183,6 +5903,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -5236,7 +5966,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Jimmy Butler",
           "playerTeam": "MIA"
         },
@@ -5254,6 +5984,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -5307,7 +6047,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -5325,6 +6065,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -5378,7 +6128,7 @@
           "playerTeam": "WAS"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -5396,6 +6146,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
         }
       ]
     },
@@ -5449,7 +6209,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -5467,6 +6227,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
         }
       ]
     },
@@ -5520,7 +6290,7 @@
           "playerTeam": "MIA"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -5538,6 +6308,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -5591,7 +6371,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -5609,6 +6389,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -5662,7 +6452,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -5680,6 +6470,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -5733,7 +6533,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -5751,12 +6551,22 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
     {
-      "voter": "Stephen A. Smith",
-      "affiliation": "ESPN",
+      "voter": "Stephen Smith",
+      "affiliation": "A. ESPN",
       "picks": [
         {
           "allNbaTeam": "1st",
@@ -5804,7 +6614,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -5822,6 +6632,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -5875,7 +6695,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -5893,6 +6713,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -5946,7 +6776,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Bradley Beal",
           "playerTeam": "WAS"
         },
@@ -5963,6 +6793,16 @@
         {
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
           "playerTeam": "UTA"
         }
       ]
@@ -6017,7 +6857,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -6035,6 +6875,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
         }
       ]
     },
@@ -6088,7 +6938,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -6106,6 +6956,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -6159,7 +7019,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -6177,6 +7037,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
         }
       ]
     },
@@ -6230,7 +7100,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Kawhi Leonard",
           "playerTeam": "LAC"
         },
@@ -6248,6 +7118,16 @@
           "allNbaTeam": "3rd",
           "player": "Clint Capela",
           "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -6301,7 +7181,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -6319,6 +7199,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -6372,7 +7262,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -6390,6 +7280,16 @@
           "allNbaTeam": "3rd",
           "player": "Clint Capela",
           "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "UTA"
         }
       ]
     },
@@ -6443,7 +7343,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -6461,6 +7361,16 @@
           "allNbaTeam": "3rd",
           "player": "Clint Capela",
           "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -6514,7 +7424,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -6532,6 +7442,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -6585,7 +7505,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Bradley Beal",
           "playerTeam": "WAS"
         },
@@ -6603,6 +7523,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -6656,7 +7586,7 @@
           "playerTeam": "BKN"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -6674,6 +7604,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -6727,7 +7667,7 @@
           "playerTeam": "PHX"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -6745,6 +7685,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
         }
       ]
     },
@@ -6798,7 +7748,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -6816,6 +7766,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -6869,7 +7829,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -6887,12 +7847,22 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Paul George",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
     {
-      "voter": "Michael C. Wright",
-      "affiliation": "NBA.com",
+      "voter": "Michael Wright",
+      "affiliation": "C. NBA.com",
       "picks": [
         {
           "allNbaTeam": "1st",
@@ -6940,7 +7910,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Chris Paul",
           "playerTeam": "PHX"
         },
@@ -6958,6 +7928,16 @@
           "allNbaTeam": "3rd",
           "player": "Bam Adebayo",
           "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "James Harden",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     },
@@ -7011,7 +7991,7 @@
           "playerTeam": "POR"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Russell Westbrook",
           "playerTeam": "WAS"
         },
@@ -7029,6 +8009,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jimmy Butler",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
         }
       ]
     },
@@ -7082,7 +8072,7 @@
           "playerTeam": "DAL"
         },
         {
-          "allNbaTeam": "3rd",
+          "allNbaTeam": "2nd",
           "player": "Damian Lillard",
           "playerTeam": "POR"
         },
@@ -7100,6 +8090,16 @@
           "allNbaTeam": "3rd",
           "player": "Rudy Gobert",
           "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kyrie Irving",
+          "playerTeam": "BKN"
         }
       ]
     }
