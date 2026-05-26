@@ -31,6 +31,7 @@ const TAB_LABELS: Record<Tab, string> = {
 function App() {
   const initial = getInitialState();
   const [tab, setTab] = useState<Tab>(initial.tab);
+  const [menuOpen, setMenuOpen] = useState(false);
   const [selectedVoter, setSelectedVoter] = useState<string | null>(initial.voter);
   const [selectedPlayer, setSelectedPlayer] = useState<string | null>(initial.player);
 
@@ -219,7 +220,23 @@ function App() {
               </button>
             ))}
           </nav>
+          <button className="hamburger" onClick={() => setMenuOpen(o => !o)} aria-label="Menu">
+            {menuOpen ? "✕" : "☰"}
+          </button>
         </div>
+        {menuOpen && (
+          <div className="mobile-menu">
+            {(Object.keys(TAB_LABELS) as Tab[]).map(t => (
+              <button
+                key={t}
+                className={`mobile-menu-item${tab === t ? " active" : ""}`}
+                onClick={() => { handleTabChange(t); setMenuOpen(false); }}
+              >
+                {TAB_LABELS[t]}
+              </button>
+            ))}
+          </div>
+        )}
       </header>
       <div className="app-container">
 

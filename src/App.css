@@ -152,6 +152,68 @@ body {
   border-bottom-color: var(--gold);
 }
 
+/* Hamburger — hidden on desktop */
+.hamburger {
+  display: none;
+  background: none;
+  border: 1px solid rgba(156, 93, 65, 0.3);
+  color: var(--sand);
+  font-size: 18px;
+  line-height: 1;
+  padding: 6px 10px;
+  cursor: pointer;
+  margin-left: auto;
+  font-family: inherit;
+  transition: border-color var(--transition-fast), color var(--transition-fast);
+}
+
+.hamburger:hover {
+  border-color: var(--rust);
+  color: var(--gold);
+}
+
+.mobile-menu {
+  display: none;
+  flex-direction: column;
+  background: var(--dark2);
+  border-top: 1px solid rgba(156, 93, 65, 0.2);
+}
+
+.mobile-menu-item {
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgba(156, 93, 65, 0.15);
+  padding: 14px 28px;
+  text-align: left;
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--slate);
+  cursor: pointer;
+  transition: color var(--transition-fast), background var(--transition-fast);
+}
+
+.mobile-menu-item:last-child {
+  border-bottom: none;
+}
+
+.mobile-menu-item:hover {
+  color: var(--sand);
+  background: rgba(156, 93, 65, 0.08);
+}
+
+.mobile-menu-item.active {
+  color: var(--gold);
+}
+
+@media (max-width: 600px) {
+  .tab-bar { display: none; }
+  .hamburger { display: block; }
+  .mobile-menu { display: flex; }
+}
+
 /* ============================================================================
    APP SHELL
    ============================================================================ */
