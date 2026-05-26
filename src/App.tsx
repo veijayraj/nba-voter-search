@@ -205,27 +205,31 @@ function App() {
 
   return (
     <div className="app">
+      <header className="site-header">
+        <div className="site-header-inner">
+          <span className="site-title">NBA Award Voter Database</span>
+          <nav className="tab-bar">
+            {(Object.keys(TAB_LABELS) as Tab[]).map(t => (
+              <button
+                key={t}
+                className={`tab-btn${tab === t ? " active" : ""}`}
+                onClick={() => handleTabChange(t)}
+              >
+                {TAB_LABELS[t]}
+              </button>
+            ))}
+          </nav>
+        </div>
+      </header>
       <div className="app-container">
-        <nav className="tab-bar">
-          {(Object.keys(TAB_LABELS) as Tab[]).map(t => (
-            <button
-              key={t}
-              className={`tab-btn${tab === t ? " active" : ""}`}
-              onClick={() => handleTabChange(t)}
-            >
-              {TAB_LABELS[t]}
-            </button>
-          ))}
-        </nav>
 
         {tab === "search" && (
           <>
             <div style={{ marginBottom: "var(--spacing-2xl)" }}>
-              <h1>NBA Award Voter Database</h1>
-              <p style={{ color: "var(--text-secondary)", marginBottom: "var(--spacing-sm)" }}>
+              <p style={{ color: "var(--slate)", marginBottom: "var(--spacing-xs)" }}>
                 Explore voting patterns from 2018 to present
               </p>
-              <p style={{ color: "var(--text-tertiary)", fontSize: "0.8rem", marginBottom: 0 }}>
+              <p style={{ color: "var(--slate)", fontSize: "0.8rem", marginBottom: 0, opacity: 0.7 }}>
                 Note: 2023 All-NBA and All-Defensive voter data may be incomplete or incorrect.
               </p>
             </div>

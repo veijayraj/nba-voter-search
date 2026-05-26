@@ -26,10 +26,12 @@ interface VoterProfileProps {
 export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: VoterProfileProps) {
   const [data, setData] = useState<VoterData | null>(null);
   const [loading, setLoading] = useState(true);
-  const [selectedYear, setSelectedYear] = useState<string | "all">("all");
+  const [selectedYears, setSelectedYears] = useState<string[]>([]);
   const [selectedAward, setSelectedAward] = useState<string | "all">("all");
   const [selectedPlaces, setSelectedPlaces] = useState<string[]>([]);
   const [isRankOpen, setIsRankOpen] = useState(false);
+  const [isYearOpen, setIsYearOpen] = useState(false);
+  const [selectedTeams, setSelectedTeams] = useState<string[]>([]);
   const [allVoterNames, setAllVoterNames] = useState<string[]>([]);
   const [voterInput, setVoterInput] = useState("");
   const [showVoterDropdown, setShowVoterDropdown] = useState(false);
@@ -65,20 +67,27 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
     );
   };
 
+  const isTeamAward = selectedAward === "All-NBA" || selectedAward === "All-Defensive";
+
   const filteredVotes = useMemo(() => {
     if (!data) return [];
     return data.votes.map(vote => {
       const filteredPicks = vote.picks.filter(pick => {
-        if (selectedPlaces.length === 0 || selectedAward !== "MVP") return true;
-        return selectedPlaces.includes(pick.place || "");
+        if (selectedAward === "MVP" && selectedPlaces.length > 0) {
+          return selectedPlaces.includes(pick.place || "");
+        }
+        if (isTeamAward && selectedTeams.length > 0) {
+          return selectedTeams.includes(pick.allNbaTeam || "");
+        }
+        return true;
       });
       return { ...vote, picks: filteredPicks };
     }).filter(vote => {
-      const yearMatch = selectedYear === "all" || vote.year === selectedYear;
+      const yearMatch = selectedYears.length === 0 || selectedYears.includes(vote.year);
       const awardMatch = selectedAward === "all" || vote.award === selectedAward;
       return yearMatch && awardMatch && vote.picks.length > 0;
     });
-  }, [data, selectedYear, selectedAward, selectedPlaces]);
+  }, [data, selectedYears, selectedAward, selectedPlaces, selectedTeams, isTeamAward]);
 
   const groupedVotes = useMemo(() => {
     const groups: Record<string, Record<string, VoteData[]>> = {};
@@ -129,10 +138,29 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
 
           <div className="filter-group">
             <label className="filter-label">Season</label>
-            <select value={selectedYear} onChange={(e) => setSelectedYear(e.target.value)}>
-              <option value="all">All Seasons</option>
-              {years.map(year => <option key={year} value={year}>{year}</option>)}
-            </select>
+            <div className="multi-select-container">
+              <div className="multi-select-trigger" onClick={() => setIsYearOpen(o => !o)}>
+                {selectedYears.length === 0 ? "All Seasons" : selectedYears.length === 1 ? selectedYears[0] : `${selectedYears.length} Seasons`}
+              </div>
+              {isYearOpen && (
+                <div className="multi-select-dropdown">
+                  {years.map(year => (
+                    <label key={year} className="multi-select-item">
+                      <input
+                        type="checkbox"
+                        checked={selectedYears.includes(year)}
+                        onChange={() =>
+                          setSelectedYears(prev =>
+                            prev.includes(year) ? prev.filter(y => y !== year) : [...prev, year]
+                          )
+                        }
+                      />
+                      <span>{year}</span>
+                    </label>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
           
           <div className="filter-group">
@@ -140,6 +168,7 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
             <select value={selectedAward} onChange={(e) => {
               setSelectedAward(e.target.value);
               if (e.target.value !== "MVP") setSelectedPlaces([]);
+              setSelectedTeams([]);
             }}>
               <option value="all">All Awards</option>
               {awards.map(award => <option key={award} value={award}>{award}</option>)}
@@ -157,8 +186,8 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
                   <div className="multi-select-dropdown">
                     {ranks.map(rank => (
                       <label key={rank} className="multi-select-item">
-                        <input 
-                          type="checkbox" 
+                        <input
+                          type="checkbox"
                           checked={selectedPlaces.includes(rank)}
                           onChange={() => handlePlaceChange(rank)}
                         />
@@ -170,12 +199,33 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
               </div>
             </div>
           )}
+
+          {isTeamAward && (
+            <div className="filter-group">
+              <label className="filter-label">Team</label>
+              <div className="team-filter-pills">
+                {(selectedAward === "All-NBA" ? ["1st", "2nd", "3rd"] : ["1st", "2nd"]).map(team => (
+                  <button
+                    key={team}
+                    className={`team-pill${selectedTeams.includes(team) ? " active" : ""}`}
+                    onClick={() =>
+                      setSelectedTeams(prev =>
+                        prev.includes(team) ? prev.filter(t => t !== team) : [...prev, team]
+                      )
+                    }
+                  >
+                    {team}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
 
         <div className="voter-history">
           {Object.entries(groupedVotes).sort(([a], [b]) => parseInt(b) - parseInt(a)).map(([year, awardDict]) => (
             <div key={year} className="voter-year">
-              <h2>{year}</h2>
+              <h2>{year} — {voter}</h2>
               <div className="voter-year-votes">
                 {Object.entries(awardDict).map(([award, votes]) => (
                   votes.map((vote, i) => (
