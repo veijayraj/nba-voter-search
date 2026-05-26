@@ -21,9 +21,17 @@ export function PlayerProfile({ player, onBack, onVoterClick }: PlayerProfilePro
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    // Normalize Unicode hyphens (U+2010) to regular hyphens for consistent key lookup
+    const normalize = (s: string) => s.replace(/‐/g, '-');
     fetch("./data/players.json")
       .then((res) => res.json())
-      .then((allPlayers) => setData(allPlayers[player] || null))
+      .then((allPlayers: Record<string, PlayerData>) => {
+        const normalizedPlayer = normalize(player);
+        const match = allPlayers[player]
+          ?? Object.entries(allPlayers).find(([k]) => normalize(k) === normalizedPlayer)?.[1]
+          ?? null;
+        setData(match);
+      })
       .finally(() => setLoading(false));
   }, [player]);
 
@@ -92,7 +100,7 @@ export function PlayerProfile({ player, onBack, onVoterClick }: PlayerProfilePro
             
             return (
               <div key={year} className="player-year">
-                <h2>{year}</h2>
+                <h2>{year} — {player}</h2>
                 {awards.map((award) => {
                   const awardVotes = yearVotes.filter(v => v.award === award);
                   const byPosition: Record<string, string[]> = {};
