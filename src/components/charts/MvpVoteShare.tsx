@@ -155,7 +155,7 @@ export function MvpVoteShare() {
           Add up to 5 players above to compare their MVP vote share over time.
         </div>
       ) : (
-        <ResponsiveContainer width="100%" height={380}>
+        <ResponsiveContainer width="100%" height={typeof window !== "undefined" && window.innerWidth < 600 ? 260 : 380}>
           <LineChart data={chartData} margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
             <CartesianGrid strokeDasharray="3 3" stroke="var(--border)" />
             <XAxis dataKey="year" tick={{ fontSize: 13 }} />
@@ -164,7 +164,7 @@ export function MvpVoteShare() {
               tick={{ fontSize: 12 }}
               domain={[0, 100]}
             />
-            <Tooltip formatter={(v: number) => [`${v.toFixed(1)}%`]} />
+            <Tooltip formatter={(v) => [`${Number(v).toFixed(1)}%`]} />
             <Legend />
             {selectedPlayers.map((p, i) => (
               <Line
