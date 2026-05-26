@@ -3,49 +3,63 @@ import { Filters } from "./components/Filters";
 import { VoteTable } from "./components/VoteTable";
 import { VoterProfile } from "./components/VoterProfile";
 import { PlayerProfile } from "./components/PlayerProfile";
+import { AnalyticsPage } from "./components/AnalyticsPage";
 import { fetchAwardData } from "./utils/api";
 import type { AwardData } from "./types";
 import "./App.css";
 
-type View = { type: "explorer" } | { type: "voter"; name: string } | { type: "player"; name: string };
+type Tab = "search" | "voters" | "players" | "analytics";
 
-function getInitialView(): View {
+function getInitialState(): { tab: Tab; voter: string | null; player: string | null } {
   const hash = window.location.hash;
   if (hash.startsWith("#voter/")) {
-    return { type: "voter", name: decodeURIComponent(hash.replace("#voter/", "")) };
+    return { tab: "voters", voter: decodeURIComponent(hash.replace("#voter/", "")), player: null };
   }
   if (hash.startsWith("#player/")) {
-    return { type: "player", name: decodeURIComponent(hash.replace("#player/", "")) };
+    return { tab: "players", voter: null, player: decodeURIComponent(hash.replace("#player/", "")) };
   }
-  return { type: "explorer" };
+  return { tab: "search", voter: null, player: null };
 }
 
+const TAB_LABELS: Record<Tab, string> = {
+  search: "Search",
+  voters: "Voters",
+  players: "Players",
+  analytics: "Analytics",
+};
+
 function App() {
+  const initial = getInitialState();
+  const [tab, setTab] = useState<Tab>(initial.tab);
+  const [selectedVoter, setSelectedVoter] = useState<string | null>(initial.voter);
+  const [selectedPlayer, setSelectedPlayer] = useState<string | null>(initial.player);
+
+  // Search tab state
   const [year, setYear] = useState("2025");
   const [award, setAward] = useState("MVP");
   const [voterSearch, setVoterSearch] = useState("");
   const [playerSearch, setPlayerSearch] = useState("");
   const [data, setData] = useState<AwardData | null>(null);
   const [loading, setLoading] = useState(true);
-  const [view, setView] = useState<View>(getInitialView);
+
+  // Autocomplete lists
   const [votersList, setVotersList] = useState<string[]>([]);
+  const [playersList, setPlayersList] = useState<string[]>([]);
   const [voterInput, setVoterInput] = useState("");
+  const [playerInput, setPlayerInput] = useState("");
   const [showVoterSuggestions, setShowVoterSuggestions] = useState(false);
+  const [showPlayerSuggestions, setShowPlayerSuggestions] = useState(false);
 
   useEffect(() => {
-    fetch("./data/voters.json")
-      .then(r => r.json())
-      .then(d => setVotersList(Object.keys(d).sort()));
+    fetch("./data/voters.json").then(r => r.json()).then(d => setVotersList(Object.keys(d).sort()));
+    fetch("./data/players.json").then(r => r.json()).then(d => setPlayersList(Object.keys(d).sort()));
   }, []);
 
   useEffect(() => {
     let cancelled = false;
     setLoading(true);
     fetchAwardData(year, award).then((result) => {
-      if (!cancelled) {
-        setData(result);
-        setLoading(false);
-      }
+      if (!cancelled) { setData(result); setLoading(false); }
     });
     return () => { cancelled = true; };
   }, [year, award]);
@@ -60,18 +74,28 @@ function App() {
   }, []);
 
   const handleVoterClick = (voter: string) => {
-    setView({ type: "voter", name: voter });
+    setSelectedVoter(voter);
+    setTab("voters");
     window.location.hash = `voter/${encodeURIComponent(voter)}`;
   };
 
   const handlePlayerClick = (player: string) => {
-    setView({ type: "player", name: player });
+    setSelectedPlayer(player);
+    setTab("players");
     window.location.hash = `player/${encodeURIComponent(player)}`;
   };
 
-  const handleBack = () => {
-    setView({ type: "explorer" });
-    window.location.hash = "";
+  const handleTabChange = (newTab: Tab) => {
+    setTab(newTab);
+    if (newTab === "search") {
+      window.location.hash = "";
+    } else if (newTab === "voters" && selectedVoter) {
+      window.location.hash = `voter/${encodeURIComponent(selectedVoter)}`;
+    } else if (newTab === "players" && selectedPlayer) {
+      window.location.hash = `player/${encodeURIComponent(selectedPlayer)}`;
+    } else {
+      window.location.hash = "";
+    }
   };
 
   const filteredVotes = data?.votes.filter((vote) => {
@@ -82,33 +106,28 @@ function App() {
     return voterMatch && playerMatch;
   }) ?? [];
 
-  if (view.type === "voter") {
+  const renderVotersTab = () => {
+    if (selectedVoter) {
+      return (
+        <VoterProfile
+          key={selectedVoter}
+          voter={selectedVoter}
+          onBack={() => { setSelectedVoter(null); window.location.hash = ""; }}
+          onPlayerClick={handlePlayerClick}
+          onVoterClick={handleVoterClick}
+        />
+      );
+    }
     return (
-      <VoterProfile key={view.name} voter={view.name} onBack={handleBack} onPlayerClick={handlePlayerClick} onVoterClick={handleVoterClick} />
-    );
-  }
-
-  if (view.type === "player") {
-    return (
-      <PlayerProfile player={view.name} onBack={handleBack} onVoterClick={handleVoterClick} />
-    );
-  }
-
-  return (
-    <div className="app">
-      <div className="app-container">
-        <div style={{ marginBottom: 'var(--spacing-2xl)' }}>
-          <h1>NBA Award Voter Database</h1>
-          <p style={{ color: 'var(--text-secondary)', marginBottom: 'var(--spacing-sm)' }}>
-            Explore voting patterns from 2018 to present
-          </p>
-          <p style={{ color: 'var(--text-tertiary)', fontSize: '0.8rem', marginBottom: 0 }}>
-            Note: 2023 All-NBA and All-Defensive voter data may be incomplete or incorrect.
+      <div>
+        <div style={{ marginBottom: "var(--spacing-2xl)" }}>
+          <h1>Voter Profiles</h1>
+          <p style={{ color: "var(--text-secondary)", marginBottom: 0 }}>
+            Search for a voter to explore their full voting history
           </p>
         </div>
-
         <div className="voter-jump-card">
-          <label className="filter-label">Go to voter profile</label>
+          <label className="filter-label">Find a voter</label>
           <div className="voter-autocomplete-wrap">
             <input
               className="voter-jump-input"
@@ -132,69 +151,136 @@ function App() {
             })()}
           </div>
         </div>
+      </div>
+    );
+  };
 
-        <Filters 
-          year={year} 
-          award={award} 
-          voterSearch={voterSearch} 
-          playerSearch={playerSearch} 
-          onChange={handleFilterChange}
+  const renderPlayersTab = () => {
+    if (selectedPlayer) {
+      return (
+        <PlayerProfile
+          key={selectedPlayer}
+          player={selectedPlayer}
+          onBack={() => { setSelectedPlayer(null); window.location.hash = ""; }}
+          onVoterClick={handleVoterClick}
         />
-
-        {loading ? (
-          <div className="loading">
-            <div className="loader"></div>
-            Loading award data...
-          </div>
-        ) : data ? (
-          <>
-            {filteredVotes.length > 0 ? (
-              <>
-                <div className="results-count">
-                  <strong>{filteredVotes.length}</strong> of <strong>{data.votes.length}</strong> votes displayed
+      );
+    }
+    return (
+      <div>
+        <div style={{ marginBottom: "var(--spacing-2xl)" }}>
+          <h1>Player Profiles</h1>
+          <p style={{ color: "var(--text-secondary)", marginBottom: 0 }}>
+            Search for a player to see how they've been voted on across seasons
+          </p>
+        </div>
+        <div className="voter-jump-card">
+          <label className="filter-label">Find a player</label>
+          <div className="voter-autocomplete-wrap">
+            <input
+              className="voter-jump-input"
+              placeholder="Search player name..."
+              value={playerInput}
+              onChange={e => { setPlayerInput(e.target.value); setShowPlayerSuggestions(true); }}
+              onFocus={() => setShowPlayerSuggestions(true)}
+              onBlur={() => setTimeout(() => setShowPlayerSuggestions(false), 150)}
+            />
+            {showPlayerSuggestions && playerInput && (() => {
+              const matches = playersList.filter(p => p.toLowerCase().includes(playerInput.toLowerCase())).slice(0, 8);
+              return matches.length > 0 ? (
+                <div className="voter-autocomplete-dropdown">
+                  {matches.map(p => (
+                    <div key={p} className="voter-autocomplete-item" onMouseDown={() => { handlePlayerClick(p); setPlayerInput(""); }}>
+                      {p}
+                    </div>
+                  ))}
                 </div>
-                <VoteTable 
-                  votes={filteredVotes} 
-                  award={award} 
-                  voterSearch={voterSearch} 
-                  playerSearch={playerSearch} 
-                  onVoterClick={handleVoterClick} 
-                  onPlayerClick={handlePlayerClick} 
-                />
+              ) : null;
+            })()}
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  return (
+    <div className="app">
+      <div className="app-container">
+        <nav className="tab-bar">
+          {(Object.keys(TAB_LABELS) as Tab[]).map(t => (
+            <button
+              key={t}
+              className={`tab-btn${tab === t ? " active" : ""}`}
+              onClick={() => handleTabChange(t)}
+            >
+              {TAB_LABELS[t]}
+            </button>
+          ))}
+        </nav>
+
+        {tab === "search" && (
+          <>
+            <div style={{ marginBottom: "var(--spacing-2xl)" }}>
+              <h1>NBA Award Voter Database</h1>
+              <p style={{ color: "var(--text-secondary)", marginBottom: "var(--spacing-sm)" }}>
+                Explore voting patterns from 2018 to present
+              </p>
+              <p style={{ color: "var(--text-tertiary)", fontSize: "0.8rem", marginBottom: 0 }}>
+                Note: 2023 All-NBA and All-Defensive voter data may be incomplete or incorrect.
+              </p>
+            </div>
+
+            <Filters
+              year={year}
+              award={award}
+              voterSearch={voterSearch}
+              playerSearch={playerSearch}
+              onChange={handleFilterChange}
+            />
+
+            {loading ? (
+              <div className="loading">
+                <div className="loader"></div>
+                Loading award data...
+              </div>
+            ) : data ? (
+              <>
+                {filteredVotes.length > 0 ? (
+                  <>
+                    <div className="results-count">
+                      <strong>{filteredVotes.length}</strong> of <strong>{data.votes.length}</strong> votes displayed
+                    </div>
+                    <VoteTable
+                      votes={filteredVotes}
+                      award={award}
+                      voterSearch={voterSearch}
+                      playerSearch={playerSearch}
+                      onVoterClick={handleVoterClick}
+                      onPlayerClick={handlePlayerClick}
+                    />
+                  </>
+                ) : (
+                  <div style={{ background: "var(--bg-primary)", padding: "var(--spacing-2xl)", borderRadius: "var(--radius-lg)", textAlign: "center", color: "var(--text-tertiary)" }}>
+                    <p style={{ marginBottom: 0 }}>No votes match your search criteria.</p>
+                  </div>
+                )}
               </>
             ) : (
-              <div style={{ 
-                background: 'var(--bg-primary)',
-                padding: 'var(--spacing-2xl)',
-                borderRadius: 'var(--radius-lg)',
-                textAlign: 'center',
-                color: 'var(--text-tertiary)'
-              }}>
-                <p style={{ marginBottom: 0 }}>No votes match your search criteria.</p>
+              <div style={{ background: "var(--bg-primary)", padding: "var(--spacing-2xl)", borderRadius: "var(--radius-lg)", textAlign: "center", color: "var(--text-tertiary)" }}>
+                <p style={{ marginBottom: 0 }}>Unable to load data. Please try again.</p>
               </div>
             )}
+
+            <div style={{ marginTop: "var(--spacing-3xl)", paddingTop: "var(--spacing-lg)", borderTop: "1px solid var(--border)", textAlign: "center", color: "var(--text-tertiary)", fontSize: "0.8rem" }}>
+              All data courtesy of{" "}
+              <a href="https://www.nba.com" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-tertiary)" }}>NBA.com</a>
+            </div>
           </>
-        ) : (
-          <div style={{ 
-            background: 'var(--bg-primary)',
-            padding: 'var(--spacing-2xl)',
-            borderRadius: 'var(--radius-lg)',
-            textAlign: 'center',
-            color: 'var(--text-tertiary)'
-          }}>
-            <p style={{ marginBottom: 0 }}>Unable to load data. Please try again.</p>
-          </div>
         )}
-        <div style={{
-          marginTop: 'var(--spacing-3xl)',
-          paddingTop: 'var(--spacing-lg)',
-          borderTop: '1px solid var(--border)',
-          textAlign: 'center',
-          color: 'var(--text-tertiary)',
-          fontSize: '0.8rem'
-        }}>
-          All data courtesy of <a href="https://www.nba.com" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-tertiary)' }}>NBA.com</a>
-        </div>
+
+        {tab === "voters" && renderVotersTab()}
+        {tab === "players" && renderPlayersTab()}
+        {tab === "analytics" && <AnalyticsPage />}
       </div>
     </div>
   );

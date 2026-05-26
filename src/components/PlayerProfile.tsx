@@ -29,23 +29,21 @@ export function PlayerProfile({ player, onBack, onVoterClick }: PlayerProfilePro
 
   if (loading) {
     return (
-      <div className="app">
-        <div className="loading">
-          <div className="loader"></div>
-          Loading player data...
-        </div>
+      <div className="loading">
+        <div className="loader"></div>
+        Loading player data...
       </div>
     );
   }
 
   if (!data) {
     return (
-      <div className="app">
+      <>
         <button className="back-button" onClick={onBack}>← Back to Explorer</button>
         <div className="player-profile">
           <p>Player not found: {player}</p>
         </div>
-      </div>
+      </>
     );
   }
 
@@ -60,7 +58,7 @@ export function PlayerProfile({ player, onBack, onVoterClick }: PlayerProfilePro
   const years = [...new Set(data.received.map(v => v.year))].sort().reverse();
 
   return (
-    <div className="app">
+    <>
       <button className="back-button" onClick={onBack}>← Back to Explorer</button>
       
       <div className="player-profile">
@@ -135,6 +133,6 @@ export function PlayerProfile({ player, onBack, onVoterClick }: PlayerProfilePro
           })}
         </div>
       </div>
-    </div>
+    </>
   );
 }

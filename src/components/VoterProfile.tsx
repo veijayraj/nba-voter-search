@@ -90,15 +90,14 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
     return groups;
   }, [filteredVotes]);
 
-  if (loading) return <div className="app"><div className="loading">Loading...</div></div>;
-  if (!data) return <div className="app"><button className="back-button" onClick={onBack}>← Back</button><p>Not found</p></div>;
+  if (loading) return <div className="loading"><div className="loader"></div>Loading voter data...</div>;
+  if (!data) return <><button className="back-button" onClick={onBack}>← Back</button><p>Not found</p></>;
 
   const ranks = ["1st", "2nd", "3rd", "4th", "5th"];
 
   return (
-    <div className="app">
+    <>
       <button className="back-button" onClick={onBack}>← Back to Explorer</button>
-      
       <div className="voter-profile">
         <div className="voter-header">
           <h1 className="voter-name">{voter}</h1>
@@ -203,6 +202,6 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
           ))}
         </div>
       </div>
-    </div>
+    </>
   );
 }
