@@ -4,6 +4,87 @@
   "awardType": "team",
   "votes": [
     {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Jaylen Brown",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Dončić",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Jokić",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
       "voter": "Sam Amick",
       "affiliation": "The Athletic",
       "picks": [
@@ -1453,6 +1534,87 @@
           "allNbaTeam": "3rd",
           "player": "Kawhi Leonard",
           "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Claire de Lune",
+      "affiliation": "The Guardian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Luka Dončić",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Jokić",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jaylen Brown",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Donovan Mitchell",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
         },
         {
           "allNbaTeam": "3rd",

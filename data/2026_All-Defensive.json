@@ -4,6 +4,62 @@
   "awardType": "team",
   "votes": [
     {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "OG Anunoby",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
       "voter": "Sam Amick",
       "affiliation": "The Athletic",
       "picks": [
@@ -1008,6 +1064,62 @@
           "allNbaTeam": "2nd",
           "player": "Derrick White",
           "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Claire de Lune",
+      "affiliation": "The Guardian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "OG Anunoby",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
   "overall": {
     "total_voters": 233,
-    "total_players": 389,
-    "total_ballots": 7491,
+    "total_players": 431,
+    "total_ballots": 7488,
     "years_covered": [
       "2018",
       "2019",
@@ -22,7 +22,7 @@
       "winner": "Shai Gilgeous-Alexander",
       "winner_share": 91.2,
       "winner_first_place": 70,
-      "runner_up": "Nikola Joki\u0107",
+      "runner_up": "Nikola Jokić",
       "runner_up_share": 78.8,
       "margin": 12.4,
       "top_5": [
@@ -33,7 +33,7 @@
           "first_place_votes": 70
         },
         {
-          "player": "Nikola Joki\u0107",
+          "player": "Nikola Jokić",
           "points": 780,
           "vote_share": 78.8,
           "first_place_votes": 29
@@ -61,42 +61,42 @@
     {
       "year": "2024",
       "num_voters": 99,
-      "winner": "Nikola Jokic",
-      "winner_share": 93.5,
-      "winner_first_place": 79,
+      "winner": "Nikola Jokić",
+      "winner_share": 65.6,
+      "winner_first_place": 0,
       "runner_up": "Shai Gilgeous-Alexander",
-      "runner_up_share": 64.6,
-      "margin": 28.9,
+      "runner_up_share": 43.2,
+      "margin": 22.4,
       "top_5": [
         {
-          "player": "Nikola Jokic",
-          "points": 926,
-          "vote_share": 93.5,
-          "first_place_votes": 79
+          "player": "Nikola Jokić",
+          "points": 649,
+          "vote_share": 65.6,
+          "first_place_votes": 0
         },
         {
           "player": "Shai Gilgeous-Alexander",
-          "points": 640,
-          "vote_share": 64.6,
-          "first_place_votes": 15
-        },
-        {
-          "player": "Luka Doncic",
-          "points": 566,
-          "vote_share": 57.2,
-          "first_place_votes": 4
-        },
-        {
-          "player": "Giannis Antetokounmpo",
-          "points": 192,
-          "vote_share": 19.4,
-          "first_place_votes": 1
-        },
-        {
-          "player": "Jalen Brunson",
-          "points": 142,
-          "vote_share": 14.3,
+          "points": 428,
+          "vote_share": 43.2,
           "first_place_votes": 0
+        },
+        {
+          "player": "Luka Dončić",
+          "points": 366,
+          "vote_share": 37.0,
+          "first_place_votes": 0
+        },
+        {
+          "player": "ESPN",
+          "points": 160,
+          "vote_share": 16.2,
+          "first_place_votes": 16
+        },
+        {
+          "player": "The Athletic",
+          "points": 130,
+          "vote_share": 13.1,
+          "first_place_votes": 13
         }
       ]
     },
@@ -106,7 +106,7 @@
       "winner": "Joel Embiid",
       "winner_share": 91.5,
       "winner_first_place": 73,
-      "runner_up": "Nikola Jokic",
+      "runner_up": "Nikola Jokić",
       "runner_up_share": 67.4,
       "margin": 24.1,
       "top_5": [
@@ -117,7 +117,7 @@
           "first_place_votes": 73
         },
         {
-          "player": "Nikola Jokic",
+          "player": "Nikola Jokić",
           "points": 674,
           "vote_share": 67.4,
           "first_place_votes": 15
@@ -145,7 +145,7 @@
     {
       "year": "2022",
       "num_voters": 100,
-      "winner": "Nikola Jokic",
+      "winner": "Nikola Jokić",
       "winner_share": 85.5,
       "winner_first_place": 63,
       "runner_up": "Joel Embiid",
@@ -153,7 +153,7 @@
       "margin": 14.9,
       "top_5": [
         {
-          "player": "Nikola Jokic",
+          "player": "Nikola Jokić",
           "points": 855,
           "vote_share": 85.5,
           "first_place_votes": 63
@@ -177,7 +177,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Luka Doncic",
+          "player": "Luka Dončić",
           "points": 146,
           "vote_share": 14.6,
           "first_place_votes": 0
@@ -187,7 +187,7 @@
     {
       "year": "2021",
       "num_voters": 101,
-      "winner": "Nikola Jokic",
+      "winner": "Nikola Jokić",
       "winner_share": 96.1,
       "winner_first_place": 91,
       "runner_up": "Joel Embiid",
@@ -195,7 +195,7 @@
       "margin": 38.1,
       "top_5": [
         {
-          "player": "Nikola Jokic",
+          "player": "Nikola Jokić",
           "points": 971,
           "vote_share": 96.1,
           "first_place_votes": 91
@@ -255,7 +255,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Luka Doncic",
+          "player": "Luka Dončić",
           "points": 200,
           "vote_share": 19.8,
           "first_place_votes": 0
@@ -297,7 +297,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Nikola Jokic",
+          "player": "Nikola Jokić",
           "points": 212,
           "vote_share": 21.0,
           "first_place_votes": 0
@@ -354,7 +354,7 @@
     }
   ],
   "most_unanimous_mvp": {
-    "player": "Nikola Jokic",
+    "player": "Nikola Jokić",
     "year": "2021",
     "vote_share": 96.1,
     "first_place_votes": 91,
@@ -364,7 +364,7 @@
     "year": "2025",
     "winner": "Shai Gilgeous-Alexander",
     "winner_share": 91.2,
-    "runner_up": "Nikola Joki\u0107",
+    "runner_up": "Nikola Jokić",
     "runner_up_share": 78.8,
     "margin": 12.4
   },
@@ -387,7 +387,7 @@
         "year": "2021",
         "award": "MVP",
         "fan_pick": "Derrick Rose",
-        "media_pick": "Nikola Jokic"
+        "media_pick": "Nikola Jokić"
       }
     ]
   },
@@ -407,8 +407,8 @@
       ]
     },
     "most_ballots": {
-      "voter": "Jeff Zillgitt",
-      "count": 77
+      "voter": "Bill Simmons",
+      "count": 75
     }
   },
   "lone_wolf_votes": [
@@ -424,7 +424,7 @@
       "award": "6MOY",
       "player": "Dwyane Wade",
       "place": "2nd",
-      "voter": "Diego Mart\u00ednez Cabrera"
+      "voter": "Diego Martínez Cabrera"
     },
     {
       "year": "2018",
@@ -592,7 +592,7 @@
       "award": "DPOY",
       "player": "Victor Oladipo",
       "place": "3rd",
-      "voter": "Rosalyn Gold\u2010Onwude"
+      "voter": "Rosalyn Gold‐Onwude"
     },
     {
       "year": "2018",
@@ -660,7 +660,7 @@
     {
       "year": "2018",
       "award": "MIP",
-      "player": "Karl\u2010Anthony Towns",
+      "player": "Karl‐Anthony Towns",
       "place": "3rd",
       "voter": "Frank Isola"
     },
@@ -1045,7 +1045,7 @@
     {
       "year": "2019",
       "award": "MIP",
-      "player": "Willie Cauley\u2010Stein",
+      "player": "Willie Cauley‐Stein",
       "place": "3rd",
       "voter": "Dennis Scott"
     },
@@ -1528,7 +1528,7 @@
     {
       "year": "2021",
       "award": "MVP",
-      "player": "Nikola Jokic",
+      "player": "Nikola Jokić",
       "place": "3rd",
       "voter": "NBA Fan Vote"
     },
@@ -1542,7 +1542,7 @@
     {
       "year": "2021",
       "award": "MVP",
-      "player": "Luka Doncic",
+      "player": "Luka Dončić",
       "place": "2nd",
       "voter": "Max Haupt"
     },
@@ -1738,7 +1738,7 @@
     {
       "year": "2022",
       "award": "MVP",
-      "player": "Luka Doncic",
+      "player": "Luka Dončić",
       "place": "2nd",
       "voter": "Greg Anthony"
     },
@@ -1899,14 +1899,14 @@
     {
       "year": "2023",
       "award": "CLUTCH",
-      "player": "Nikola Jokic",
+      "player": "Nikola Jokić",
       "place": "2nd",
       "voter": "Frank Isola"
     },
     {
       "year": "2023",
       "award": "CLUTCH",
-      "player": "Luka Doncic",
+      "player": "Luka Dončić",
       "place": "1st",
       "voter": "Brian Mahoney"
     },
@@ -2137,359 +2137,2046 @@
     {
       "year": "2024",
       "award": "6MOY",
-      "player": "Tim Hardaway Jr.",
-      "place": "3rd",
+      "player": "Sacramento Bee",
+      "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Charlotte Observer",
+      "place": "1st",
       "voter": "Rod Boone"
     },
     {
       "year": "2024",
       "award": "6MOY",
-      "player": "Jonathan Isaac",
-      "place": "3rd",
+      "player": "FS1",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Denver Post",
+      "place": "1st",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Cleveland.com",
+      "place": "1st",
       "voter": "Chris Fedor"
     },
     {
       "year": "2024",
       "award": "6MOY",
+      "player": "MARCA",
+      "place": "1st",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
       "player": "Jose Alvarado",
-      "place": "2nd",
-      "voter": "Ignacio Garcia"
-    },
-    {
-      "year": "2024",
-      "award": "6MOY",
-      "player": "Jaime Jaquez Jr.",
       "place": "3rd",
       "voter": "Ignacio Garcia"
     },
     {
       "year": "2024",
       "award": "6MOY",
-      "player": "Bojan Bogdanovic",
-      "place": "3rd",
-      "voter": "Bill Reiter"
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "SDNA",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Arizona Republic",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "The Toronto Star",
+      "place": "1st",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "6MOY",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Luka Doncic",
+      "player": "Sacramento Bee",
       "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Luka Dončić",
+      "place": "2nd",
       "voter": "Greg Anthony"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "LeBron James",
-      "place": "2nd",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Charlotte Observer",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "FS1",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
       "voter": "Damichael Cole"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Jalen Williams",
+      "player": "LeBron James",
       "place": "3rd",
       "voter": "Damichael Cole"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Anthony Edwards",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Denver Post",
+      "place": "1st",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Cleveland.com",
+      "place": "1st",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "MARCA",
       "place": "1st",
       "voter": "Ignacio Garcia"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Jayson Tatum",
+      "player": "Anthony Edwards",
+      "place": "2nd",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "SDNA",
       "place": "1st",
       "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Malik Monk",
-      "place": "3rd",
+      "player": "Jayson Tatum",
+      "place": "2nd",
       "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Giannis Antetokounmpo",
-      "place": "3rd",
-      "voter": "Kevin Pelton"
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "De'Aaron Fox",
-      "place": "3rd",
-      "voter": "Stan Van Gundy"
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
     },
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Anthony Edwards",
-      "place": "3rd",
-      "voter": "Gary Washburn"
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Arizona Republic",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "The Toronto Star",
+      "place": "1st",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "CLUTCH",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "Erik Spoelstra",
+      "player": "Sacramento Bee",
+      "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Charlotte Observer",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "FS1",
       "place": "1st",
       "voter": "Ric Bucher"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "J.B. Bickerstaff",
-      "place": "3rd",
-      "voter": "James Edwards III"
+      "player": "Erik Spoelstra",
+      "place": "2nd",
+      "voter": "Ric Bucher"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "Erik Spoelstra",
-      "place": "3rd",
-      "voter": "Will Guillory"
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Denver Post",
+      "place": "1st",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Cleveland.com",
+      "place": "1st",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "MARCA",
+      "place": "1st",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
     },
     {
       "year": "2024",
       "award": "COY",
       "player": "Ime Udoka",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Kelly Iko"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "Chris Finch",
+      "player": "SDNA",
       "place": "1st",
       "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "Mark Daigneault",
-      "place": "3rd",
-      "voter": "Dave McMenamin"
+      "player": "Chris Finch",
+      "place": "2nd",
+      "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "Michael Malone",
-      "place": "3rd",
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Arizona Republic",
+      "place": "1st",
       "voter": "Duane Rankin"
     },
     {
       "year": "2024",
       "award": "COY",
-      "player": "Jason Kidd",
-      "place": "3rd",
-      "voter": "Michael Wilbon"
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "The Toronto Star",
+      "place": "1st",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "COY",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
     },
     {
       "year": "2024",
       "award": "DPOY",
-      "player": "Rudy Gobert",
-      "place": "3rd",
+      "player": "Sacramento Bee",
+      "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Charlotte Observer",
+      "place": "1st",
       "voter": "Rod Boone"
     },
     {
       "year": "2024",
       "award": "DPOY",
-      "player": "Domantas Sabonis",
-      "place": "3rd",
+      "player": "FS1",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Denver Post",
+      "place": "1st",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Cleveland.com",
+      "place": "1st",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "MARCA",
+      "place": "1st",
       "voter": "Ignacio Garcia"
     },
     {
       "year": "2024",
       "award": "DPOY",
-      "player": "Jalen Suggs",
-      "place": "3rd",
-      "voter": "Brian Geltzeiler"
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "SDNA",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "DPOY",
       "player": "Jrue Holiday",
-      "place": "1st",
-      "voter": "Tolis Kotzias"
-    },
-    {
-      "year": "2024",
-      "award": "DPOY",
-      "player": "Giannis Antetokounmpo",
       "place": "2nd",
       "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "DPOY",
-      "player": "Jarrett Allen",
+      "player": "Giannis Antetokounmpo",
       "place": "3rd",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
       "voter": "Keith Pompey"
     },
     {
       "year": "2024",
       "award": "DPOY",
-      "player": "Alex Caruso",
-      "place": "3rd",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Arizona Republic",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "The Toronto Star",
+      "place": "1st",
       "voter": "Doug Smith"
     },
     {
       "year": "2024",
       "award": "DPOY",
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
       "player": "Derrick White",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Gary Washburn"
     },
     {
       "year": "2024",
+      "award": "DPOY",
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "DPOY",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
+    },
+    {
+      "year": "2024",
       "award": "MIP",
-      "player": "Grayson Allen",
-      "place": "3rd",
+      "player": "Sacramento Bee",
+      "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Charlotte Observer",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "FS1",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Denver Post",
+      "place": "1st",
       "voter": "Bennett Durando"
     },
     {
       "year": "2024",
       "award": "MIP",
+      "player": "Cleveland.com",
+      "place": "1st",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "MARCA",
+      "place": "1st",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
       "player": "Shai Gilgeous-Alexander",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Adam Himmelsbach"
     },
     {
       "year": "2024",
       "award": "MIP",
-      "player": "Tyrese Haliburton",
+      "player": "SDNA",
       "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Tyrese Haliburton",
+      "place": "2nd",
       "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "MIP",
       "player": "Grayson Allen",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Arizona Republic",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
     },
     {
       "year": "2024",
       "award": "MIP",
       "player": "Deni Avdija",
-      "place": "1st",
+      "place": "2nd",
       "voter": "John Schuhmann"
     },
     {
       "year": "2024",
       "award": "MIP",
+      "player": "The Toronto Star",
+      "place": "1st",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
       "player": "Jalen Brunson",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Justin Termine"
     },
     {
       "year": "2024",
       "award": "MIP",
-      "player": "Devin Vassell",
-      "place": "2nd",
-      "voter": "Gary Washburn"
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
     },
     {
       "year": "2024",
       "award": "MIP",
-      "player": "Aaron Nesmith",
+      "player": "Devin Vassell",
       "place": "3rd",
       "voter": "Gary Washburn"
     },
     {
       "year": "2024",
+      "award": "MIP",
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "MIP",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
+    },
+    {
+      "year": "2024",
       "award": "MVP",
-      "player": "Kevin Durant",
-      "place": "5th",
+      "player": "Sacramento Bee",
+      "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Charlotte Observer",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "FS1",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
       "voter": "Damichael Cole"
     },
     {
       "year": "2024",
       "award": "MVP",
-      "player": "Domantas Sabonis",
-      "place": "4th",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Denver Post",
+      "place": "1st",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Cleveland.com",
+      "place": "1st",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "MARCA",
+      "place": "1st",
       "voter": "Ignacio Garcia"
     },
     {
       "year": "2024",
       "award": "MVP",
-      "player": "Giannis Antetokounmpo",
+      "player": "Domantas Sabonis",
+      "place": "5th",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "SDNA",
       "place": "1st",
       "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "MVP",
-      "player": "Anthony Edwards",
-      "place": "3rd",
-      "voter": "Tolis Kotzias"
-    },
-    {
-      "year": "2024",
-      "award": "MVP",
-      "player": "Shai Gilgeous-Alexander",
-      "place": "5th",
-      "voter": "Tolis Kotzias"
-    },
-    {
-      "year": "2024",
-      "award": "MVP",
-      "player": "Jayson Tatum",
-      "place": "3rd",
-      "voter": "Dave McMenamin"
-    },
-    {
-      "year": "2024",
-      "award": "MVP",
       "player": "Giannis Antetokounmpo",
       "place": "2nd",
-      "voter": "Eric Nehm"
+      "voter": "Tolis Kotzias"
     },
     {
       "year": "2024",
       "award": "MVP",
       "player": "Anthony Edwards",
       "place": "4th",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Jayson Tatum",
+      "place": "4th",
+      "voter": "Dave McMenamin"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Giannis Antetokounmpo",
+      "place": "3rd",
+      "voter": "Eric Nehm"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Arizona Republic",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Anthony Edwards",
+      "place": "5th",
       "voter": "Dennis Scott"
     },
     {
       "year": "2024",
       "award": "MVP",
+      "player": "The Toronto Star",
+      "place": "1st",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
       "player": "Jalen Brunson",
-      "place": "3rd",
+      "place": "4th",
       "voter": "Stan Van Gundy"
     },
     {
       "year": "2024",
       "award": "MVP",
       "player": "Anthony Edwards",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Michael Wilbon"
     },
     {
       "year": "2024",
+      "award": "MVP",
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "MVP",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
+    },
+    {
+      "year": "2024",
       "award": "ROY",
-      "player": "Dereck Lively II",
-      "place": "3rd",
-      "voter": "David Aldridge"
+      "player": "Sacramento Bee",
+      "place": "1st",
+      "voter": "Jason Anderson"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "L'Equipe",
+      "place": "1st",
+      "voter": "Maxime Aubin"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Newsday",
+      "place": "1st",
+      "voter": "Evan Barnes"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Orlando Sentinel",
+      "place": "1st",
+      "voter": "Jason Beede"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Charlotte Observer",
+      "place": "1st",
+      "voter": "Rod Boone"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "FS1",
+      "place": "1st",
+      "voter": "Ric Bucher"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "A Bola",
+      "place": "1st",
+      "voter": "Miguel Candeias"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "The Athletic/Stadium",
+      "place": "1st",
+      "voter": "Shams Charania"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Miami Herald",
+      "place": "1st",
+      "voter": "Anthony Chiang"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Memphis Commercial Appeal",
+      "place": "1st",
+      "voter": "Damichael Cole"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Movistar+",
+      "place": "1st",
+      "voter": "Antoni Daimiel"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Denver Post",
+      "place": "1st",
+      "voter": "Bennett Durando"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Cleveland.com",
+      "place": "1st",
+      "voter": "Chris Fedor"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "MARCA",
+      "place": "1st",
+      "voter": "Ignacio Garcia"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Rogers Sportsnet",
+      "place": "1st",
+      "voter": "Michael Grange"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "NBCSports.com",
+      "place": "1st",
+      "voter": "Kurt Helin"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "SDNA",
+      "place": "1st",
+      "voter": "Tolis Kotzias"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Sports Illustrated",
+      "place": "1st",
+      "voter": "Chris Mannix"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "San Antonio Express-News",
+      "place": "1st",
+      "voter": "Jeff McDonald"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "News 9",
+      "place": "1st",
+      "voter": "Steve McGehee"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "ESPN (China)",
+      "place": "1st",
+      "voter": "Chao Meng"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Cignal",
+      "place": "1st",
+      "voter": "Jonathan Mitchell Fuentes"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Sports Graphic Number",
+      "place": "1st",
+      "voter": "Yoko Miyaji"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Sport 5",
+      "place": "1st",
+      "voter": "Yoav Modai"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "SHO",
+      "place": "1st",
+      "voter": "Rachel Nichols"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Chicago Tribune",
+      "place": "1st",
+      "voter": "Julia Poe"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Philadelphia Inquirer",
+      "place": "1st",
+      "voter": "Keith Pompey"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Southern California News Group",
+      "place": "1st",
+      "voter": "Khobi Price"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Arizona Republic",
+      "place": "1st",
+      "voter": "Duane Rankin"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "BeIN Sports",
+      "place": "1st",
+      "voter": "Remi Reverchon"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Associated Press",
+      "place": "1st",
+      "voter": "Tim Reynolds"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Bleacher Report",
+      "place": "1st",
+      "voter": "Taylor Rooks"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "La Gazzetta dello Sport",
+      "place": "1st",
+      "voter": "Simone Sandri"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "The Toronto Star",
+      "place": "1st",
+      "voter": "Doug Smith"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "Dallas Morning News",
+      "place": "1st",
+      "voter": "Brad Townsend"
     },
     {
       "year": "2024",
       "award": "ROY",
       "player": "Brandon Miller",
-      "place": "2nd",
+      "place": "3rd",
       "voter": "Stan Van Gundy"
     },
     {
       "year": "2024",
       "award": "ROY",
-      "player": "Chet Holmgren",
-      "place": "3rd",
-      "voter": "Stan Van Gundy"
+      "player": "New York Daily News",
+      "place": "1st",
+      "voter": "Kristian Winfield"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "The Toronto Sun",
+      "place": "1st",
+      "voter": "Ryan Wolstat"
+    },
+    {
+      "year": "2024",
+      "award": "ROY",
+      "player": "USA Today",
+      "place": "1st",
+      "voter": "Jeff Zillgitt"
     },
     {
       "year": "2025",
