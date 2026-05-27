@@ -1,0 +1,2086 @@
+{
+  "year": "2026",
+  "award": "COY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Coty Davis",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tiago Splitter",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kirk Goldsberry",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Greatest of All Talk",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Darko Rajakovi\u0107",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Robin Gremmel",
+      "affiliation": "AFP",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Quin Snyder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tiago Splitter",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "C.J. Holmes",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "JJ Redick",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "formerly with Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Kenny Atkinson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Lorenzo Reyes",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tiago Splitter",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ryen Russillo Show",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Atsushi Suzuki",
+      "affiliation": "Kyodo News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mark Daigneault",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "NBA on NBC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyronn Lue",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Walker",
+      "affiliation": "The Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Quin Snyder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Ott",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Charles Lee",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joe Mazzulla",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Mitch Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "J.B. Bickerstaff",
+          "playerTeam": "DET"
+        }
+      ]
+    }
+  ]
+}

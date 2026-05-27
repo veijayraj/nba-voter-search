@@ -1,0 +1,2086 @@
+{
+  "year": "2026",
+  "award": "ROY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Coty Davis",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kirk Goldsberry",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Greatest of All Talk",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Robin Gremmel",
+      "affiliation": "AFP",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "C.J. Holmes",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Cedric Coward",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "formerly with Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Lorenzo Reyes",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ryen Russillo Show",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Atsushi Suzuki",
+      "affiliation": "Kyodo News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "NBA on NBC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Walker",
+      "affiliation": "The Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2086 @@
+{
+  "year": "2026",
+  "award": "CLUTCH",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Coty Davis",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kirk Goldsberry",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Greatest of All Talk",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Robin Gremmel",
+      "affiliation": "AFP",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "C.J. Holmes",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Kevin Durant",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "formerly with Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Lorenzo Reyes",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ryen Russillo Show",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Atsushi Suzuki",
+      "affiliation": "Kyodo News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "NBA on NBC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Luka Don\u010di\u0107",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Walker",
+      "affiliation": "The Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Cade Cunningham",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Brunson",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tyrese Maxey",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Anthony Edwards",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    }
+  ]
+}

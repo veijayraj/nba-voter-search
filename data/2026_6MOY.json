@@ -1,0 +1,2086 @@
+{
+  "year": "2026",
+  "award": "6MOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Shead",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Coty Davis",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Isaiah Stewart",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kirk Goldsberry",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Greatest of All Talk",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Sandro Mamukelashvili",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Robin Gremmel",
+      "affiliation": "AFP",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Stewart",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "C.J. Holmes",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ayo Dosunmu",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ayo Dosunmu",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "formerly with Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Lorenzo Reyes",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ryen Russillo Show",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Sandro Mamukelashvili",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Atsushi Suzuki",
+      "affiliation": "Kyodo News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "NBA on NBC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mitchell Robinson",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Walker",
+      "affiliation": "The Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Ajay Mitchell",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Sandro Mamukelashvili",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaime Jaquez Jr.",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Keldon Johnson",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Naz Reid",
+          "playerTeam": "MIN"
+        }
+      ]
+    }
+  ]
+}

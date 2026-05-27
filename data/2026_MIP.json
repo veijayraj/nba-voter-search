@@ -1,0 +1,2086 @@
+{
+  "year": "2026",
+  "award": "MIP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Coty Davis",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Collin Gillespie",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Collin Gillespie",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kirk Goldsberry",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephon Castle",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Greatest of All Talk",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Robin Gremmel",
+      "affiliation": "AFP",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "C.J. Holmes",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Collin Gillespie",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaden McDaniels",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "formerly with Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Lorenzo Reyes",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ryen Russillo Show",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Atsushi Suzuki",
+      "affiliation": "Kyodo News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "NBA on NBC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Naji Marshall",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Reed Sheppard",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Walker",
+      "affiliation": "The Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Rollins",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Johnson",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Deni Avdija",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nickeil Alexander-Walker",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Neemias Queta",
+          "playerTeam": "BOS"
+        }
+      ]
+    }
+  ]
+}

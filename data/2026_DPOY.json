@@ -1,0 +1,2086 @@
+{
+  "year": "2026",
+  "award": "DPOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Anderson",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Maxime Aubin",
+      "affiliation": "L'Equipe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Beede",
+      "affiliation": "Orlando Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Bontemps",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "FS1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "OG Anunoby",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Miguel Candeias",
+      "affiliation": "A Bola",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Chiang",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Damichael Cole",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Curtis",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Movistar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Coty Davis",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Devine",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Bennett Durando",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "James Edwards III",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Fedor",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Geltzeiler",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Katie George",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Kirk Goldsberry",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Greatest of All Talk",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Robin Gremmel",
+      "affiliation": "AFP",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Will Guillory",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Harper",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "James Herbert",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kyle Hightower",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "C.J. Holmes",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kelly Iko",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Jefferson",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Dyson Daniels",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "OG Anunoby",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Fred Katz",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Tolis Kotzias",
+      "affiliation": "SDNA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Legler",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rob Mahoney",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Sebastian Martinez-Christensen",
+      "affiliation": "ESPN Latin America",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve McGehee",
+      "affiliation": "News 9",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chao Meng",
+      "affiliation": "TENCENT-ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Yoav Modai",
+      "affiliation": "Sport 5",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Law Murray",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        },
+        {
+          "place": "3rd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Owczarski",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Parker",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Pasch",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Kendrick Perkins",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Pina",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Julia Poe",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "formerly with Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Shaun Powell",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Khobi Price",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Duane Rankin",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Remi Reverchon",
+      "affiliation": "beIN Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Lorenzo Reyes",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Aurelia Rieke",
+      "affiliation": "OpenCourt-Basketball.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Josh Robbins",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Melissa Rohlin",
+      "affiliation": "California Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Taylor Rooks",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ryen Russillo",
+      "affiliation": "The Ryen Russillo Show",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Simone Sandri",
+      "affiliation": "La Gazzetta dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jorge Sedano",
+      "affiliation": "ESPN/ABC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Bam Adebayo",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Stephen A. Smith",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Atsushi Suzuki",
+      "affiliation": "Kyodo News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Maria Taylor",
+      "affiliation": "NBA on NBC",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "SiriusXM NBA Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Cason Wallace",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Stan Van Gundy",
+      "affiliation": "NBA on Prime",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Amen Thompson",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Walker",
+      "affiliation": "The Times-Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Derrick White",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jalen Duren",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Scottie Barnes",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael C. Wright",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Victor Wembanyama",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Chet Holmgren",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ausar Thompson",
+          "playerTeam": "DET"
+        }
+      ]
+    }
+  ]
+}
