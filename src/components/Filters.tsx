@@ -16,7 +16,7 @@ export function Filters({
   voterSearch, 
   playerSearch, 
   onChange,
-  availableYears = ["2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018"],
+  availableYears = ["2026", "2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018"],
   availableAwards = ["MVP", "DPOY", "COY", "6MOY", "ROY", "MIP", "All-NBA", "All-Defensive"]
 }: FiltersProps) {
   

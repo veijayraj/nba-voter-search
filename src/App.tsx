@@ -10,6 +10,9 @@ import "./App.css";
 
 type Tab = "search" | "voters" | "players" | "analytics";
 
+// Strip diacritics so "jokic" matches "Jokić", "doncic" matches "Dončić", etc.
+const stripAccents = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "");
+
 function getInitialState(): { tab: Tab; voter: string | null; player: string | null } {
   const hash = window.location.hash;
   if (hash.startsWith("#voter/")) {
@@ -28,15 +31,18 @@ const TAB_LABELS: Record<Tab, string> = {
   analytics: "Analytics",
 };
 
+type NavEntry = { tab: Tab; voter: string | null; player: string | null };
+
 function App() {
   const initial = getInitialState();
   const [tab, setTab] = useState<Tab>(initial.tab);
   const [menuOpen, setMenuOpen] = useState(false);
   const [selectedVoter, setSelectedVoter] = useState<string | null>(initial.voter);
   const [selectedPlayer, setSelectedPlayer] = useState<string | null>(initial.player);
+  const [navStack, setNavStack] = useState<NavEntry[]>([]);
 
   // Search tab state
-  const [year, setYear] = useState("2025");
+  const [year, setYear] = useState("2026");
   const [award, setAward] = useState("MVP");
   const [voterSearch, setVoterSearch] = useState("");
   const [playerSearch, setPlayerSearch] = useState("");
@@ -75,18 +81,39 @@ function App() {
   }, []);
 
   const handleVoterClick = (voter: string) => {
+    setNavStack(prev => [...prev, { tab, voter: selectedVoter, player: selectedPlayer }]);
     setSelectedVoter(voter);
     setTab("voters");
     window.location.hash = `voter/${encodeURIComponent(voter)}`;
   };
 
   const handlePlayerClick = (player: string) => {
+    setNavStack(prev => [...prev, { tab, voter: selectedVoter, player: selectedPlayer }]);
     setSelectedPlayer(player);
     setTab("players");
     window.location.hash = `player/${encodeURIComponent(player)}`;
   };
 
+  const handleBack = () => {
+    const prev = navStack[navStack.length - 1];
+    setNavStack(s => s.slice(0, -1));
+    if (prev) {
+      setTab(prev.tab);
+      setSelectedVoter(prev.voter);
+      setSelectedPlayer(prev.player);
+      if (prev.voter) window.location.hash = `voter/${encodeURIComponent(prev.voter)}`;
+      else if (prev.player) window.location.hash = `player/${encodeURIComponent(prev.player)}`;
+      else window.location.hash = "";
+    } else {
+      setTab("search");
+      setSelectedVoter(null);
+      setSelectedPlayer(null);
+      window.location.hash = "";
+    }
+  };
+
   const handleTabChange = (newTab: Tab) => {
+    setNavStack([]);
     setTab(newTab);
     if (newTab === "search") {
       window.location.hash = "";
@@ -102,7 +129,7 @@ function App() {
   const filteredVotes = data?.votes.filter((vote) => {
     const voterMatch = vote.voter.toLowerCase().includes(voterSearch.toLowerCase());
     const playerMatch = playerSearch === "" || vote.picks.some((pick) =>
-      pick.player.toLowerCase().includes(playerSearch.toLowerCase())
+      stripAccents(pick.player.toLowerCase()).includes(stripAccents(playerSearch.toLowerCase()))
     );
     return voterMatch && playerMatch;
   }) ?? [];
@@ -113,7 +140,7 @@ function App() {
         <VoterProfile
           key={selectedVoter}
           voter={selectedVoter}
-          onBack={() => { setSelectedVoter(null); window.location.hash = ""; }}
+          onBack={handleBack}
           onPlayerClick={handlePlayerClick}
           onVoterClick={handleVoterClick}
         />
@@ -162,7 +189,7 @@ function App() {
         <PlayerProfile
           key={selectedPlayer}
           player={selectedPlayer}
-          onBack={() => { setSelectedPlayer(null); window.location.hash = ""; }}
+          onBack={handleBack}
           onVoterClick={handleVoterClick}
         />
       );
@@ -187,7 +214,7 @@ function App() {
               onBlur={() => setTimeout(() => setShowPlayerSuggestions(false), 150)}
             />
             {showPlayerSuggestions && playerInput && (() => {
-              const matches = playersList.filter(p => p.toLowerCase().includes(playerInput.toLowerCase())).slice(0, 8);
+              const matches = playersList.filter(p => stripAccents(p.toLowerCase()).includes(stripAccents(playerInput.toLowerCase()))).slice(0, 8);
               return matches.length > 0 ? (
                 <div className="voter-autocomplete-dropdown">
                   {matches.map(p => (

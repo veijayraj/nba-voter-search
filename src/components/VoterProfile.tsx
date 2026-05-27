@@ -1,5 +1,7 @@
 import { useState, useEffect, useMemo } from "react";
 
+const stripAccents = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "");
+
 interface VoteData {
   year: string;
   award: string;
@@ -35,6 +37,8 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
   const [allVoterNames, setAllVoterNames] = useState<string[]>([]);
   const [voterInput, setVoterInput] = useState("");
   const [showVoterDropdown, setShowVoterDropdown] = useState(false);
+  const [playerSearch, setPlayerSearch] = useState("");
+  const [showPlayerDropdown, setShowPlayerDropdown] = useState(false);
 
   useEffect(() => {
     fetch("./data/voters.json")
@@ -61,6 +65,22 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
     return [...new Set(data.votes.map(v => v.award))].sort();
   }, [data]);
 
+  const allPlayerNames = useMemo(() => {
+    if (!data) return [];
+    const names = new Set<string>();
+    for (const vote of data.votes) {
+      for (const pick of vote.picks) names.add(pick.player);
+    }
+    return [...names].sort();
+  }, [data]);
+
+  const playerSuggestions = useMemo(() => {
+    if (!playerSearch) return [];
+    return allPlayerNames
+      .filter(n => stripAccents(n.toLowerCase()).includes(stripAccents(playerSearch.toLowerCase())))
+      .slice(0, 8);
+  }, [playerSearch, allPlayerNames]);
+
   const handlePlaceChange = (place: string) => {
     setSelectedPlaces(prev => 
       prev.includes(place) ? prev.filter(p => p !== place) : [...prev, place]
@@ -71,8 +91,10 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
 
   const filteredVotes = useMemo(() => {
     if (!data) return [];
+    const normSearch = playerSearch ? stripAccents(playerSearch.toLowerCase()) : "";
     return data.votes.map(vote => {
       const filteredPicks = vote.picks.filter(pick => {
+        if (normSearch && !stripAccents(pick.player.toLowerCase()).includes(normSearch)) return false;
         if (selectedAward === "MVP" && selectedPlaces.length > 0) {
           return selectedPlaces.includes(pick.place || "");
         }
@@ -87,7 +109,7 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
       const awardMatch = selectedAward === "all" || vote.award === selectedAward;
       return yearMatch && awardMatch && vote.picks.length > 0;
     });
-  }, [data, selectedYears, selectedAward, selectedPlaces, selectedTeams, isTeamAward]);
+  }, [data, selectedYears, selectedAward, selectedPlaces, selectedTeams, isTeamAward, playerSearch]);
 
   const groupedVotes = useMemo(() => {
     const groups: Record<string, Record<string, VoteData[]>> = {};
@@ -129,6 +151,28 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
                   {voterSuggestions.map(v => (
                     <div key={v} className="voter-autocomplete-item" onMouseDown={() => { onVoterClick(v); setVoterInput(""); }}>
                       {v}
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+
+          <div className="filter-group">
+            <label className="filter-label">Player</label>
+            <div className="voter-autocomplete-wrap">
+              <input
+                placeholder="Search player..."
+                value={playerSearch}
+                onChange={e => { setPlayerSearch(e.target.value); setShowPlayerDropdown(true); }}
+                onFocus={() => setShowPlayerDropdown(true)}
+                onBlur={() => setTimeout(() => setShowPlayerDropdown(false), 150)}
+              />
+              {showPlayerDropdown && playerSuggestions.length > 0 && (
+                <div className="voter-autocomplete-dropdown">
+                  {playerSuggestions.map(p => (
+                    <div key={p} className="voter-autocomplete-item" onMouseDown={() => { setPlayerSearch(p); setShowPlayerDropdown(false); }}>
+                      {p}
                     </div>
                   ))}
                 </div>
