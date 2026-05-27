@@ -46,6 +46,7 @@ function App() {
   const [award, setAward] = useState("MVP");
   const [voterSearch, setVoterSearch] = useState("");
   const [playerSearch, setPlayerSearch] = useState("");
+  const [playerSearchMode, setPlayerSearchMode] = useState<"include" | "exclude">("include");
   const [data, setData] = useState<AwardData | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -77,6 +78,7 @@ function App() {
       case "award": setAward(value); break;
       case "voterSearch": setVoterSearch(value); break;
       case "playerSearch": setPlayerSearch(value); break;
+      case "playerSearchMode": setPlayerSearchMode(value as "include" | "exclude"); break;
     }
   }, []);
 
@@ -128,9 +130,12 @@ function App() {
 
   const filteredVotes = data?.votes.filter((vote) => {
     const voterMatch = vote.voter.toLowerCase().includes(voterSearch.toLowerCase());
-    const playerMatch = playerSearch === "" || vote.picks.some((pick) =>
+    const hasPlayer = playerSearch === "" || vote.picks.some((pick) =>
       stripAccents(pick.player.toLowerCase()).includes(stripAccents(playerSearch.toLowerCase()))
     );
+    const playerMatch = playerSearch === ""
+      ? true
+      : playerSearchMode === "include" ? hasPlayer : !hasPlayer;
     return voterMatch && playerMatch;
   }) ?? [];
 
@@ -283,6 +288,7 @@ function App() {
               award={award}
               voterSearch={voterSearch}
               playerSearch={playerSearch}
+              playerSearchMode={playerSearchMode}
               onChange={handleFilterChange}
             />
 

@@ -331,6 +331,20 @@ a:hover {
   color: var(--rust);
 }
 
+.player-mode-select {
+  font-size: 0.75rem !important;
+  color: var(--slate) !important;
+  font-style: italic;
+}
+
+.player-mode-select.exclude-active {
+  color: var(--rust) !important;
+  border-color: var(--rust) !important;
+  background-color: rgba(139, 74, 51, 0.06) !important;
+  font-style: normal;
+  font-weight: 600;
+}
+
 .filters select,
 .filters input,
 .filter-group select,

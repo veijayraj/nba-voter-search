@@ -5,16 +5,18 @@ interface FiltersProps {
   award: string;
   voterSearch: string;
   playerSearch: string;
+  playerSearchMode: "include" | "exclude";
   onChange: (field: string, value: string) => void;
   availableYears?: string[];
   availableAwards?: string[];
 }
 
-export function Filters({ 
-  year, 
-  award, 
-  voterSearch, 
-  playerSearch, 
+export function Filters({
+  year,
+  award,
+  voterSearch,
+  playerSearch,
+  playerSearchMode,
   onChange,
   availableYears = ["2026", "2025", "2024", "2023", "2022", "2021", "2020", "2019", "2018"],
   availableAwards = ["MVP", "DPOY", "COY", "6MOY", "ROY", "MIP", "All-NBA", "All-Defensive"]
@@ -65,7 +67,16 @@ export function Filters({
       </div>
 
       <div className="filter-group">
-        <label htmlFor="player-search" className="filter-label">Player</label>
+        <label htmlFor="player-mode" className="filter-label">Player</label>
+        <select
+          id="player-mode"
+          className={`player-mode-select${playerSearchMode === "exclude" ? " exclude-active" : ""}`}
+          value={playerSearchMode}
+          onChange={(e) => onChange("playerSearchMode", e.target.value)}
+        >
+          <option value="include">Voted for</option>
+          <option value="exclude">Did not vote for</option>
+        </select>
         <input
           id="player-search"
           type="text"
