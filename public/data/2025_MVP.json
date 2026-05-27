@@ -562,6 +562,37 @@
       ]
     },
     {
+      "voter": "Claire de Lune",
+      "affiliation": "The Guardian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Shai Gilgeous-Alexander",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "4th",
+          "player": "Jayson Tatum",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
       "voter": "Dan Devine",
       "affiliation": "Yahoo! Sports",
       "picks": [

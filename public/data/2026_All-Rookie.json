@@ -4,6 +4,62 @@
   "awardType": "team",
   "votes": [
     {
+      "voter": "David Aldridge",
+      "affiliation": "The Athletic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Collin Murray-Boyles",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Maxime Raynaud",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ace Bailey",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cedric Coward",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremiah Fears",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hugo Gonzalez",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
       "voter": "Sam Amick",
       "affiliation": "The Athletic",
       "picks": [
@@ -1003,6 +1059,62 @@
           "allNbaTeam": "2nd",
           "player": "Derik Queen",
           "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Maxime Raynaud",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Claire de Lune",
+      "affiliation": "The Guardian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Dylan Harper",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Derik Queen",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ace Bailey",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cedric Coward",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jeremiah Fears",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Collin Murray-Boyles",
+          "playerTeam": "TOR"
         },
         {
           "allNbaTeam": "2nd",

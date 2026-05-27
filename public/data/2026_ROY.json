@@ -403,6 +403,27 @@
       ]
     },
     {
+      "voter": "Claire de Lune",
+      "affiliation": "The Guardian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Cooper Flagg",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kon Knueppel",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "VJ Edgecombe",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
       "voter": "Dan Devine",
       "affiliation": "Yahoo! Sports",
       "picks": [
