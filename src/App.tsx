@@ -13,15 +13,32 @@ type Tab = "search" | "voters" | "players" | "analytics";
 // Strip diacritics so "jokic" matches "Jokić", "doncic" matches "Dončić", etc.
 const stripAccents = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "");
 
-function getInitialState(): { tab: Tab; voter: string | null; player: string | null } {
+function parseSearchHash(hash: string): URLSearchParams {
+  const match = hash.match(/^#search\?(.*)/);
+  return new URLSearchParams(match ? match[1] : "");
+}
+
+function getInitialState(): {
+  tab: Tab; voter: string | null; player: string | null;
+  year: string; award: string; voterSearch: string;
+  playerSearch: string; playerSearchMode: "include" | "exclude";
+} {
   const hash = window.location.hash;
   if (hash.startsWith("#voter/")) {
-    return { tab: "voters", voter: decodeURIComponent(hash.replace("#voter/", "")), player: null };
+    return { tab: "voters", voter: decodeURIComponent(hash.replace("#voter/", "")), player: null, year: "2026", award: "MVP", voterSearch: "", playerSearch: "", playerSearchMode: "include" };
   }
   if (hash.startsWith("#player/")) {
-    return { tab: "players", voter: null, player: decodeURIComponent(hash.replace("#player/", "")) };
+    return { tab: "players", voter: null, player: decodeURIComponent(hash.replace("#player/", "")), year: "2026", award: "MVP", voterSearch: "", playerSearch: "", playerSearchMode: "include" };
   }
-  return { tab: "search", voter: null, player: null };
+  const p = parseSearchHash(hash);
+  return {
+    tab: "search", voter: null, player: null,
+    year: p.get("year") ?? "2026",
+    award: p.get("award") ?? "MVP",
+    voterSearch: p.get("voter") ?? "",
+    playerSearch: p.get("player") ?? "",
+    playerSearchMode: (p.get("mode") ?? "include") as "include" | "exclude",
+  };
 }
 
 const TAB_LABELS: Record<Tab, string> = {
@@ -41,12 +58,12 @@ function App() {
   const [selectedPlayer, setSelectedPlayer] = useState<string | null>(initial.player);
   const [navStack, setNavStack] = useState<NavEntry[]>([]);
 
-  // Search tab state
-  const [year, setYear] = useState("2026");
-  const [award, setAward] = useState("MVP");
-  const [voterSearch, setVoterSearch] = useState("");
-  const [playerSearch, setPlayerSearch] = useState("");
-  const [playerSearchMode, setPlayerSearchMode] = useState<"include" | "exclude">("include");
+  // Search tab state — initialised from URL
+  const [year, setYear] = useState(initial.year);
+  const [award, setAward] = useState(initial.award);
+  const [voterSearch, setVoterSearch] = useState(initial.voterSearch);
+  const [playerSearch, setPlayerSearch] = useState(initial.playerSearch);
+  const [playerSearchMode, setPlayerSearchMode] = useState<"include" | "exclude">(initial.playerSearchMode);
   const [data, setData] = useState<AwardData | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -71,6 +88,20 @@ function App() {
     });
     return () => { cancelled = true; };
   }, [year, award]);
+
+  // Sync search filters → URL (replaceState so we don't flood browser history)
+  useEffect(() => {
+    if (tab !== "search") return;
+    const p = new URLSearchParams();
+    if (year !== "2026") p.set("year", year);
+    if (award !== "MVP") p.set("award", award);
+    if (voterSearch) p.set("voter", voterSearch);
+    if (playerSearch) p.set("player", playerSearch);
+    if (playerSearchMode !== "include") p.set("mode", playerSearchMode);
+    const query = p.toString();
+    const hash = query ? `#search?${query}` : "";
+    history.replaceState(null, "", window.location.pathname + window.location.search + hash);
+  }, [tab, year, award, voterSearch, playerSearch, playerSearchMode]);
 
   const handleFilterChange = useCallback((field: string, value: string) => {
     switch (field) {
@@ -117,13 +148,12 @@ function App() {
   const handleTabChange = (newTab: Tab) => {
     setNavStack([]);
     setTab(newTab);
-    if (newTab === "search") {
-      window.location.hash = "";
-    } else if (newTab === "voters" && selectedVoter) {
+    // Search hash is managed by the filter-sync useEffect; handle other tabs manually
+    if (newTab === "voters" && selectedVoter) {
       window.location.hash = `voter/${encodeURIComponent(selectedVoter)}`;
     } else if (newTab === "players" && selectedPlayer) {
       window.location.hash = `player/${encodeURIComponent(selectedPlayer)}`;
-    } else {
+    } else if (newTab !== "search") {
       window.location.hash = "";
     }
   };
