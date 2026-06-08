@@ -22,7 +22,7 @@
       "winner": "Shai Gilgeous-Alexander",
       "winner_share": 91.2,
       "winner_first_place": 70,
-      "runner_up": "Nikola Jokić",
+      "runner_up": "Nikola Joki\u0107",
       "runner_up_share": 78.8,
       "margin": 12.4,
       "top_5": [
@@ -33,7 +33,7 @@
           "first_place_votes": 70
         },
         {
-          "player": "Nikola Jokić",
+          "player": "Nikola Joki\u0107",
           "points": 780,
           "vote_share": 78.8,
           "first_place_votes": 29
@@ -61,7 +61,7 @@
     {
       "year": "2024",
       "num_voters": 99,
-      "winner": "Nikola Jokić",
+      "winner": "Nikola Jokic",
       "winner_share": 65.6,
       "winner_first_place": 0,
       "runner_up": "Shai Gilgeous-Alexander",
@@ -69,7 +69,7 @@
       "margin": 22.4,
       "top_5": [
         {
-          "player": "Nikola Jokić",
+          "player": "Nikola Jokic",
           "points": 649,
           "vote_share": 65.6,
           "first_place_votes": 0
@@ -81,7 +81,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Luka Dončić",
+          "player": "Luka Doncic",
           "points": 366,
           "vote_share": 37.0,
           "first_place_votes": 0
@@ -106,7 +106,7 @@
       "winner": "Joel Embiid",
       "winner_share": 91.5,
       "winner_first_place": 73,
-      "runner_up": "Nikola Jokić",
+      "runner_up": "Nikola Jokic",
       "runner_up_share": 67.4,
       "margin": 24.1,
       "top_5": [
@@ -117,7 +117,7 @@
           "first_place_votes": 73
         },
         {
-          "player": "Nikola Jokić",
+          "player": "Nikola Jokic",
           "points": 674,
           "vote_share": 67.4,
           "first_place_votes": 15
@@ -145,7 +145,7 @@
     {
       "year": "2022",
       "num_voters": 100,
-      "winner": "Nikola Jokić",
+      "winner": "Nikola Jokic",
       "winner_share": 85.5,
       "winner_first_place": 63,
       "runner_up": "Joel Embiid",
@@ -153,7 +153,7 @@
       "margin": 14.9,
       "top_5": [
         {
-          "player": "Nikola Jokić",
+          "player": "Nikola Jokic",
           "points": 855,
           "vote_share": 85.5,
           "first_place_votes": 63
@@ -177,7 +177,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Luka Dončić",
+          "player": "Luka Doncic",
           "points": 146,
           "vote_share": 14.6,
           "first_place_votes": 0
@@ -187,7 +187,7 @@
     {
       "year": "2021",
       "num_voters": 101,
-      "winner": "Nikola Jokić",
+      "winner": "Nikola Jokic",
       "winner_share": 96.1,
       "winner_first_place": 91,
       "runner_up": "Joel Embiid",
@@ -195,7 +195,7 @@
       "margin": 38.1,
       "top_5": [
         {
-          "player": "Nikola Jokić",
+          "player": "Nikola Jokic",
           "points": 971,
           "vote_share": 96.1,
           "first_place_votes": 91
@@ -255,7 +255,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Luka Dončić",
+          "player": "Luka Doncic",
           "points": 200,
           "vote_share": 19.8,
           "first_place_votes": 0
@@ -297,7 +297,7 @@
           "first_place_votes": 0
         },
         {
-          "player": "Nikola Jokić",
+          "player": "Nikola Jokic",
           "points": 212,
           "vote_share": 21.0,
           "first_place_votes": 0
@@ -354,7 +354,7 @@
     }
   ],
   "most_unanimous_mvp": {
-    "player": "Nikola Jokić",
+    "player": "Nikola Jokic",
     "year": "2021",
     "vote_share": 96.1,
     "first_place_votes": 91,
@@ -364,7 +364,7 @@
     "year": "2025",
     "winner": "Shai Gilgeous-Alexander",
     "winner_share": 91.2,
-    "runner_up": "Nikola Jokić",
+    "runner_up": "Nikola Joki\u0107",
     "runner_up_share": 78.8,
     "margin": 12.4
   },
@@ -387,7 +387,7 @@
         "year": "2021",
         "award": "MVP",
         "fan_pick": "Derrick Rose",
-        "media_pick": "Nikola Jokić"
+        "media_pick": "Nikola Jokic"
       }
     ]
   },
@@ -424,7 +424,7 @@
       "award": "6MOY",
       "player": "Dwyane Wade",
       "place": "2nd",
-      "voter": "Diego Martínez Cabrera"
+      "voter": "Diego Mart\u00ednez Cabrera"
     },
     {
       "year": "2018",
@@ -592,7 +592,7 @@
       "award": "DPOY",
       "player": "Victor Oladipo",
       "place": "3rd",
-      "voter": "Rosalyn Gold‐Onwude"
+      "voter": "Rosalyn Gold\u2010Onwude"
     },
     {
       "year": "2018",
@@ -660,7 +660,7 @@
     {
       "year": "2018",
       "award": "MIP",
-      "player": "Karl‐Anthony Towns",
+      "player": "Karl\u2010Anthony Towns",
       "place": "3rd",
       "voter": "Frank Isola"
     },
@@ -1045,7 +1045,7 @@
     {
       "year": "2019",
       "award": "MIP",
-      "player": "Willie Cauley‐Stein",
+      "player": "Willie Cauley\u2010Stein",
       "place": "3rd",
       "voter": "Dennis Scott"
     },
@@ -1528,7 +1528,7 @@
     {
       "year": "2021",
       "award": "MVP",
-      "player": "Nikola Jokić",
+      "player": "Nikola Jokic",
       "place": "3rd",
       "voter": "NBA Fan Vote"
     },
@@ -1542,7 +1542,7 @@
     {
       "year": "2021",
       "award": "MVP",
-      "player": "Luka Dončić",
+      "player": "Luka Doncic",
       "place": "2nd",
       "voter": "Max Haupt"
     },
@@ -1738,7 +1738,7 @@
     {
       "year": "2022",
       "award": "MVP",
-      "player": "Luka Dončić",
+      "player": "Luka Doncic",
       "place": "2nd",
       "voter": "Greg Anthony"
     },
@@ -1899,14 +1899,14 @@
     {
       "year": "2023",
       "award": "CLUTCH",
-      "player": "Nikola Jokić",
+      "player": "Nikola Jokic",
       "place": "2nd",
       "voter": "Frank Isola"
     },
     {
       "year": "2023",
       "award": "CLUTCH",
-      "player": "Luka Dončić",
+      "player": "Luka Doncic",
       "place": "1st",
       "voter": "Brian Mahoney"
     },
@@ -2417,7 +2417,7 @@
     {
       "year": "2024",
       "award": "CLUTCH",
-      "player": "Luka Dončić",
+      "player": "Luka Doncic",
       "place": "2nd",
       "voter": "Greg Anthony"
     },

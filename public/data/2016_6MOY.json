@@ -1,0 +1,2737 @@
+{
+  "year": "2016",
+  "award": "6MOY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Vasquez",
+      "affiliation": "Bergen Record",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Antonio Harvey",
+      "affiliation": "Fox Sports Radio/620AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Bill Simmons Podcast/HBO",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Shaun Livingston",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Worrell",
+      "affiliation": "Root Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Davis",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Scalabrine",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Boris Diaw",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Shaun Livingston",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Sieman",
+      "affiliation": "The Beast 980",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Calvin Watkins",
+      "affiliation": "ESPN.com Houston",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jrue Holiday",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Carrino",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Dempsey",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Northeast Ohio Media Group/Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach LaVine",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Marlowe",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Darren Collison",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Johnson",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Dave McMenamin",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "David Wesley",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Dell Curry",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Neumann",
+      "affiliation": "ESPN 580 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Diamond Leung",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Johnson",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Collins",
+      "affiliation": "Hornets Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "George Blaha",
+      "affiliation": "WMGC / Fox Sports Detroit",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jose Juan Barea",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Glenn Consor",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jackson",
+      "affiliation": "Fox Sports Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Kosmicki",
+      "affiliation": "Altitude Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lieser",
+      "affiliation": "Palm Beach Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Turner",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jessica Camerato",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Barnett",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Cowley",
+      "affiliation": "Chicago Sun-Times",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "John Denton",
+      "affiliation": "OrlandoMagic.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Allen Crabbe",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "John Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "John Michael",
+      "affiliation": "Cavaliers Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jose Paneda",
+      "affiliation": "WAQI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Shaun Livingston",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Followill",
+      "affiliation": "TXA-21/Fox Sports Net",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Zach LaVine",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Cage",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Smith",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Crispino",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Jose Juan Barea",
+          "playerTeam": "DAL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Gorman",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "The Rivard Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Nate Taylor",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Shaun Livingston",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Neil Funk",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Nick Friedell",
+      "affiliation": "ESPNChicago.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Tristan Thompson",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "The Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Jones",
+      "affiliation": "TSN 1050/Sportsnet 590 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Southeast",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ralph Lawler",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Shaun Livingston",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Patrick Patterson",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Boris Diaw",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Rusty Simmons",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WRNO 99.5 FM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sherman Hamilton",
+      "affiliation": "NBA TV Canada",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Buckhantz",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Ryan Anderson",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Capstraw",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Jose Juan Barea",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Kempton",
+      "affiliation": "KTAR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Mirza Teletovic",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Tom McGinnis",
+      "affiliation": "Sixers Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Evan Turner",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Boris Diaw",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Ellis",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Enes Kanter",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Walt Frazier",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jamal Crawford",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jeremy Lin",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ed Davis",
+          "playerTeam": "POR"
+        }
+      ]
+    }
+  ]
+}

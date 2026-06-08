@@ -1,0 +1,4037 @@
+{
+  "year": "2015",
+  "award": "MVP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "Foxsports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Grantland",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Wennington",
+      "affiliation": "WMVP AM 1000",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Cooney",
+      "affiliation": "Philadelphia Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Davis",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Buckner",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN The Magazine",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Carrino",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Dempsey",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Northeast Ohio Media Group/Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Cooperstein",
+      "affiliation": "ESPN 103.3",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Swirsky",
+      "affiliation": "WMVP AM 1000",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Craig Ackerman",
+      "affiliation": "Sportstalk 790 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Woike",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Darnell Mayberry",
+      "affiliation": "Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Johnson",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "David Mayo",
+      "affiliation": "Mlive Media Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Neumann",
+      "affiliation": "ESPN 580 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Johnson",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Blake Griffin",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Reid",
+      "affiliation": "Sun Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Ethan Skolnick",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Fred McLeod",
+      "affiliation": "Fox Sports Ohio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "George Blaha",
+      "affiliation": "WMGC / Fox Sports Detroit",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ian Eagle",
+      "affiliation": "YES Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ira Winderman",
+      "affiliation": "South Florida Sun Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jabari Young",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Kosmicki",
+      "affiliation": "Altitude Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "Akron Beacon Journal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Turner",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Barnett",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "John Denton",
+      "affiliation": "OrlandoMagic.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "John Reid",
+      "affiliation": "New Orleans Times Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Ding",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Leo Rautins",
+      "affiliation": "SportsNet/TSN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Zumoff",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Bullard",
+      "affiliation": "Root Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Pinto",
+      "affiliation": "WWLS / 98.1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Smith",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Crispino",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Marc Gasol",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "5th",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Gorman",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Inglis",
+      "affiliation": "WAXY Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Rice",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "NBA Fan Component",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Jones",
+      "affiliation": "TSN 1050/Sportsnet 590 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Tennessee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Phil Chenier",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Ralph Lawler",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Boone",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Rusty Simmons",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Hastings",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Lauer",
+      "affiliation": "WFNZ-610AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Grande",
+      "affiliation": "WEEI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WWL 105.3 FM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Stacey King",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Buckhantz",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Martin",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "The Record",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "3rd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Roye",
+      "affiliation": "KNBR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "4th",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Ellis",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "4th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "place": "5th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "Grantland",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "James Harden",
+          "playerTeam": "HOU"
+        },
+        {
+          "place": "3rd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "place": "4th",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "place": "5th",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        }
+      ]
+    }
+  ]
+}
