@@ -1,0 +1,2107 @@
+{
+  "year": "2017",
+  "award": "MIP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Ailene Voisin",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Gary Harris",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Andrew Sharp",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dion Waiters",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Moviestar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Calvin Watkins",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal-Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Dennis Schroder",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Webber",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Gordon Hayward",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "LaGazetta Dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Collins",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        },
+        {
+          "place": "3rd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Haller",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        },
+        {
+          "place": "3rd",
+          "player": "Harrison Barnes",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Erik Horne",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Clint Capela",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "J Michael Falgoust",
+      "affiliation": "CSN Washington",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Jacques Monclar",
+      "affiliation": "BEIN Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Gary Harris",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star-Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Joe Ingles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius XM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Verrier",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "KC Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Dion Waiters",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Ding",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Lee Jenkins",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Shen Yang",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Manny Navaro",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Marcelo Nogueira",
+      "affiliation": "Ole",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jusuf Nurkic",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Moore",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Michelle Beadle",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Tim Hardaway Jr.",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Nate Taylor",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Nira Khurana",
+      "affiliation": "Excelsior",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Flannery",
+      "affiliation": "SB Nation",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Bradley Beal",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Reggie Miller",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Walker",
+      "affiliation": "Gaston Gazette",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "place": "3rd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial-Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Mike Conley",
+          "playerTeam": "MEM"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Gordon Hayward",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Seth Curry",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "DeMar DeRozan",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "CSN New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Kyler",
+      "affiliation": "Basketball Insiders",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Harrison Barnes",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "James Johnson",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "TJ Manotoc",
+      "affiliation": "ABC-CBN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Gordon Hayward",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "CSN Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Weiping Zhang",
+      "affiliation": "CCTV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHO"
+        },
+        {
+          "place": "3rd",
+          "player": "Seth Curry",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Otto Porter Jr.",
+          "playerTeam": "WAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7287 @@
+{
+  "year": "2016",
+  "award": "All-Rookie",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Adrian Chavarria",
+      "affiliation": "KEYH 850 AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Boban Marjanovic",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Norman Powell",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Al Iannazzone",
+      "affiliation": "Newsday",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Antonio Harvey",
+      "affiliation": "Fox Sports Radio/620AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Larry Nance Jr.",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Bill Simmons Podcast/HBO",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Wennington",
+      "affiliation": "ESPN AM 1000",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "TJ McConnell",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Fitzgerald",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Norman Powell",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Sieman",
+      "affiliation": "The Beast 980",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Cedric Maxwell",
+      "affiliation": "98.5 The Sports Hub",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jerian Grant",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Carrino",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Dempsey",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "TJ McConnell",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Northeast Ohio Media Group/Cleveland.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Marlowe",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Craig Ackerman",
+      "affiliation": "Sportstalk 790 AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Woike",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dante Marchitelli",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Johnson",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jonathon Simmons",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "David Mayo",
+      "affiliation": "Mlive Media Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "David Steele",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "David Wesley",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rondae Hollis-Jefferson",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Joe Young",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dell Curry",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Norman Powell",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Boban Marjanovic",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justin Anderson",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Johnson",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justin Anderson",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Fred McLeod",
+      "affiliation": "Fox Sports Ohio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "George Blaha",
+      "affiliation": "WMGC / Fox Sports Detroit",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Glenn Consor",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mario Hezonja",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jackson",
+      "affiliation": "Fox Sports Sun",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lieser",
+      "affiliation": "Palm Beach Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jessica Camerato",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Spanarkel",
+      "affiliation": "YES Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "John Denton",
+      "affiliation": "OrlandoMagic.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mario Hezonja",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "John Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "John Michael",
+      "affiliation": "Cavaliers Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "TJ McConnell",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "TJ McConnell",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Leo Rautins",
+      "affiliation": "SportsNet/TSN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Zumoff",
+      "affiliation": "Sixers TV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Followill",
+      "affiliation": "TXA-21/Fox Sports Net",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Devlin",
+      "affiliation": "SportsNet/TSN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Pinto",
+      "affiliation": "WWLS / 98.1",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Cage",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Crispino",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Gorman",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Inglis",
+      "affiliation": "WAXY Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Larry Nance Jr.",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "The Rivard Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Rice",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Nate Taylor",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Cameron Payne",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "The Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Southeast",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jonathon Simmons",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Phil Chenier",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mario Hezonja",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ralph Lawler",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marcelo Huertas",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Larry Nance Jr.",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rondae Hollis-Jefferson",
+          "playerTeam": "BKN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Rusty Simmons",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Hastings",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bobby Portis",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Grande",
+      "affiliation": "98.5 The Sports Hub",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WRNO 99.5 FM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Raul Neto",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Stacey King",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "The Record",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mario Hezonja",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Kempton",
+      "affiliation": "KTAR Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "TJ McConnell",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Josh Richardson",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Roye",
+      "affiliation": "KNBR Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stanley Johnson",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "CSNChicago.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Emmanuel Mudiay",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Willie Cauley-Stein",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Karl-Anthony Towns",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Devin Booker",
+          "playerTeam": "PHX"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Justise Winslow",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Nikola Joki\u0107",
+          "playerTeam": "DEN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "D'Angelo Russell",
+          "playerTeam": "LAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trey Lyles",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Myles Turner",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jahlil Okafor",
+          "playerTeam": "PHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Frank Kaminsky",
+          "playerTeam": "CHA"
+        }
+      ]
+    }
+  ]
+}

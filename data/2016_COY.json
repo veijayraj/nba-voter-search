@@ -1,0 +1,2737 @@
+{
+  "year": "2016",
+  "award": "COY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Vasquez",
+      "affiliation": "Bergen Record",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Antonio Harvey",
+      "affiliation": "Fox Sports Radio/620AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "David Joerger",
+          "playerTeam": "MEM*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Bill Simmons Podcast/HBO",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Wennington",
+      "affiliation": "ESPN AM 1000",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Worrell",
+      "affiliation": "Root Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Davis",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Billy Donovan",
+          "playerTeam": "OKC*"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "David Joerger",
+          "playerTeam": "MEM*"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Sieman",
+      "affiliation": "The Beast 980",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC*"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Erik Spoelstra",
+          "playerTeam": "MIA*"
+        }
+      ]
+    },
+    {
+      "voter": "Calvin Watkins",
+      "affiliation": "ESPN.com Houston",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Dempsey",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Northeast Ohio Media Group/Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Cooperstein",
+      "affiliation": "ESPN 103.3",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Rick Carlisle",
+          "playerTeam": "DAL*"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Woike",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Dante Marchitelli",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Johnson",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "David Steele",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Erik Spoelstra",
+          "playerTeam": "MIA*"
+        }
+      ]
+    },
+    {
+      "voter": "David Wesley",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Dell Curry",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Diamond Leung",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Johnson",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Collins",
+      "affiliation": "Hornets Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "David Joerger",
+          "playerTeam": "MEM*"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Ethan Skolnick",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "George Blaha",
+      "affiliation": "WMGC / Fox Sports Detroit",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Quin Snyder",
+          "playerTeam": "UTA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Glenn Consor",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Ian Eagle",
+      "affiliation": "YES Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Rick Carlisle",
+          "playerTeam": "DAL*"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Kosmicki",
+      "affiliation": "Altitude Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "Akron Beacon Journal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Luke Walton",
+          "playerTeam": "interim with GS"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Turner",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jessica Camerato",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "John Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "David Joerger",
+          "playerTeam": "MEM*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "John Michael",
+      "affiliation": "Cavaliers Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "K.C. Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Rick Carlisle",
+          "playerTeam": "DAL*"
+        }
+      ]
+    },
+    {
+      "voter": "Leo Rautins",
+      "affiliation": "SportsNet/TSN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Zumoff",
+      "affiliation": "Sixers TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Cage",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Smith",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Doc Rivers",
+          "playerTeam": "LAC*"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Crispino",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Inglis",
+      "affiliation": "WAXY Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Erik Spoelstra",
+          "playerTeam": "MIA*"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "The Rivard Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Nate Taylor",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Walton",
+          "playerTeam": "interim with GS"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "The Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Jones",
+      "affiliation": "TSN 1050/Sportsnet 590 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Southeast",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "David Joerger",
+          "playerTeam": "MEM*"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        }
+      ]
+    },
+    {
+      "voter": "Rusty Simmons",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Hastings",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Mike Budenholzer",
+          "playerTeam": "ATL*"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Grande",
+      "affiliation": "98.5 The Sports Hub",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WRNO 99.5 FM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "CSNNE.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Stacey King",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Buckhantz",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "The Record",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Luke Walton",
+          "playerTeam": "interim with GS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Kempton",
+      "affiliation": "KTAR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Erik Spoelstra",
+          "playerTeam": "MIA*"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Roye",
+      "affiliation": "KNBR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        },
+        {
+          "place": "3rd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        }
+      ]
+    },
+    {
+      "voter": "Tom Heinsohn",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Fiorentino",
+      "affiliation": "Fox Sports Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Steve Clifford",
+          "playerTeam": "CHA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Dwane Casey",
+          "playerTeam": "TOR*"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Ellis",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "2nd",
+          "player": "Brad Stevens",
+          "playerTeam": "BOS*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Steve Kerr",
+          "playerTeam": "GS*"
+        },
+        {
+          "place": "2nd",
+          "player": "Gregg Popovich",
+          "playerTeam": "SA*"
+        },
+        {
+          "place": "3rd",
+          "player": "Terry Stotts",
+          "playerTeam": "POR*"
+        }
+      ]
+    }
+  ]
+}

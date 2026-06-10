@@ -1,0 +1,2107 @@
+{
+  "year": "2017",
+  "award": "ROY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Ailene Voisin",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Andrew Sharp",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Antoni Daimiel",
+      "affiliation": "Moviestar+",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Ben Golliver",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brent Barry",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Lewis",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Calvin Watkins",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal-Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "Fox Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Webber",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Davide Chinellato",
+      "affiliation": "LaGazetta Dello Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Scott",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Collins",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Haller",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Yogi Ferrell",
+          "playerTeam": "DAL"
+        }
+      ]
+    },
+    {
+      "voter": "Erik Horne",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Flavio Tranquillo",
+      "affiliation": "Sky Italia",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "J Michael Falgoust",
+      "affiliation": "CSN Washington",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Rodney McGruder",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Jackie MacMullan",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jacques Monclar",
+      "affiliation": "BEIN Sport",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jalen Rose",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jared Greenberg",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jaylen Brown",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star-Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Vardon",
+      "affiliation": "Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "John Schuhmann",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Termine",
+      "affiliation": "Sirius XM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Justin Verrier",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "KC Johnson",
+      "affiliation": "Chicago Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Ding",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Harlan",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin O'Connor",
+      "affiliation": "The Ringer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Kristen Ledlow",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kurt Helin",
+      "affiliation": "NBCSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Marquese Chriss",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Lee Jenkins",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Lisa Shen Yang",
+      "affiliation": "Tencent",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Manny Navaro",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Kestecher",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marcelo Nogueira",
+      "affiliation": "Ole",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Jackson",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Moore",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Grange",
+      "affiliation": "Rogers Sportsnet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Marquese Chriss",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michelle Beadle",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Nate Taylor",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Nira Khurana",
+      "affiliation": "Excelsior",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Flannery",
+      "affiliation": "SB Nation",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rachel Nichols",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Reggie Miller",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Richard Walker",
+      "affiliation": "Gaston Gazette",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial-Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ryan Wolstat",
+      "affiliation": "Toronto Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC/ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Sekou Smith",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "CSN New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Marquese Chriss",
+          "playerTeam": "PHO"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jamal Murray",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Kyler",
+      "affiliation": "Basketball Insiders",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Smith",
+      "affiliation": "Turner",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "TJ Manotoc",
+      "affiliation": "ABC-CBN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Jones",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Goodwill",
+      "affiliation": "CSN Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Weiping Zhang",
+      "affiliation": "CCTV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Joel Embiid",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Yoko Miyaji",
+      "affiliation": "Sports Graphic Number",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Willy Hernangomez",
+          "playerTeam": "NYK"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Malcolm Brogdon",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Dario Saric",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Buddy Hield",
+          "playerTeam": "SAC"
+        }
+      ]
+    }
+  ]
+}

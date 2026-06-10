@@ -1,0 +1,7287 @@
+{
+  "year": "2016",
+  "award": "All-Defensive",
+  "awardType": "team",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Adrian Chavarria",
+      "affiliation": "KEYH 850 AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trevor Ariza",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeMarcus Cousins",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Vasquez",
+      "affiliation": "Bergen Record",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Bill Simmons Podcast/HBO",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Wennington",
+      "affiliation": "ESPN AM 1000",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        }
+      ]
+    },
+    {
+      "voter": "Brendan Brown",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Davis",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mike Scott",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Sieman",
+      "affiliation": "The Beast 980",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Buckner",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Cedric Maxwell",
+      "affiliation": "98.5 The Sports Hub",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Dwyane Wade",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Marlowe",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Cooperstein",
+      "affiliation": "ESPN 103.3",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Woike",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Dante Marchitelli",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "David Mayo",
+      "affiliation": "Mlive Media Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "David Wesley",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kristaps Porzingis",
+          "playerTeam": "NYK"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Neumann",
+      "affiliation": "ESPN 580 AM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Diamond Leung",
+      "affiliation": "Bay Area News Group",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andrew Bogut",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Johnson",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Harrison Barnes",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Sefko",
+      "affiliation": "Dallas Morning News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Wesley Matthews",
+          "playerTeam": "DAL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kent Bazemore",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Reid",
+      "affiliation": "Fox Sports Sun",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Smith",
+      "affiliation": "TSN 1050/Sportsnet 590 The Fan",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Fred McLeod",
+      "affiliation": "Fox Sports Ohio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "George Blaha",
+      "affiliation": "WMGC / Fox Sports Detroit",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Glenn Consor",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ian Eagle",
+      "affiliation": "YES Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ira Winderman",
+      "affiliation": "South Florida Sun Sentinel",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jack Armstrong",
+      "affiliation": "SportsNet/TSN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Bismack Biyombo",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LaMarcus Aldridge",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Kosmicki",
+      "affiliation": "Altitude Radio Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "Akron Beacon Journal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trevor Ariza",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Turner",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Barnett",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeMarcus Cousins",
+          "playerTeam": "SAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Spanarkel",
+      "affiliation": "YES Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Derrick Favors",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kent Bazemore",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "John Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "John Michael",
+      "affiliation": "Cavaliers Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kent Bazemore",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Jose Paneda",
+      "affiliation": "WAQI Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kevin Durant",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nicolas Batum",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Zumoff",
+      "affiliation": "Sixers TV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Bullard",
+      "affiliation": "Root Sports Southwest",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Trevor Ariza",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Pinto",
+      "affiliation": "WWLS / 98.1",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Smith",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Luc Mbah a Moute",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Roberson",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "The Rivard Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Rice",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Mike Conley",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Neil Funk",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "The Arizona Republic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Southeast",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Phil Chenier",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Al Horford",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Hastings",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Victor Oladipo",
+          "playerTeam": "ORL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WRNO 99.5 FM",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "CSNNE.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Stacey King",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Buckhantz",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "John Wall",
+          "playerTeam": "WAS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Martin",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "George Hill",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Patrick Beverley",
+          "playerTeam": "HOU"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "The Record",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Klay Thompson",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Kempton",
+      "affiliation": "KTAR Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Nicolas Batum",
+          "playerTeam": "CHA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Roye",
+      "affiliation": "KNBR Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Andrew Bogut",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tim Duncan",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Andre Iguodala",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        }
+      ]
+    },
+    {
+      "voter": "Tom Heinsohn",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Al Horford",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tom McGinnis",
+      "affiliation": "Sixers Radio",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Serge Ibaka",
+          "playerTeam": "OKC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Anthony Davis",
+          "playerTeam": "NOP"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Ellis",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Tony Allen",
+          "playerTeam": "MEM"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "LeBron James",
+          "playerTeam": "CLE"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Kentavious Caldwell-Pope",
+          "playerTeam": "DET"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Danny Green",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "allNbaTeam": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Rudy Gobert",
+          "playerTeam": "UTA"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Chris Paul",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "1st",
+          "player": "Jimmy Butler",
+          "playerTeam": "CHI"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul George",
+          "playerTeam": "IND"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Paul Millsap",
+          "playerTeam": "ATL"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "DeAndre Jordan",
+          "playerTeam": "LAC"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Avery Bradley",
+          "playerTeam": "BOS"
+        },
+        {
+          "allNbaTeam": "2nd",
+          "player": "Ricky Rubio",
+          "playerTeam": "MIN"
+        }
+      ]
+    }
+  ]
+}

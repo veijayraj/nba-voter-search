@@ -1,0 +1,2737 @@
+{
+  "year": "2015",
+  "award": "ROY",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Adrian Chavarria",
+      "affiliation": "KEYH 850 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Andy Vasquez",
+      "affiliation": "Bergen Record",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Antonio Harvey",
+      "affiliation": "Fox Sports Radio/620AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "Foxsports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Grantland",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Wennington",
+      "affiliation": "WMVP AM 1000",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Worrell",
+      "affiliation": "Root Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Fitzgerald",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Sieman",
+      "affiliation": "The Beast 980 AM FM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Buckner",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Cedric Maxwell",
+      "affiliation": "WEEI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN The Magazine",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Carrino",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Dempsey",
+      "affiliation": "Denver Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Haynes",
+      "affiliation": "Northeast Ohio Media Group/Cleveland.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Mannix",
+      "affiliation": "Sports Illustrated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Cooperstein",
+      "affiliation": "ESPN 103.3",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Swirsky",
+      "affiliation": "WMVP AM 1000",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Woike",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dante Marchitelli",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Darnell Mayberry",
+      "affiliation": "Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Johnson",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "David Mayo",
+      "affiliation": "Mlive Media Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dell Curry",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Neumann",
+      "affiliation": "ESPN 580 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Diamond Leung",
+      "affiliation": "Bay Area News Group/Contra Costa Times",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Smith",
+      "affiliation": "TSN 1050/Sportsnet 590 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ethan Skolnick",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Fred McLeod",
+      "affiliation": "Fox Sports Ohio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "George Blaha",
+      "affiliation": "WMGC / Fox Sports Detroit",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Glenn Consor",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jackson",
+      "affiliation": "Sun Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Kosmicki",
+      "affiliation": "Altitude Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Jusuf Nurkic",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "Akron Beacon Journal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Turner",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Cowley",
+      "affiliation": "Chicago Sun-Times",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Goodman",
+      "affiliation": "Miami Herald",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "John Reid",
+      "affiliation": "New Orleans Times Picayune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Ding",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "Yahoo! Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Zumoff",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Followill",
+      "affiliation": "TXA-21/Fox Sports Net",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Pinto",
+      "affiliation": "WWLS / 98.1",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Smith",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Gorman",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Inglis",
+      "affiliation": "WAXY Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Rice",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Molly Sullivan",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Tennessee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Phil Chenier",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Rusty Simmons",
+      "affiliation": "San Francisco Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Hastings",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Jordan Clarkson",
+          "playerTeam": "LAL"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WWL 105.3 FM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Sherman Hamilton",
+      "affiliation": "NBA TV Canada",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Sherrod Blakely",
+      "affiliation": "Comcast SportsNet",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stefan Bondy",
+      "affiliation": "New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Albert",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Marcus Smart",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Popper",
+      "affiliation": "The Record",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Kempton",
+      "affiliation": "KTAR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "2nd",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Ellis",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        }
+      ]
+    },
+    {
+      "voter": "Walt Frazier",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Elfrid Payton",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "Grantland",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andrew Wiggins",
+          "playerTeam": "MIN"
+        },
+        {
+          "place": "2nd",
+          "player": "Nikola Mirotic",
+          "playerTeam": "CHI"
+        },
+        {
+          "place": "3rd",
+          "player": "Nerlens Noel",
+          "playerTeam": "PHI"
+        }
+      ]
+    }
+  ]
+}

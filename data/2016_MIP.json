@@ -1,0 +1,2737 @@
+{
+  "year": "2016",
+  "award": "MIP",
+  "awardType": "ranked",
+  "votes": [
+    {
+      "voter": "Aaron Falk",
+      "affiliation": "Salt Lake Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Adam Himmelsbach",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Alan Horton",
+      "affiliation": "WCCO 830-AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Andre Aldridge",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Anthony Slater",
+      "affiliation": "The Oklahoman",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Land",
+      "affiliation": "Fox Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Oram",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Reiter",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Schoening",
+      "affiliation": "WOAI Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Bill Simmons",
+      "affiliation": "Bill Simmons Podcast/HBO",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Fitzgerald",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Bob Rathbun",
+      "affiliation": "Fox Sports South",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Brendan Brown",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Mahoney",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Scalabrine",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Russell Westbrook",
+          "playerTeam": "OKC"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Brian Windhorst",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Candace Buckner",
+      "affiliation": "Indianapolis Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Charles Gardner",
+      "affiliation": "Milwaukee Journal Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Broussard",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Carrino",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Denari",
+      "affiliation": "Fox Sports Indiana",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Ian Mahinmi",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Marlowe",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Chris Sheridan",
+      "affiliation": "Sheridanhoops.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Cooperstein",
+      "affiliation": "ESPN 103.3",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Chuck Swirsky",
+      "affiliation": "ESPN AM 1000",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Craig Ackerman",
+      "affiliation": "Sportstalk 790 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dan Woike",
+      "affiliation": "Orange County Register",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Dante Marchitelli",
+      "affiliation": "Fox Sports Florida",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Dave Johnson",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "David Aldridge",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "David Mayo",
+      "affiliation": "Mlive Media Group",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Reggie Jackson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "David Wesley",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Dennis Neumann",
+      "affiliation": "ESPN 580 AM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Doris Burke",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Doug Smith",
+      "affiliation": "The Toronto Star",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ian Mahinmi",
+          "playerTeam": "IND"
+        }
+      ]
+    },
+    {
+      "voter": "Dwain Price",
+      "affiliation": "Ft. Worth Star Telegam",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Eddie Johnson",
+      "affiliation": "Fox Sports Arizona",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Hasseltine",
+      "affiliation": "92.9 FM ESPN/680 AM ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Eric Smith",
+      "affiliation": "TSN 1050/Sportsnet 590 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Ernie Johnson",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Fran Blinebury",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Frank Isola",
+      "affiliation": "Sirius Radio/New York Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Fred McLeod",
+      "affiliation": "Fox Sports Ohio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Gerould",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Gary Washburn",
+      "affiliation": "Boston Globe",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Glenn Consor",
+      "affiliation": "106.7 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Grant Napear",
+      "affiliation": "Comcast SportsNet-CA",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Howard Beck",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Hubie Brown",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ira Winderman",
+      "affiliation": "South Florida Sun Sentinel",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Israel Guttierez",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Fournier",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "JA Adande",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jack Armstrong",
+      "affiliation": "SportsNet/TSN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Fournier",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Jones",
+      "affiliation": "Sacramento Bee",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Reggie Jackson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Kosmicki",
+      "affiliation": "Altitude Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Gary Harris",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lieser",
+      "affiliation": "Palm Beach Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Lloyd",
+      "affiliation": "Akron Beacon Journal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jason Quick",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff McDonald",
+      "affiliation": "San Antonio Express-News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Jeff Zillgitt",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Jerry Zgoda",
+      "affiliation": "Minneapolis Star Tribune",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Barnett",
+      "affiliation": "Comcast SportsNet Bay Area",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Paschke",
+      "affiliation": "Fox Sports Wisconsin",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Petersen",
+      "affiliation": "Fox Sports North",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Jim Spanarkel",
+      "affiliation": "YES Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Jody Genessy",
+      "affiliation": "Deseret News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Reggie Jackson",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Joe Freeman",
+      "affiliation": "The Oregonian",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Joel Meyers",
+      "affiliation": "Fox Sports New Orleans",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "John Denton",
+      "affiliation": "OrlandoMagic.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "John Krawczynski",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "John Michael",
+      "affiliation": "Cavaliers Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Jon Barry",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Rodney Hood",
+          "playerTeam": "UTA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Jonathan Feigen",
+      "affiliation": "Houston Chronicle",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Keith Pompey",
+      "affiliation": "Philadelphia Inquirer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ken Berger",
+      "affiliation": "CBSSports.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Arnovitz",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Kevin Calabro",
+      "affiliation": "ESPN Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Lang Whitaker",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Berman",
+      "affiliation": "New York Post",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Spears",
+      "affiliation": "The Undefeated",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Stein",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Marc Zumoff",
+      "affiliation": "Sixers TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Boyle",
+      "affiliation": "107.5/1070 The Fan",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Followill",
+      "affiliation": "TXA-21/Fox Sports Net",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kent Bazemore",
+          "playerTeam": "ATL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Mark Medina",
+      "affiliation": "LA Daily News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Marv Albert",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Bullard",
+      "affiliation": "Root Sports Southwest",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Matt Winer",
+      "affiliation": "NBA TV",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Cage",
+      "affiliation": "Fox Sports Oklahoma",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Smith",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        }
+      ]
+    },
+    {
+      "voter": "Michael Wilbon",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Breen",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Fratello",
+      "affiliation": "TNT",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Gorman",
+      "affiliation": "Comcast SportsNet New England",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Monroe",
+      "affiliation": "The Rivard Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Rice",
+      "affiliation": "Comcast SportsNet NW",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Mike Tirico",
+      "affiliation": "ESPN",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Neil Funk",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Fournier",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Paul Coro",
+      "affiliation": "The Arizona Republic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        }
+      ]
+    },
+    {
+      "voter": "Pete Pranica",
+      "affiliation": "Fox Sports Southeast",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Phil Chenier",
+      "affiliation": "Comcast SportsNet Mid-Atlantic",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Ralph Lawler",
+      "affiliation": "Prime Ticket",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ramona Shelburne",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Ric Bucher",
+      "affiliation": "Bleacher Report",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Kyle Lowry",
+          "playerTeam": "TOR"
+        }
+      ]
+    },
+    {
+      "voter": "Rick Bonnell",
+      "affiliation": "Charlotte Observer",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Rod Beard",
+      "affiliation": "Detroit News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Andre Drummond",
+          "playerTeam": "DET"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Boone",
+      "affiliation": "ROOT Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Ron Tillery",
+      "affiliation": "Memphis Commercial Appeal",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Royce Young",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Zach LaVine",
+          "playerTeam": "MIN"
+        }
+      ]
+    },
+    {
+      "voter": "Sage Steele",
+      "affiliation": "ABC Sports",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Amick",
+      "affiliation": "USA Today",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kawhi Leonard",
+          "playerTeam": "SAS"
+        }
+      ]
+    },
+    {
+      "voter": "Sam Smith",
+      "affiliation": "Bulls.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Scott Hastings",
+      "affiliation": "Altitude Sports & Entertainment",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Gary Harris",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Deveney",
+      "affiliation": "The Sporting News",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Sean Kelley",
+      "affiliation": "WRNO 99.5 FM",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Draymond Green",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        }
+      ]
+    },
+    {
+      "voter": "Stacey King",
+      "affiliation": "Comcast SportsNet Chicago",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        },
+        {
+          "place": "3rd",
+          "player": "Evan Fournier",
+          "playerTeam": "ORL"
+        }
+      ]
+    },
+    {
+      "voter": "Stephanie Ready",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Kent Bazemore",
+          "playerTeam": "ATL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Aschburner",
+      "affiliation": "NBA.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Holman",
+      "affiliation": "Hawks Radio Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Steve Martin",
+      "affiliation": "Fox Sports Carolinas/SportSouth",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "2nd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Ted Davis",
+      "affiliation": "WTMJ Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Capstraw",
+      "affiliation": "WFAN (660)",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Kempton",
+      "affiliation": "KTAR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Reynolds",
+      "affiliation": "Associated Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        }
+      ]
+    },
+    {
+      "voter": "Tim Roye",
+      "affiliation": "KNBR Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Stephen Curry",
+          "playerTeam": "GSW"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Tom McGinnis",
+      "affiliation": "Sixers Radio",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Tony Fiorentino",
+      "affiliation": "Fox Sports Sun",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Hassan Whiteside",
+          "playerTeam": "MIA"
+        },
+        {
+          "place": "3rd",
+          "player": "Isaiah Thomas",
+          "playerTeam": "BOS"
+        }
+      ]
+    },
+    {
+      "voter": "Vince Ellis",
+      "affiliation": "Detroit Free Press",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Jae Crowder",
+          "playerTeam": "BOS"
+        },
+        {
+          "place": "3rd",
+          "player": "Giannis Antetokounmpo",
+          "playerTeam": "MIL"
+        }
+      ]
+    },
+    {
+      "voter": "Walt Frazier",
+      "affiliation": "MSG Network",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Will Barton",
+          "playerTeam": "DEN"
+        }
+      ]
+    },
+    {
+      "voter": "Zach Lowe",
+      "affiliation": "ESPN.com",
+      "picks": [
+        {
+          "place": "1st",
+          "player": "CJ McCollum",
+          "playerTeam": "POR"
+        },
+        {
+          "place": "2nd",
+          "player": "Kemba Walker",
+          "playerTeam": "CHA"
+        },
+        {
+          "place": "3rd",
+          "player": "Ian Mahinmi",
+          "playerTeam": "IND"
+        }
+      ]
+    }
+  ]
+}
