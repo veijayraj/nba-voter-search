@@ -87,7 +87,7 @@ export function VoterProfile({ voter, onBack, onPlayerClick, onVoterClick }: Vot
     );
   };
 
-  const isTeamAward = selectedAward === "All-NBA" || selectedAward === "All-Defensive";
+  const isTeamAward = selectedAward === "All-NBA" || selectedAward === "All-Defensive" || selectedAward === "All-Rookie";
 
   const filteredVotes = useMemo(() => {
     if (!data) return [];

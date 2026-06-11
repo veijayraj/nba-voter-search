@@ -306,7 +306,7 @@ function App() {
           <>
             <div style={{ marginBottom: "var(--spacing-2xl)" }}>
               <p style={{ color: "var(--slate)", marginBottom: "var(--spacing-xs)" }}>
-                Explore voting patterns from 2018 to present
+                Explore voting patterns from 2015 to present
               </p>
               <p style={{ color: "var(--slate)", fontSize: "0.8rem", marginBottom: 0, opacity: 0.7 }}>
                 Note: 2023 All-NBA and All-Defensive voter data may be incomplete or incorrect.
