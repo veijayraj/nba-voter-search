@@ -17,6 +17,12 @@
   --gold:       #c8943a;
   --border:     rgba(156, 93, 65, 0.22);
 
+  /* Darkened slate for muted text on LIGHT (cream/parchment) surfaces.
+     Plain --slate (#97928A) only clears WCAG AA on the dark header/table
+     backgrounds; on light it measures ~2.5:1, so informational text uses
+     this instead (~5:1 on parchment, ~5.6:1 on cream). */
+  --slate-text: #645e55;
+
   /* Semantic aliases kept for backwards-compat with any inline styles */
   --bg-primary:    var(--parchment);
   --bg-secondary:  var(--cream);
@@ -79,6 +85,24 @@ body {
   background: var(--cream);
   color: var(--dark);
   -webkit-font-smoothing: antialiased;
+}
+
+/* Visible keyboard-focus indicator for every interactive element.
+   :focus-visible only triggers for keyboard/AT navigation, so mouse
+   users keep the clean look while keyboard users get a clear ring. */
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* Respect users who ask for reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 /* ============================================================================
@@ -271,11 +295,11 @@ p {
 
 a {
   color: var(--rust);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
-  color: var(--gold);
+  color: var(--primary-dark);
 }
 
 /* ============================================================================
@@ -284,7 +308,7 @@ a:hover {
 
 .sec-label {
   font-family: var(--font-display);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -324,7 +348,7 @@ a:hover {
 
 .filter-label {
   font-family: var(--font-display);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -333,7 +357,7 @@ a:hover {
 
 .player-mode-select {
   font-size: 0.75rem !important;
-  color: var(--slate) !important;
+  color: var(--slate-text) !important;
   font-style: italic;
 }
 
@@ -368,6 +392,15 @@ a:hover {
   border-color: var(--rust);
 }
 
+.filters select:focus-visible,
+.filters input:focus-visible,
+.filter-group select:focus-visible,
+.filter-group input:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-color: var(--rust);
+}
+
 .filters select:hover,
 .filter-group select:hover {
   border-color: var(--blush);
@@ -388,7 +421,7 @@ a:hover {
   padding: 6px var(--spacing-md);
   border: 1px solid var(--border);
   background: var(--parchment);
-  color: var(--slate);
+  color: var(--slate-text);
   font-family: var(--font-display);
   font-size: 12px;
   font-weight: 700;
@@ -507,6 +540,12 @@ a:hover {
   border-color: var(--rust);
 }
 
+.voter-jump-input:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-color: var(--rust);
+}
+
 /* ============================================================================
    VOTER AUTOCOMPLETE (SHARED)
    ============================================================================ */
@@ -557,7 +596,7 @@ a:hover {
 .results-count {
   font-family: var(--font-body);
   font-size: 13px;
-  color: var(--slate);
+  color: var(--slate-text);
   margin-bottom: var(--spacing-lg);
   padding: var(--spacing-sm) var(--spacing-md);
   background: var(--parchment);
@@ -594,7 +633,7 @@ a:hover {
   color: var(--sand);
   font-family: var(--font-display);
   font-weight: 700;
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   position: sticky;
@@ -647,7 +686,7 @@ a:hover {
 .vote-card-affiliation {
   font-size: 12px;
   font-family: var(--font-display);
-  color: var(--slate);
+  color: var(--slate-text);
   margin-bottom: var(--spacing-md);
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -684,18 +723,18 @@ a:hover {
 
 .voter-link,
 .player-link {
-  color: var(--dark);
+  color: var(--rust);
   text-decoration: none;
   cursor: pointer;
   font-weight: 500;
   transition: color var(--transition-fast);
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid var(--rust);
 }
 
 .voter-link:hover,
 .player-link:hover {
-  color: var(--rust);
-  border-bottom-color: var(--rust);
+  color: var(--primary-dark);
+  border-bottom-color: var(--primary-dark);
 }
 
 mark {
@@ -787,7 +826,7 @@ button {
 
 .voter-stat-label {
   font-family: var(--font-display);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -847,7 +886,7 @@ button {
   margin: 0;
   padding: 6px var(--spacing-md);
   font-family: var(--font-display);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.16em;
   text-transform: uppercase;
@@ -891,8 +930,8 @@ button {
 }
 
 .voter-pick-team {
-  font-size: 11px;
-  color: var(--slate);
+  font-size: 12px;
+  color: var(--slate-text);
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -903,7 +942,7 @@ button {
 }
 
 .player-link:hover {
-  color: var(--rust);
+  color: var(--primary-dark);
 }
 
 @media (max-width: 768px) {
@@ -1110,7 +1149,7 @@ button {
 .chart-subtitle {
   font-family: var(--font-body);
   font-size: 13px;
-  color: var(--slate);
+  color: var(--slate-text);
   margin-bottom: var(--spacing-xl);
 }
 
@@ -1153,6 +1192,12 @@ button {
 
 .chart-player-input:focus {
   outline: none;
+  border-color: var(--rust);
+}
+
+.chart-player-input:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
   border-color: var(--rust);
 }
 
@@ -1200,7 +1245,7 @@ button {
 .chart-empty {
   padding: var(--spacing-2xl);
   text-align: center;
-  color: var(--slate);
+  color: var(--slate-text);
   font-family: var(--font-display);
   font-size: 13px;
   font-weight: 700;
